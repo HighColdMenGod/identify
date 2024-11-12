@@ -1,0 +1,4523 @@
+2121	0	A	okay, uh,
+2121	20	A	could you tell me what you think contributes most to, uh, air pollution?
+2121	21	B	well, it's hard to say.
+2121	2	B	i mean, while it's certainly the case that things like automobiles and factories, uh, pollute a lot, uh, if you look at how much pollution is say kicked up by an active volcano, uh, it's certainly less than clear that anything man can do in this sort of scale of things has much effect at all.
+2121	1	B	what do you think?
+2121	4	A	um, well, you talked about, uh, volcanos.
+2121	4	A	i'm not sure how many active volcanos there are now, and, and what the amount of material that they do, uh, put into the atmosphere.
+2121	2	A	i think probably the greatest cause is, uh, vehicles,
+2121	6	B	uh-huh.
+2121	7	A	especially around cities.
+2121	13	A	um, uh, do you live right in the city itself?
+2121	26	B	no,
+2121	4	B	i'm more out in the suburbs,
+2121	4	B	but i certainly work near a city.
+2121	14	A	okay,
+2121	13	A	so  ca-,
+2121	1	B	how about you?
+2121	7	A	can  you notice,
+2121	5	A	well it's, it's,
+2121	4	A	i live in a rural area.
+2121	6	B	uh-huh.
+2121	4	A	it's mainly farms and, uh, no heavy industry.
+2121	4	A	attleboro, itself,
+2121	4	A	i live in rhode island.
+2121	6	B	oh, i see.
+2121	4	A	and, it's in the north,
+2121	4	A	i live up in the, uh, northeast corner
+2121	4	A	and attleboro sits in just over the line,
+2121	6	B	uh-huh.
+2121	7	A	where t i's plant is,
+2121	4	A	but there isn't a lot of heavy industry.
+2121	4	A	there's the freeways
+2121	4	A	and we get an occasional,
+2121	4	A	it depends which way the wind's blowing from boston, cause we're like forty miles south of boston,
+2121	4	A	so we'll pick up that.
+2121	4	A	and, uh, i've noticed over the past say, maybe five or six years, uh,
+2121	4	A	we live about twenty miles away from the state airport
+2121	4	A	and i notice that the fly patterns now of the jets are getting bigger,
+2121	4	A	they're swinging wider so that now they are coming over, over our homes.
+2121	6	B	uh-huh.
+2121	2	A	and, it seems like, uh, we're catching all that residue.
+2121	4	A	i'm not sure if it's kerosene or what that's dropping.
+2121	4	A	but, other than that, you know, we don't have the, unless we're catching it from the midwest, the emissions.
+2121	6	B	yeah.
+2121	7	A	you know from the power plants. um.
+2121	29	B	you mean like from the coal.
+2121	19	A	yeah,
+2121	19	A	yeah,
+2121	4	A	we generate,
+2121	4	A	one of our, our biggest electrical plants in rhode island uses coal to, uh,
+2121	5	B	um,
+2121	7	A	generate electricity.
+2121	2	A	um, there doesn't seem to be much emission from them,
+2121	4	A	but i'm not sure about the rest of the country.
+2121	6	B	yeah,
+2121	2	B	i notice locally a major problem is kodak.
+2121	2	B	um, it's interesting
+2121	4	B	because in order to, uh, keep with the e p a standards which, which tend to be visible, uh, what's coming out of your smokestack, they do all their emissions at night.
+2121	4	B	uh, so people get up,
+2121	6	A	okay,
+2121	18	A	well, is that right? .
+2121	19	B	yeah,
+2121	4	B	people get up in the morning in that neighborhood
+2121	4	B	and they've got this black ash on their cars,
+2121	16	A	<Laughter>.
+2121	7	B	which, you know, seems to be,
+2121	6	A	yeah,
+2121	9	A	surprise, surprise.
+2121	6	B	yeah,
+2121	2	B	i mean, i really think that if the e p a had anything on the ball they'd go in there with a few phosphorous grenades, light up the sky, photograph the emissions at that point, and, uh, you know,
+2121	6	A	yeah.
+2121	2	A	there, there must be, uh, uh, some of the, some of the, uh, larger plants up, uh, up around one hundred twenty-eight.
+2121	6	B	uh-huh.
+2121	4	A	um, we've got reports that, uh,
+2121	4	A	during the night seems like they'd blow off their, their stacks from, uh,
+2121	6	B	right.
+2121	7	A	the warehouses, for powerhouses,
+2121	6	B	uh-huh.
+2121	4	A	and, they do that at night too, because,
+2121	6	B	right.
+2121	7	A	employees been complaining that the cars have been pitted, and, you know, spots all over them.
+2121	6	B	yeah,
+2121	6	B	yeah.
+2121	4	A	so, you're right,
+2121	2	A	they could do something a-. about, about that, i guess.
+2121	3	B	yeah.
+2121	2	B	that seems a little ridiculous.
+2121	1	A	how are your, uh, your lakes,
+2121	5	A	and, uh,
+2121	4	B	oh they've been getting cleaner.
+2121	13	A	they have?
+2121	23	B	sure.
+2121	5	B	but, um, yeah,
+2121	4	B	i'm not sure how much the water pollution is, is directly related to the air pollution, other than acid rain,
+2121	5	B	yeah,
+2121	30	A	acid rain,
+2121	6	A	yeah,
+2121	4	A	that's, that's what i was, uh,
+2121	4	B	i mean the stuff i've read recently in technology review basically indicates that acid rain may be a little bit, uh, overstated. that a lot of the die off they've seen in forests may not really be due to acid rain at all.
+2121	5	B	um, ye-,
+2121	28	B	i'm not an expert.
+2121	3	A	yeah,
+2121	3	A	no.
+2121	13	A	didn't they just have an article, oh, on, uh,
+2121	4	A	they were dumping lime.
+2121	6	B	up here?
+2121	4	A	up, upstate new york somewhere,
+2121	4	B	i haven't read that.
+2121	7	A	over huge areas,
+2121	6	B	oh yeah.
+2121	4	A	and they thought that was more beneficial because, you know it, it, some of it does soak in
+2121	4	A	and some of it runs off right away into the, in to the streams and rivers
+2121	4	A	and some of the fish were supposedly making a comeback.
+2121	6	B	uh-huh.
+2121	4	A	i can't remember where
+2121	4	A	i, i read that recently somewhere,
+2121	4	A	and i can't remember where.
+2121	6	B	yeah,
+2121	9	B	that's interesti-,
+2121	2	A	but i, i thought it was up there.
+2121	2	A	so, that's interesting because new hampshire,
+2121	6	B	uh-huh.
+2121	7	A	and parts of vermont, um, they showed pictures of, of extensive tree damage that they attributed to acid rain.
+2121	5	B	um.
+2121	13	A	um, you kind of think it's something else then?
+2121	39	B	well, that's what the environmentalists were claiming in this article.
+2121	5	B	so that,
+2121	29	A	oh, they didn't say, they didn't say what though,
+2121	0	A	they just said they thought it was,
+2121	23	B	they didn't say what,
+2121	4	B	they just said they thought acid rain's contribution may be less than was previously suspected. um, that it may be other natural things at work. um,
+2121	29	A	uh, natural disease,
+2121	3	B	yeah,
+2121	2	B	so it's, it's less than clear.
+2121	4	B	like i said, i don't remember the article that well.
+2121	6	A	yeah,
+2121	6	A	yeah.
+2121	28	B	but, um, i don't know,
+2121	20	B	i mean, what do you think we can, uh, i guess as individuals or as a group, do about, uh, air pollution? .
+2121	2	A	uh, we can demand, uh, more efficient automobiles for one thing.
+2121	2	A	i still think that's, that's, uh, one of our major causes of pollutants.
+2121	6	B	uh-huh.
+2121	2	A	uh, how we go about that, it's uh, uh, it's a little bit difficult.
+2121	2	B	i think it's up to individuals too, to ask automakers  for,
+2121	6	A	yeah,
+2121	7	B	for  less pollutant vehicles.
+2121	6	A	yeah,
+2121	2	A	you ne-, yo-, ne-, i think you need a, a vehicle something like, uh, ralph nader, nader's raiders,  or,
+2121	6	B	yeah.
+2121	7	A	where, uh, or,  uh, uh, a a r p, which has a lot of members.
+2121	6	B	uh-huh.
+2121	7	A	uh, if you can get those types of groups.
+2121	13	B	do you really think that new vehicles though is a big problem.
+2121	4	B	i mean, i remember reading an article that said like, it's, uh, the older polluters,
+2121	4	B	the, the twelve and fifteen year old cars, you know, contribute like ninety percent,
+2121	6	A	yeah,
+2121	7	B	of the automobile pollution
+2121	2	B	and the new cars it's hardly is, hardly anything.
+2121	3	A	yeah,
+2121	2	A	they're better,
+2121	8	A	but how about all the trucks and buses that are out there.
+2121	20	A	uh, when was the last time you saw a truck that didn't belch, smoke, or, uh,
+2121	6	B	yeah,
+2121	13	B	but doesn't that just mean they're out of tune.
+2121	27	A	uh, i'm not really sure.
+2121	13	A	you think that, that, that the, uh, the trucking indus-, industry is that, uh, incompetent, that they wouldn't, you know,
+2121	4	A	fuel is, is one of their biggest costs.
+2121	6	B	right.
+2121	5	A	so, you would,
+2121	5	B	but diesel engines.
+2121	6	A	yeah,
+2121	4	A	diesel engines.
+2121	5	B	it, you know, it's, it,
+2121	2	B	i mean, they do generate a lot of soot
+2121	2	B	but that at least, that kind of particulate comes out of the air pretty quickly.
+2121	6	A	yeah.
+2121	6	A	yeah.
+2121	4	A	we could also, uh, push for legislation for, uh, rapid transit systems.
+2121	2	A	this country seems to be a little behind on that.
+2121	6	B	yeah.
+2121	2	B	on the other hand most people don't use rapid transit because it's so inconvenient.
+2121	6	A	um, yeah,
+2121	2	A	but only because we got used to, uh, single person, single car,
+2121	6	B	uh-huh.
+2121	7	A	driving.
+2121	2	A	a lot of people don't even like to carpool.
+2121	6	B	uh-huh.
+2121	4	A	but we could that.
+2121	2	A	that'll help,
+2121	6	B	uh-huh.
+2121	7	A	pollution, air pollution,
+2121	4	A	the, uh, united states and canada are i guess, is, is, going into, uh, some types of agreements to limit, uh, what's being given out by power plants,
+2121	6	B	uh-huh.
+2121	4	A	i guess canada's quite concerned that we're sending a lot of our stuff up there,
+2121	6	B	yeah,
+2121	6	B	sure.
+2121	2	A	so that's helping.
+2121	20	B	well, what do you think about like a device, a meter right on a tail pipe
+2121	0	B	and you pay the tax based on how much you polluted?
+2121	9	A	now that's an idea.
+2121	11	A	don't say that too loud though because, uh, every city and town will have a meter on your tail pipe generating # generating revenue, #
+2121	4	B	# well, it just means if you don't pollute, right, or you pollute very little # you don't have to pay any tax
+2121	4	B	or you just buy one of these things
+2121	5	B	and it, it, uh,
+2121	2	B	maybe you, you could probably devise them so it slowly closed off your tail pipe
+2121	4	B	and, uh, the less you pollute the longer the devise lasts
+2121	4	B	and if you pollute a lot then it closed off your tail pipe
+2121	4	B	and you couldn't start your car anymore.
+2121	9	A	that's a, that's an interesting concept.
+2121	13	A	is that your idea?
+2121	19	B	yeah,
+2121	5	B	but, uh, you know, it's, uh,
+2121	2	B	i guess the difficulty would be to, that somebody could obviously just take it right off the tail pipe again
+2121	2	B	so you probably would have to build it right into # the muffler or something. #
+2121	4	A	# well i was going to say, #
+2121	3	A	right.
+2121	4	A	you could put it in, you could, you could, it could be installed like a catalytic converter.
+2121	6	B	right.
+2121	2	A	i mean i guess you could take those off too
+2121	5	A	but,
+2121	5	B	you could take ca-,
+2121	2	B	but mufflers would be a little more obvious if you took that off.
+2121	3	A	yeah,
+2121	4	A	if you can take a muffler off and only replace,
+2121	4	A	well not unless it was built into every muffler.
+2121	6	B	right.
+2121	5	A	and that's .
+2121	4	B	but if you was talking about something which was more or less universal that, uh, busses and any kind of vehicle,
+2121	16	A	
+2121	7	B	had to pay a pollution tax, uh, this would penalize the heavy polluters and not penalize the light polluters,
+2121	9	A	that's a, that's quite a concept.
+2121	2	A	you should, uh, pursue that i think, or patent it, you know.
+2121	3	B	yeah,
+2121	4	B	patent it,
+2121	2	B	that's a good idea.
+2121	2	A	if you could come up with a device that's the thing.
+2121	6	B	right.
+2121	2	A	but it shouldn't be too hard to do something like that.
+2121	4	A	but that's a, that's a thought.
+2121	5	A	no,
+2121	6	B	uh-huh.
+2121	2	A	you're right
+2121	2	A	and that will solve, uh, a lot of problems.
+2121	2	A	i don't know if you, uh, if you approached the automobile industry if they would be too keen on installing something like that.
+2121	6	B	uh-huh.
+2121	2	A	uh, but you know a proposal to, uh, uh, i guess the proper authorities,
+2121	6	B	uh-huh.
+2121	2	A	well you might, uh, generate some --
+2121	6	B	yeah,
+2121	29	B	the automobile regulatory agencies or something.
+2121	19	A	yeah,
+2121	2	A	you might generate some interest in it.
+2121	2	A	but that's, that's a good idea.
+2121	2	A	other than that i'm not sure what, what individuals can do other than like i said get involved through a group or an organization.
+2121	6	B	uh-huh.
+2131	20	B	what are your m-, music interests?
+2131	4	A	uh, just about any kind of music except acid rock ,
+2131	16	B	<Laughter>.
+2131	4	A	i, i don't care,
+2131	3	B	me, too.
+2131	7	A	for acid rock,
+2131	6	B	oh.
+2131	4	A	but, uh, i grew up with country and western,
+2131	6	B	yeah,
+2131	4	B	i did, too,
+2131	5	A	but, uh,
+2131	5	B	and then,
+2131	4	A	just about any kind of music.
+2131	4	A	i even like classical music.
+2131	6	B	yeah,
+2131	4	B	uh, i'm pretty diversified, too.
+2131	4	B	i, i don't, i don't like acid rock either.
+2131	4	B	i, i grew up in a small town
+2131	4	B	so, uh, the only, we only had one radio station
+2131	4	B	so it was country music,
+2131	6	A	yeah.
+2131	5	B	but then, uh, when i,
+2131	6	A	yeah,
+2131	4	A	i grew up with hank snow, and lefty frizzell and hank williams and all of those old country and western songs.
+2131	6	B	oh, really.
+2131	4	B	you're older than i am .
+2131	5	A	but, uh, i,
+2131	13	A	did you happen to see last night the special on channel two with james galway?
+2131	36	B	we don't get channel two.
+2131	4	B	my,
+2131	6	A	oh.
+2131	7	B	uh, our  cable doesn't,
+2131	4	B	i wish we got that what,
+2131	5	B	but,
+2131	2	A	that is fabulous.
+2131	13	B	was it?
+2131	4	B	well,
+2131	5	A	we,
+2131	7	B	we don't get channel two.
+2131	19	A	yeah,
+2131	4	A	when he played danny boy it just almost brought,
+2131	16	B	<Laughter>.
+2131	7	A	tears to your eyes, because he can make that flute sing.
+2131	18	B	oh, really?
+2131	19	A	yeah,
+2131	2	A	and, uh, it was tremendous.
+2131	5	B	now, he, he is a, uh,
+2131	4	B	actually, i did,
+2131	4	B	i played flute for,
+2131	6	A	yeah.
+2131	7	B	almost ten years
+2131	4	B	and, and, uh, so, i, i, i appreciate his too,
+2131	6	A	yeah.
+2131	7	B	his, his mus-,
+2131	13	B	he, he, he's from ireland isn't he?
+2131	19	A	yeah,
+2131	19	A	uh-huh,
+2131	4	A	and it was, uh, mostly all irish tunes,
+2131	5	B	was i-,
+2131	6	B	yeah.
+2131	4	A	they had a band with him that, uh, had a harpist and another flute and then a guy that played the bagpipes plus the, uh, tin whistle,
+2131	6	B	yeah.
+2131	7	A	and a couple of violins and, uh, drum,
+2131	6	B	uh-huh.
+2131	4	A	and they, they played all the irish jigs and so forth,
+2131	2	A	it was just fabulous.
+2131	6	B	yeah,
+2131	2	B	i, he, he is really good.
+2131	5	B	yeah,
+2131	4	B	i, i, i come from a musical background,
+2131	6	A	yeah.
+2131	4	B	so, uh, uh, i've played fl-, flute, flute and piano,
+2131	4	B	so,
+2131	6	A	yeah.
+2131	7	B	i, i, i have a b-, big appreciation for music,
+2131	6	A	yeah.
+2131	7	B	up to a point.
+2131	4	B	i, i'm getting now to the age where i don't like  the new stuff that's coming an-,
+2131	6	A	yeah.
+2131	7	B	and much of the new stuff that's coming  out,
+2131	6	A	yeah.
+2131	4	B	my husband says i'm getting old .
+2131	6	A	yeah
+2131	4	A	. i love, uh, i, li-, i especially like instrumentals.
+2131	18	B	do you?
+2131	19	A	yeah.
+2131	4	A	i love to just lay back on the couch and, and turn a good, good instrumental  on and just close my eyes and listen.
+2131	6	B	yeah,
+2131	2	B	that's, that's nice to do, that is.
+2131	4	B	i've got a, i've got a, i've got a two year old who's now getting,
+2131	4	B	i'm getting well versed in, in kiddy music .
+2131	6	A	yeah.
+2131	4	A	i'm, i've never played an instrument in my life,
+2131	4	A	i've always wanted too,
+2131	6	B	yeah.
+2131	4	A	i've always wished my parents had forced me to learn the piano or something,
+2131	6	B	yeah
+2131	16	B	<laughter>.
+2131	5	A	but, uh,
+2131	4	B	i was one of the forced ones .
+2131	4	A	but i, i'd just love to be able to go to a party or something and sit down at the piano and bang out music
+2131	4	B	oh, i could never do that .
+2131	5	A	and,
+2131	4	B	i was never that brave
+2131	5	B	but, uh, yeah.
+2131	4	A	i guess the closest i've ever come to participating in music is singing in the choir.
+2131	6	B	yeah,
+2131	6	B	oh, yeah,
+2131	4	B	i've, i've done, i've done that at church too.
+2131	6	A	yeah.
+2131	4	B	i haven't done that in a long time.
+2131	6	A	yeah.
+2131	21	B	so, let's see
+2131	21	B	what els-, .
+2131	20	B	well, what kind of music do you not like?
+2131	4	A	well, like i say the acid rock,
+2131	4	A	i just do not ca-,
+2131	4	A	an i don't care for rap music either.
+2131	5	B	oh, go-,
+2131	2	B	that's not music ,
+2131	3	A	uh-huh,
+2131	3	A	no.
+2131	2	B	that is not,
+2131	4	B	i don't know what that is,
+2131	2	B	but that's not music .
+2131	4	A	if i can't understand the words i don't want to listen to it.
+2131	2	B	well, it's, it's, it's not, it's not music,
+2131	2	B	it's just, it's just, uh, uh, talking in a beat,
+2131	2	B	it is just,
+2131	6	A	yeah.
+2131	7	B	it's  not exciting at all
+2131	2	B	it doesn't,
+2131	6	A	yeah.
+2131	7	B	it doesn't  give you relaxation,
+2131	2	B	you can't dance to it,
+2131	2	B	you can't do anything to it .
+2131	6	A	right.
+2131	4	A	but,
+2131	6	B	yeah.
+2131	7	A	i, and i love, i like orchestra music too. like the,
+2131	5	B	d-,
+2131	7	A	boston pops  or,
+2131	6	B	yeah.
+2131	7	A	or  anything.
+2131	13	B	have you ever been to the,  to, to the  dallas symphony?
+2131	19	A	uh-huh.
+2131	18	B	have you?
+2131	5	B	is i-,
+2131	13	B	are,
+2131	19	A	yeah.
+2131	7	B	are  they good?
+2131	19	A	yeah,
+2131	2	A	they're good.
+2131	18	B	are they?
+2131	4	B	i, i have, i have,
+2131	4	A	and, uh,
+2131	7	B	never been.
+2131	7	A	we went and saw, uh, l-, l-, les miserables
+2131	18	B	oh, really?
+2131	2	A	oh, the music in that was fantastic.
+2131	4	B	i, i've heard, i've heard that that is a really,
+2131	6	A	yeah.
+2131	13	B	i heard that was hard to get tickets to.
+2131	19	A	yeah,
+2131	5	A	it, it, uh,
+2131	4	A	i can't remember how far in advance we reserved,
+2131	16	B	.
+2131	7	A	tickets
+2131	4	A	but it was out, you know, out at the state fair music hall
+2131	2	A	and, uh
+2131	6	B	yeah.
+2131	6	B	yeah,
+2131	5	B	that was a real,
+2131	7	A	it was well worth the price.
+2131	18	B	was it?
+2131	19	A	yeah,
+2131	9	B	i, i bet it was,
+2131	6	A	yeah.
+2131	9	B	i, i really bet it was .
+2131	13	B	is that the only, uh, musical,
+2131	13	B	do you go see a lot of musicals?
+2131	4	A	just, just ever so often
+2131	6	B	yeah.
+2131	7	A	you know, a real, a real good one like that one
+2131	5	A	and,
+2131	2	B	that, that would be, that would be nice .
+2131	4	A	i went and saw, uh, i think it was, uh, sugar babies,
+2131	2	A	that was good,
+2131	2	A	that had good music in it.
+2131	18	B	was it?
+2131	5	B	how, how,
+2131	4	B	i can't, i don't know what that's about.
+2131	4	A	uh, that was the one with mickey rooney
+2131	20	A	and, uh, oh, what's that real, oh, not real old, my wife she is old too,
+2131	16	B	<Laughter>.
+2131	7	A	dancer, uh,
+2131	4	A	i can't think of her name.
+2131	4	A	i got it right on the tip of my tongue and can't say it, helen something.
+2131	4	B	uh, uh, uh, i think i know who you're ta-, oh, i know who you're talking about,
+2131	4	A	real long legs,
+2131	4	B	she's got black hair,
+2131	7	A	and dark hair.
+2131	6	B	yeah,
+2131	6	B	okay,
+2131	4	B	i know who your talking about.
+2131	4	B	i can't think ever her name either.
+2131	4	A	i can't think of it.
+2131	6	B	yeah,
+2131	5	B	that wa-, that was, that was,
+2131	4	B	i remember that being, uh, here a few years ago.
+2131	6	A	yeah,
+2131	16	B	<Sniffing>.
+2131	5	A	but, uh,
+2131	4	B	oh, oh, the last country music,
+2131	4	B	my, my parents still, uh, really like country,
+2131	6	A	yeah.
+2131	7	B	music
+2131	4	B	and they, they like, uh, they like the oak ridge boys and the statler brothers,
+2131	6	A	oh, yeah,
+2131	6	A	yeah.
+2131	4	B	and, and, uh, well,  my, my, my,
+2131	24	A	the blackwoods.
+2131	7	B	my  parents,
+2131	3	B	yeah,
+2131	4	B	my husband likes, uh, country music real well
+2131	4	B	and he, he likes some of the new groups like shenandoah,
+2131	6	A	yeah.
+2131	30	B	and, yeah,
+2131	4	B	he really likes shenandoah.
+2131	24	A	alabama.
+2131	3	B	yeah,
+2131	3	B	yeah,
+2131	3	B	well, yeah,
+2131	4	B	alabama,
+2131	5	A	uh,
+2131	2	B	i think, i think they're a bit over exposed .
+2131	6	A	yeah
+2131	16	A	<laughter>.
+2131	2	B	i  get kind,
+2131	16	A	.
+2131	7	B	of tire-,  get tir-, tired  of every other song being alabama on the,
+2131	6	A	yeah,
+2131	7	B	radio.
+2131	24	A	either alabama or hank williams, junior.
+2131	4	B	oh, i, i've never cared for hank,
+2131	3	A	i never have either,
+2131	7	B	williams, junior.
+2131	4	A	and i never have figured out how he won, uh, entertainer of the year for about,
+2131	6	B	oh .
+2131	7	A	three or four years in a row.
+2131	4	B	oh, we, we watch those award shows too,
+2131	4	B	we enjoy watching the country and the grammies and stuff
+2131	4	B	but i just, i just don't care for him,
+2131	6	A	yeah.
+2131	4	B	i just never have.
+2131	5	B	i don't,
+2131	4	A	i guess probably my favorite all time country and western song or singer is, uh, probably eddy arnold.
+2131	18	B	is, is it?
+2131	19	A	uh-huh.
+2131	14	B	okay,
+2131	2	B	i, i think, i, i know who that is,
+2131	14	B	uh-huh.
+2131	2	B	i think my parents have have, uh, some of his records.
+2131	4	A	but, uh,
+2131	6	B	yeah.
+2131	7	A	i got a, i've  got about a hundred and, or had  a, uh, some,   uh, i sold some of them, i had about a hundred and fifty old seventy-eight r p m records of country and western,
+2131	9	B	wow.
+2131	7	A	songs,
+2131	13	A	smiley burnette, i don't know if you were old enough to remember him him.
+2131	4	B	i've heard the name.
+2131	4	A	he was, uh, played in the old western movies.
+2131	2	A	he was the sidekick of gene autry i believe
+2131	5	B	huh.
+2131	5	A	or they,
+2131	2	A	i think his name in, in the movie was froggy
+2131	5	A	and,
+2131	4	B	i've, i've never seen a gene autry movie,
+2131	4	A	had a real raspy voice,
+2131	5	B	huh.
+2131	5	A	and, uh,
+2131	0	B	no,
+2131	4	B	i never have .
+2131	4	A	some of those old ones, of course, bob wills, miss texas playboys
+2131	6	B	yeah.
+2131	7	A	ernest tubbs and red foley an,
+2131	6	B	yeah,
+2131	4	B	those go back quite a way .
+2131	6	A	yeah.
+2131	4	A	i took them up here to collectors rector-, records and was able to get a little money for them
+2131	6	B	yeah.
+2131	4	A	but, uh,
+2131	5	B	it's hard to,
+2131	7	A	my m-, mother and dad use to, uh, own a restaurant,
+2131	6	B	oh, yeah.
+2131	4	A	and he had, uh, they had a, uh, nickelodeon, of course, in the restaurant,
+2131	6	B	yeah.
+2131	4	A	and when they would come and change the records the guys would, the guy would give her the old records
+2131	5	B	well, that wou-,
+2131	9	B	that's neat.
+2131	4	A	so, that's where i got my,
+2131	2	B	that would be gr-, great if they weren't too worn out,
+2131	6	A	yeah.
+2131	7	B	at the time.
+2131	2	A	of course, there's not a whole lot of market for seventy-eight r p m records.
+2131	13	B	is there not?
+2131	2	B	you, you'd, well you'd think there would be.
+2131	2	A	well, the problem is most of the record players now will not play them because,
+2131	3	B	well, that's true.
+2131	7	A	you have to have that needle, that, uh, particular kind of needle
+2131	6	B	oh, yeah.
+2131	4	A	and, uh, they,
+2131	16	B	<Breathing>.
+2131	7	A	just won't play on a modern day, uh
+2131	9	B	well, that's a shame
+2131	7	A	phonograph.
+2131	4	B	because i, i, we go to antique stores a lot
+2131	4	B	and you see seventy-eights,
+2131	6	A	yeah.
+2131	7	B	a, a lot at, at the stores,  a-, a-, at record stores,
+2131	2	B	you'd,
+2131	6	A	yeah.
+2131	7	B	think there'd be a market for,
+2131	2	B	i'm, i'm sure you could find old players for them
+2131	2	B	but that would cost a fortune,
+2131	6	A	yeah.
+2131	7	B	if you could find them that worked .
+2131	6	A	yeah.
+2131	6	B	oh.
+2131	2	A	of course, they, you know, just don't have the quality of records nowadays either because,
+2131	3	B	no.
+2131	7	A	you, you get that scratchy sound.
+2131	6	B	uh-huh.
+2131	13	B	well, those things were big and thick weren't they?
+2131	19	A	yeah,
+2131	19	A	yeah.
+2131	2	B	you could kill somebody with them .
+2131	6	A	yeah,
+2131	5	A	th-,
+2131	4	A	warped real easy.
+2131	2	B	and the ones you buy,
+2131	11	B	go out and buy one now
+2131	2	B	and they're just so thin and,
+2131	6	A	yeah.
+2131	7	B	flimsy
+2131	2	B	and they just, they're not meant to last,
+2131	6	A	yeah.
+2131	7	B	at all,
+2131	2	B	ne-, neither are tapes.
+2131	4	B	i, i bu-, we buy cassette tapes,
+2131	6	A	yeah.
+2131	4	B	and machines will eat them,
+2131	6	A	yeah.
+2131	2	B	and so, the best bet, any, anymo-, these days are compact disk,
+2131	2	B	those things are practically indestructible .
+2131	4	A	but, i, i guess, you know, the old country and western music you,
+2131	4	A	back then when i was a kid, there wasn't that much t v,
+2131	6	B	oh, no.
+2131	4	A	so that's all you had to listen to was the,
+2131	24	B	radio.
+2131	7	A	radio,
+2131	5	A	and, uh,
+2131	4	B	tha-, that's just what, just what you had,
+2131	5	B	we-,
+2131	5	B	plus,
+2131	6	A	yeah.
+2131	2	B	i think it was better back then to,
+2131	2	B	th-, there's too much t v now
+2131	6	A	yeah.
+2131	2	B	and the radio is, you know, more exciting,
+2131	6	A	yeah.
+2131	7	B	really, than, than television,
+2131	5	B	kep-,
+2131	5	B	your imagination --
+2131	6	A	yeah.
+2131	5	B	i-, i-, kept
+2131	5	B	and yo-,
+2131	2	B	it just didn't vegetate your mind like television does .
+2131	6	A	yeah,
+2131	4	A	i remember mother and dad always turned on the grand ole opera.
+2131	6	B	oh, yeah.
+2131	30	A	yeah.
+2131	13	B	was it on the radio every week?
+2131	19	A	yeah.
+2131	20	B	wha-, what day, what day was that on,
+2131	13	B	do you,  ha-, can you  recall.
+2131	2	A	uh, uh, seems like it was on a friday,
+2131	5	B	uh.
+2131	5	A	friday or,
+2151	0	B	okay.
+2151	30	A	okay.
+2151	20	B	well what do you think about the idea of, uh, kids having to do public service work for a year?
+2151	13	B	do you think it's a ,
+2151	2	A	well, i, i think it's a pretty good idea.
+2151	2	A	i think they should either do that, or, or afford some time to the military, or, or helping elderly people.
+2151	3	B	yes,
+2151	3	B	yes,
+2151	5	B	def-,
+2151	2	A	i, i, you know, i think that we have a bunch of elderly folks in the country that could use some help
+2151	2	A	and i think that before we expend all our young talent overseas and, and helping other countries we ought to perhaps give a little bit of our help to our own folks at home
+2151	2	A	and
+2151	3	B	that's true.
+2151	7	A	i'm not sure that that's not a bad idea
+2151	2	A	and, or the military for a year or two,
+2151	6	B	yeah.
+2151	7	A	wouldn't be bad for,
+2151	2	A	i think it teaches kids how to grow.
+2151	1	A	how about yourself?
+2151	3	B	uh, i agree with you.
+2151	4	B	uh, uh, what i'm thinking about is back , well, when i was a kid, and much earlier than that, kids were kind of, i-, i-,
+2151	2	B	you know, the parents kind of pushed them to join, like the boy scouts or girl scouts
+2151	2	B	and they did, do, do do a lot of public service activities,
+2151	2	B	but these days they're not, uh,
+2151	2	B	par-, parents aren't encouraging their kids to do things like that.
+2151	4	B	because when i was in the girl scouts, we did a lot of public service things, because that's just part o-, of, of the scouting, and, you know.
+2151	6	A	yeah,
+2151	5	A	i've, i've,
+2151	2	A	that's really great.
+2151	2	A	i, i really think that both the boy scouts and girl scouts is a excellent, two excellent organizations.
+2151	3	B	they are
+2151	5	B	but parents,
+2151	2	A	you know, kids seem like when they get ten or twelve years old they fall out of that,
+2151	3	B	yeah,
+2151	3	B	they do.
+2151	2	A	and they don't follow it at all, you know.
+2151	2	A	there are very few scouts go on,
+2151	3	B	oh, no.
+2151	7	A	and become eagle scouts.
+2151	4	A	and, and i don't know what the high rank is for the gals
+2151	5	A	but,
+2151	5	B	i, i, uh,
+2151	4	B	senior.
+2151	6	A	oh.
+2151	30	A	senior,
+2151	14	A	okay.
+2151	5	A	so, there's not, uh,
+2151	5	B	oh, they're just not,
+2151	2	B	once they get into junior high it just,
+2151	6	A	yeah,
+2151	2	A	they, they lose interest.
+2151	7	B	not done anymore .
+2151	2	A	and then when they young, young adults,
+2151	6	B	uh-huh.
+2151	7	A	there's even less interest there.
+2151	2	A	they're more for, i g-,
+2151	24	B	me .
+2151	5	A	not, not,
+2151	3	A	yeah.
+2151	4	B	grab,
+2151	4	B	grab,
+2151	4	B	grab,
+2151	4	B	walk out .
+2151	3	A	yeah,
+2151	2	A	you're absolutely right .
+2151	6	B	yeah
+2151	16	B	<sniffing>.
+2151	2	A	i think it's a really a good thing.
+2151	4	A	i, i like to see,
+2151	2	A	of course, there's, you know, third world countries that can use all kind of help .
+2151	6	B	yeah,
+2151	2	B	but there's a lot that can be done right here in this country,
+2151	2	A	but i think,
+2151	7	B	too.
+2151	7	A	we ought to start right here at home.
+2151	5	A	i'm, you know,
+2151	6	B	yeah,
+2151	2	B	uh, i'm not, i'm not so sure that overseas help, helping overseas would be such a hot idea for, for, uh, a lot of young k-, people.
+2151	3	A	no,
+2151	5	A	it, it,
+2151	2	B	but, since there is much that needs to be done here.
+2151	2	A	i think that, yeah, i think that we need to really address what we've done here
+2151	2	A	and, and then perhaps even a six month tour overseas that gives them much broader outlook.
+2151	6	B	uh-huh.
+2151	2	A	well, it's been really good.
+2151	4	A	we talked about this for a few minutes,
+2151	4	A	and, uh, hopefully, we'll have other good topic maybe another call someday,
+2151	4	A	but i, i don't really have too much more to say on this topic, i guess.
+2151	6	B	no,
+2151	4	B	i, i agree with you .
+2151	2	A	it, we, i guess we both agree that it's a good thing,
+2151	6	B	yeah.
+2151	7	A	that they should do sometime.
+2151	3	B	okay.
+2151	12	A	well you take care,
+2151	12	A	and, and,
+2151	12	B	you, too.
+2151	7	A	enjoy the day.
+2151	12	B	you, too.
+2151	38	A	thank you, ma'am.
+2151	12	A	bye-bye.
+2151	12	B	bye-bye.
+2229	13	A	do yo-, are you on a reg-, regular exercise program right now?
+2229	19	B	yes,
+2229	4	B	and i hate it .
+2229	16	A	<Laughter>.
+2229	1	B	how about you?
+2229	4	A	oh, well, i'm kind of off and on.
+2229	30	B	off and on
+2229	4	B	well, i guess i've been kind of off and on
+2229	4	B	i've, uh,
+2229	4	A	right now i'm kind of off.
+2229	7	B	had some health problems that have led me to, uh,
+2229	4	B	i'd say more on than off .
+2229	6	A	okay,
+2229	20	A	what type of exercise do you do?
+2229	4	B	uh, i do walking on the treadmill,
+2229	4	B	and then i do low impact aerobics.
+2229	14	A	okay.
+2229	13	A	i guess you don't enjoy that very much.
+2229	36	B	not, not really.
+2229	13	A	do you find that, uh, to be boring?
+2229	19	B	yeah,
+2229	4	B	and time consuming,
+2229	2	B	i mean it's not just the exercise that's boring and time consuming,
+2229	2	B	it's, uh, you know, afterwards, you know,
+2229	2	B	then you have to take a shower and get cleaned up, you know.
+2229	6	A	yeah.
+2229	16	B	<Laughter>.
+2229	4	A	well, i'm trying to get back in shape for softball this spring.
+2229	6	B	oh, yeah.
+2229	5	A	but i,
+2229	13	B	do you go through this, is this something that you go through every year .
+2229	19	A	yeah,
+2229	4	A	i haven't decided whether, whether i want to play yet or not
+2229	4	A	i just bought myself a solo flex machine,
+2229	13	A	i don't know if you've seen those advertised on t v.
+2229	19	B	uh-huh.
+2229	4	A	it's one of those, uh, universal type machines, exercise machines.
+2229	4	A	but i haven't really sat down and used it match yet,
+2229	4	A	so it's collecting dust right now.
+2229	6	B	yeah,
+2229	2	B	a lot of things do that.
+2229	4	B	i had an,
+2229	4	A	i used to jog somewhat.
+2229	7	B	i had an  exercise bike
+2229	4	B	i use to have one,
+2229	4	B	and i finally got rid of sit cause i never used it,
+2229	4	B	but i do use my treadmill .
+2229	6	A	uh-huh,
+2229	9	A	well, that's good.
+2229	5	A	yeah,
+2229	4	A	my parents have a treadmill
+2229	5	A	it's,
+2229	4	A	when i go visit them, uh, i get on that thing every now and then.
+2229	6	B	yeah,
+2229	2	B	it's nice because when the weather's bad you can't, you don't have any excuse.
+2229	6	A	uh-huh,
+2229	4	A	i just got the bicycle out today,
+2229	4	A	and it was real nice outside,
+2229	4	A	had to get out to do something.
+2229	6	B	yeah,
+2229	4	B	i can't ride a bike
+2229	5	B	so.
+2229	4	A	i've been sitting in here in the house all weekend with a cold
+2229	4	A	so thought i,
+2229	6	B	oh.
+2229	7	A	better, better get outside and do something and not waist the day.
+2229	6	B	yeah,
+2229	2	B	it's too nice,
+2229	2	B	it's been too nice all weekend.
+2229	6	A	but, uh, yeah,
+2229	2	A	i need to start jog something again.
+2229	2	A	i've always of that to be, uh, really one of the best forms of exercise,
+2229	2	A	but it's terribly boring,
+2229	4	A	and so i really don't ever keep a program up consistently.
+2229	13	B	have you ever had any injuries from jogging?
+2229	26	A	no,
+2229	4	A	i never have.
+2229	2	A	well, i don't job enough i think to develop any injuries
+2229	4	A	i usually only go about a mile or two.
+2229	4	B	i guess it worries me about jogging it's that i hear that it's very hard on your body and, and that, you know, you can end up getting hurt,
+2229	6	A	yeah,
+2229	7	B	worse.
+2229	2	A	it's, it's tough on the joints if you jog on concrete,
+2229	6	B	uh-huh.
+2229	7	A	or on asphalt.
+2229	2	A	suppose to be much better if you find grass, uh, or, or dirt to jog on.
+2229	6	B	yeah,
+2229	2	B	that's not quite  so  ,
+2229	2	A	you have to have the right,
+2229	7	B	so  easy.
+2229	7	A	type of shoes too,
+2229	2	A	that's,
+2229	6	B	yeah.
+2229	7	A	very important.
+2229	6	B	yeah.
+2229	4	B	i found that,
+2229	5	A	but,
+2229	7	B	true especially from walking on toe and fronts .
+2229	6	A	yeah,
+2229	4	A	i don't have to buy jogging shoes all to often
+2229	4	A	my don't get very much use .
+2229	2	B	well, i guess my breakdown about, they say about every six months.
+2229	6	A	uh-huh.
+2229	4	A	i usually enjoy the exercise i do
+2229	4	A	but, uh, like i said i'm just not very consistent about maintaining a, a program.
+2229	4	A	so i'll, i'll bicycle
+2229	4	A	i get into that for, for a little while and maybe go out, uh, on a consistent basis every couple of days and ride a bike for awhile,
+2229	4	A	but then i'll get tired of doing that,
+2229	16	B	<Laughter>.
+2229	7	A	and maybe start jogging again and go out about three or four nights a week.
+2229	16	B	.
+2229	4	A	but, uh, that gets old too in a very short order,
+2229	6	B	yeah.
+2229	4	A	i'm, i'm hoping that this, uh, solo flex will, uh, uh, change things a little bit,
+2229	4	A	i really need to get on a regular type of program and use that thing on a consistent basis.
+2229	6	B	yeah,
+2229	11	B	well, don't let it collect dust.
+2229	11	B	at least exercise while dusting it off .
+2229	6	A	yeah.
+2229	6	B	well.
+2229	4	A	maybe if i can get interested in playing softball again this string i can, uh, start some type of, uh, regular program.
+2229	6	B	yeah,
+2229	9	B	that, that'll be good.
+2229	4	A	i've always found that, uh, when you write things down and set goals it's a lot easier to keep, uh, keep something going.
+2229	6	B	uh-huh.
+2229	4	A	uh, when i was in high school we had a choice of, uh, taking, uh, physical education courses on exercise,
+2229	4	A	an, uh, one of those involved a six weeks session on a universal machine, lifting weights and,
+2229	6	B	oh.
+2229	7	A	uh, working out like that.
+2229	4	A	and that was very helpful
+2229	4	A	we kept charts of our progress,
+2229	6	B	uh-huh.
+2229	7	A	and, uh, consistently increased the empty of resistance so you could see how much you improved over the weeks.
+2229	4	A	i found that to be, uh, very helpful.
+2229	13	B	are you going to do that?
+2229	27	A	uh, i need to,
+2229	16	B	<Laughter>.
+2229	4	A	i haven't started yet
+2229	2	A	but, uh, it's a thought.
+2229	2	B	well, that sounds like something good to do then.
+2229	2	A	sounds like something i should do.
+2229	6	B	yeah,
+2229	2	B	nice way to start off this spring.
+2229	16	A	<Laughter>.
+2229	7	B	get back in shape.
+2229	20	A	how often do you, uh, uh, go out each week on your walking?
+2229	4	B	well, i do,
+2229	4	B	i switch every other day
+2229	4	B	one day i walk
+2229	4	B	and one day i do the aerobics.
+2229	14	A	okay,
+2229	20	A	how far, about how far do you go walking?
+2229	21	B	well, i'm trying to get my tolerance now
+2229	4	B	i just had surgery, um, less then two months ago,
+2229	4	B	and right now i'm just a little over about a mile and a half,
+2229	14	A	okay.
+2229	4	B	but i'm trying to workup to three miles.
+2229	9	A	well, that's good.
+2229	2	A	well they say that walking is just as good if not better then jogging.
+2229	6	B	yeah,
+2229	5	A	it,
+2229	2	B	it takes, it's just that it takes longer to get to the same effect.
+2229	6	A	sure.
+2229	6	B	yeah,
+2229	5	B	but.
+2229	2	A	well, if you keep up with a consistent pace just to, uh, keep the heart rating going, uh,
+2229	4	B	my walkman broke,
+2229	6	A	yeah.
+2229	4	B	so i'm upset ,
+2229	16	A	<Laughter>.
+2229	4	B	and i just have to turn to stereo up real loud .
+2229	6	A	yeah.
+2229	16	B	<Laughter>.
+2229	2	A	but it's a lot less stressful on the joints then jogging is.
+2229	3	B	yeah,
+2229	3	B	it is
+2229	5	B	and this doesn't, you know,
+2229	4	B	my treadmill has an incline
+2229	2	B	and, you know, you can get a really good workout on it.
+2229	13	A	um, do you go to an aerobics class
+2229	15	A	or do you watch,
+2229	26	B	no,
+2229	4	B	i,
+2229	7	A	on t v?
+2229	7	B	i  just do it on t v,
+2229	14	A	okay.
+2229	4	B	i have a cassette.
+2229	20	A	which, uh, shows do you watch on t v?
+2229	5	B	um, it's a, it's a tap-,
+2229	4	B	i use tapes.
+2229	14	A	oh, okay,
+2229	6	A	okay,
+2229	29	A	like a cathy smith workout,
+2229	4	B	or, or richard simmons,
+2229	24	A	or jane fonda.
+2229	16	B	<Laughter>.
+2229	14	A	okay .
+2229	29	B	sweating to the oldies .
+2229	3	A	right.
+2229	4	A	i,  ev-, every now and then i'll  watch e s p n,
+2229	4	A	i get cable on t v,
+2229	6	B	uh-huh.
+2229	4	A	and they have, uh, a couple of shows called basic training,
+2229	20	A	and, uh, what is the other one called.
+2229	4	B	there was one guy i use to watch on e s p n,
+2229	4	B	i don't know if he's still on any more or not,
+2229	4	B	i don-, i don't know if i get e s p n or not .
+2229	6	A	uh-huh.
+2229	5	B	but, uh, one, you know,
+2229	4	B	i use to watch one, watch one on the air,
+2229	4	B	but that was back,
+2229	4	A	bodies in motion that's, that's the name of the one i was thinking of.
+2229	5	B	that's was,
+2229	6	B	yeah.
+2229	7	A	with gill.
+2229	6	B	yeah.
+2229	16	A	.
+2229	6	B	yeah,
+2229	4	B	i watched that cause he was cute .
+2229	3	A	yeah,
+2229	17	A	he-, he-, he's not bad
+2229	2	A	his assistants usually aren't either.
+2229	16	B	<Laughter>.
+2229	16	A	<Laughter>.
+2229	5	B	but, uh,
+2229	4	A	they're always in, in hawaii some place.
+2229	6	B	yeah,
+2229	6	B	yeah.
+2229	7	A	on, on the beach.
+2229	4	B	but then that was back when, uh, you know, the high impact and,
+2229	6	A	yeah,
+2229	4	A	well, they, they do low i pact stuff now,
+2229	0	A	*why utt? this is notes about transcription
+2229	18	B	do they.
+2229	7	A	they're on every day.
+2229	5	B	are the-,
+2229	6	B	yeah
+2229	13	B	they're still, they're still, he's still doing it then, uh.
+2229	19	A	yeah,
+2229	4	A	every morning.
+2229	4	B	i'll have to tune in.
+2229	4	A	it's on e s p n, uh,
+2229	22	A	at what time,
+2229	4	A	i can't remember what time.
+2229	5	A	it's, uh, you know,
+2229	4	A	i can't remember offhand what time.
+2229	4	B	i'll have to  check it,    check,
+2229	6	A	yeah
+2229	16	A	.
+2229	7	B	check,   check  it  back up,
+2229	2	B	and, but the thing is everybody always looks so good on that show, at least on .
+2229	6	A	yeah,
+2229	5	A	every now and then.
+2229	2	B	not everybody has a picture perfect body.
+2229	6	A	uh-huh,
+2229	2	A	well, i found that they, they have just a much better program than the other shows that are on t v.
+2229	4	B	i haven't watch any other ones on t v.
+2229	4	A	they're on weekdays at eleven o'clock every day.
+2229	7	B	just on some of the tapes.
+2229	7	A	monday through friday incase you're interested in that.
+2229	0	A	*again why utt?
+2229	6	B	okay,
+2229	38	B	thanks.
+2229	7	A	i actually taped a few session that they had on there
+2229	4	A	but,
+2229	2	B	now, that's a thought.
+2229	7	A	uh, i haven't done so much as, uh, watch the tape that i made.
+2229	16	B	<Laughter>.
+2229	4	A	so i'm kind of bad about that myself.
+2229	4	B	well, that's thought,
+2229	4	B	i haven't thought about that,
+2229	4	B	well they're going to beep us pretty soon.
+2229	6	A	okay,
+2229	12	A	well, i sure enjoyed,
+2229	12	B	nice talking to you too.
+2229	7	A	to you about exercise and fitness.
+2229	12	B	okay,
+2229	38	B	thanks.
+2229	12	A	so, all right.
+2229	12	B	talk to you later.
+2229	12	A	good night.
+2229	12	B	bye.
+2229	12	A	bye.
+2335	1	B	so what do you think?
+2335	32	A	uh, the causes of crime?
+2335	2	A	. um, i think it was imbalance of power in the united states.
+2335	2	A	it's causing the lower class to rebel.
+2335	2	A	that's why there's su-, such high crime,
+2335	2	A	and, uh, there's crime in, uh, young people because they don't have ro-, role models
+2335	6	B	yeah.
+2335	2	A	see too much crime on t v
+2335	2	A	and they think it's the way to go.
+2335	28	A	i don't know.
+2335	1	A	what do you think?
+2335	20	B	what about,
+2335	3	B	i agree with the upper and lower level, you know
+2335	6	A	uh-huh.
+2335	2	B	because that's the lowest thing for themselves,
+2335	2	B	plus there's nobody for them to look up to.
+2335	6	A	yeah.
+2335	2	B	but i also blame some of it on parents
+2335	6	A	okay.
+2335	2	B	because parents aren't parents.
+2335	6	A	yeah.
+2335	4	B	because i remember even when i was growing up,
+2335	4	B	i'm thirty-five
+2335	6	A	okay.
+2335	4	B	i remember when i was growing up,
+2335	4	B	and i had friends,
+2335	4	B	they used to do stuff like, you know, go over to a store and steal stuff.
+2335	4	B	my mother warned us, it's like, i don't care what your friends do.
+2335	4	B	if you do it, then that was it.
+2335	6	A	yeah.
+2335	4	B	and i knew that i would get in more trouble from my mother than from
+2335	24	A	from anybody else.
+2335	7	B	from anybody else.
+2335	2	B	and i think
+2335	6	A	yeah.
+2335	7	B	that's the basic, is they have no morals any more,
+2335	2	B	so they don't care.
+2335	6	A	yeah.
+2335	5	B	so.
+2335	3	A	yeah,
+2335	3	A	i think i can agree with that too.
+2335	4	B	but now, as far as what they can do about it, i don't know.
+2335	16	A	.
+2335	2	B	you can't make parents be parents .
+2335	3	A	that's true.
+2335	2	A	you got to kind of make people want to do the right thing.
+2335	5	B	you know.
+2335	4	A	i don't know how you do that.
+2335	2	B	i guess if you gave the, gave them jobs,
+2335	2	B	that's another problem with the united states,
+2335	2	B	there's no jobs any more.
+2335	6	A	yeah.
+2335	5	B	but.
+2335	4	A	well, i've heard this one theory, that if, that if a kid commits a crime, that, uh, instead of the, prosecuting the kid, they prosecute the parent.
+2335	4	A	or both of them.
+2335	2	B	that would work to a point,
+2335	4	A	now, to put the blame on the parent.
+2335	2	B	well, that'd work to a point because some kids are just bad anyway.
+2335	2	B	i don't care what you do to them.
+2335	6	A	yeah.
+2335	5	B	you know,
+2335	2	B	so i think it depends on how much trouble that kid has been in, you know.
+2335	6	A	yeah.
+2335	2	B	because a, a, a child can get into anything regar-,
+2335	6	A	yeah.
+2335	4	B	i don't care how good you, they are.
+2335	6	A	yeah.
+2335	5	B	eventu-, at least one time,
+2335	4	B	but now if this is a repeated thing,
+2335	4	B	here with this child in juvenile,
+2335	5	B	and or, to me, yeah, both of them.
+2335	6	A	yeah.
+2335	2	B	because that means she's still not doing what she's supposed to do.
+2335	4	B	because i just watched it on t v one night on one of them, um, twenty twenty, forty-eight# hours, one of them shows#
+2335	6	A	#uh-huh.
+2335	6	A	yeah.#
+2335	7	B	where this boy had been stealing cars.
+2335	13	B	i don't know
+2335	6	A	um.
+2335	7	B	if you seen this.
+2335	4	B	it was a little, it was a little gang of them
+2335	26	A	# no,
+2335	4	A	i didn't see it.#
+2335	7	B	#stealing cars, you know,#
+2335	6	A	i understand.
+2335	4	B	and then when they caught him, you know, his mother sitting there,
+2335	33	B	now they going to take me away from you.
+2335	2	B	that meaned she was warned.
+2335	6	A	yeah.
+2335	2	B	but see, by that, i think sometimes it's a little late.
+2335	6	A	yeah.
+2335	5	B	you know,
+2335	2	B	but i'm sure there's something can be done.
+2335	6	A	yeah.
+2335	1	A	what about with adults?
+2335	13	A	anything do any about adult crime.
+2335	19	B	yeah,
+2335	11	B	start prosecuting they
+2335	4	B	but really good instead of having a revolving door on the damn court system.
+2335	6	A	yeah.
+2335	2	A	well, for one, a major problem with that is the jails are overcrowded.
+2335	2	B	well, they should start with, the,
+2335	2	B	if they would get rid of.
+2335	2	B	seems to me, i know there's a lot about court that people don't understand.
+2335	2	B	there's more people in jail right now for child support, okay
+2335	6	A	uh-huh.
+2335	7	B	then there are for people doing drugs.
+2335	6	A	um.
+2335	2	B	you ought to take all them little misdemeanor people
+2335	6	A	yeah.
+2335	11	B	let them go,
+2335	11	B	let them go
+2335	6	A	yeah.
+2335	11	B	you know, give them a fine, whatever,
+2335	11	B	make them do civic duty whatever,
+2335	3	A	# yeah,
+2335	2	A	i mean seriously,#
+2335	11	B	# put them fools in there,#
+2335	2	A	they ought to put those people to work.
+2335	4	B	i call them all fools, idiots, whatever.
+2335	6	A	yeah.
+2335	11	B	little rock stars, put all them in there.
+2335	6	A	um.
+2335	11	B	you know, the murderers, the drug dealers, the user, put them all in
+2335	5	B	jail
+2335	6	A	yeah.
+2335	7	B	you know,
+2335	11	B	and let all the normal people go
+2335	6	A	yeah.
+2335	5	B	you know, because, okay,
+2335	13	B	if you write a bad check, you go to jail, right.
+2335	19	A	yeah.
+2335	11	B	let them people go.
+2335	39	A	well.
+2335	4	B	not let them go and get out of it.
+2335	6	A	yeah,
+2335	2	A	they, #you still have to punish them#.
+2335	11	B	#let them go# and pay their crime or their time doing something else
+2335	6	A	yeah.
+2335	7	B	you know, like cleaning up the city or however they do their
+2335	6	A	yeah,
+2335	5	A	that's,
+2335	7	B	community time, you know, whatever that is .
+2335	2	B	but pu-, don't put them in jail because they're not hardened criminals.
+2335	3	A	yeah,
+2335	2	A	and they're, they're still, they can provide for society,
+2335	2	A	whereas some of them are so far gone that they can't do anything good for society.
+2335	6	B	uh-huh.
+2335	5	B	so.
+2335	28	B	i don't know,
+2335	5	B	some people, boy, they got,
+2335	2	B	i think the united states has got too many problems to be worrying about everybody else.
+2335	3	A	yeah,
+2335	2	A	that's true.
+2335	4	B	now how they going to fix it, i don't know.
+2335	2	B	i don't think there is a ready solution.
+2335	3	A	no,
+2335	2	A	i don't think so either.
+2335	5	A	uh.
+2335	2	B	because the economy is down, people, you know, the, the, the low man on the pole is getting more of the, i guess, the bulk of it.
+2335	6	A	yeah.
+2335	2	B	and he's got to work extra hard just to make ends meet.
+2335	2	A	and they keep taking more money from us
+2335	6	B	uh-huh.
+2335	5	A	and people are get,
+2335	2	A	and they don't have any incentive to work if we're just going to take fifty percent of it.
+2335	6	B	yeah.
+2335	2	A	might as well steal,
+2335	4	A	then they don't have to pay taxes on it .
+2335	3	B	that's it.
+2335	6	A	yeah.
+2335	4	B	so, you know, they, i, i, i know that's bad, but, you know, just like texas now.
+2335	6	A	uh-huh.
+2335	4	B	they could have had a lottery.
+2335	4	B	they don't want a lottery.
+2335	8	B	why not?
+2335	2	B	i would rather pay for a lottery
+2335	5	A	they'd have a,
+2335	7	B	a dollar, two, three dollars, whatever i'm paying, you know
+2335	6	A	yeah.
+2335	7	B	a week or whatever, and never see any of that money, than to have them take a portion of my paycheck.
+2335	6	A	yeah.
+2335	4	B	because, you know, they take,
+2335	4	B	and uncle sam takes his,
+2335	2	B	the social security which probably won't be here when i get that old
+2335	6	A	um.
+2335	7	B	you know.
+2335	4	B	because we're paying for social security they using now.
+2335	6	A	yeah.
+2335	20	B	who's going to pay for mine?
+2335	27	A	i don't know .
+2335	5	B	but it's, it's
+2335	4	A	i'm not counting on it.
+2335	3	B	no,
+2335	2	B	you don't count on social security.
+2335	6	A	yeah.
+2335	5	B	but, it's, it's,
+2335	4	B	that's what i'm saying,
+2335	2	B	they need to do something else.
+2335	6	A	um.
+2335	5	B	but.
+2335	2	B	crime is going to go up as long as the economy stays down.
+2335	6	A	yeah.
+2335	2	B	and it's going to get worse.
+2335	6	A	yeah.
+2335	4	B	that's just like last night they killed them people in that store.
+2335	20	B	where you at?
+2335	4	A	i'm in raleigh, north carolina.
+2335	14	B	oh .
+2335	4	B	no wonder you don't know that.
+2335	20	A	well, where are you from?
+2335	4	B	i'm in dallas.
+2335	14	A	okay.
+2335	4	B	but last night, they killed, uh, uh, four people in a chain food.
+2335	9	A	oh, man.
+2335	4	B	and killed them,
+2335	4	B	well, it was two stores side by side.
+2335	6	A	uh-huh.
+2335	4	B	one was a store and one was like a, a fast food place,
+2335	4	B	chicken or something, i don't know.
+2335	6	A	yeah.
+2335	4	B	anyway, they raped the women, beat them all up, including the women,
+2335	4	B	i mean, they just beat them.
+2335	4	B	stuck them in the freezer and then shot them all.
+2335	9	A	ow.
+2335	20	B	why was, you know, why --
+2335	24	A	why did they do in the freezer?
+2335	20	B	you know, why didn't they just,
+2335	2	B	if they was going to lock them, just lock them in the freezer, take the money, you know.
+2335	6	A	yeah.
+2335	2	B	they didn't have to kill them or rape them, or anything.
+2335	6	A	um.
+2335	6	A	um.
+2335	2	A	that's awful.
+2335	5	A	yeah,
+2335	4	A	we still get some in raleigh.
+2335	4	A	i mean, not
+2335	6	B	uh-huh.
+2335	7	A	not too often real bad ones,
+2335	5	A	but.
+2335	2	B	it's just getting really ridiculous down here.
+2335	2	B	i wish i could move somewhere where, this, you know, you got to like in the country.
+2335	2	A	i don't think there's anywhere where there isn't going to be crimes.
+2335	2	B	well, i think, if it's,
+2335	4	B	the town is smaller
+2335	6	A	uh-huh.
+2335	4	B	and everybody knows everybody
+2335	6	A	yeah.
+2335	2	B	it's harder
+2335	6	A	yeah.
+2335	7	B	to come in there and do something.
+2335	5	B	where is,
+2335	2	B	and, and, and see that's another thing.
+2335	2	B	neighborhoods aren't neighborhoods any more.
+2335	6	A	yeah.
+2335	2	B	there's nobody is next door to you,
+2335	2	B	you don't know your neighbors, and stuff like that.
+2335	6	A	yeah.
+2335	5	B	it's just, huh-uh, you know,
+2335	4	B	because i moved out some apartments before because they were loaded with drug dealers.
+2335	6	A	um.
+2335	5	B	and you didn't even,
+2335	4	B	and what the manager, the manager won't even do anything.
+2335	2	A	he's probably a drug dealer himself .
+2335	6	B	uh-huh.
+2335	2	A	you never know.
+2335	3	B	you don't.
+2335	4	B	and so i moved,
+2335	4	B	because i moved the day probably a week after one of the apartments blew up
+2335	9	A	wow.
+2335	7	B	you know,
+2335	4	B	and this is like across the street.
+2335	4	B	this was a nice part of town
+2335	6	A	um.
+2335	4	B	and there across the street one of the apartments blew up because they were having that, making that, um, crack stuff
+2335	6	A	um.
+2335	4	B	and then, the other time i saw the cops break down somebody's apartment around the corner.
+2335	4	B	i say, see, this is it.
+2335	29	A	time to go.
+2335	3	B	that's it,
+2335	4	B	and i moved.
+2335	6	A	yeah.
+2335	4	B	and, you know, now i live in like a fam-, a neighborhood in a town house,
+2335	2	B	but it's nice.
+2335	28	B	# i don't, you know.#
+2335	6	A	# yeah.
+2335	4	A	i'm kind of# in the same, same kind of deal, town house in a neighborhood.
+2335	5	B	but,
+2335	2	A	it's pretty nice.
+2335	2	B	i don't know how they can live, a neighborhood or apartment complex.
+2335	2	B	that's what happen, that's what wrong,
+2335	16	A	.
+2335	7	B	you know.
+2335	2	B	i don't think, don't rent to them .
+2335	6	A	yeah.
+2335	2	B	or rent to them and evict them because they drug dealers.
+2335	11	B	put it on the lease.
+2335	6	A	yeah.
+2335	33	B	if you deal drugs, you can't live here.
+2335	6	A	yeah.
+2335	2	A	most of them are too scared to do anything about it.
+2335	3	B	uh-huh.
+2335	3	B	that's it.
+2335	6	A	yeah.
+2335	12	A	all right.
+2335	12	A	well listen, i got to go.
+2335	12	B	all righty.
+2335	12	A	nice talking to you.
+2335	38	B	and i thank you.
+2335	12	A	all right.
+2335	12	B	bye-bye.
+2335	12	A	bye-bye.
+2434	20	B	uh, well what would you say your opinion is on gun control?
+2434	28	A	well, i don't know.
+2434	4	A	i've, i've had mixed emotions, i guess, when i listen to, uh, the radio and, and watch t v about the different, uh, things that are happening.
+2434	4	A	uh, i'm against it
+2434	4	A	but on the same token, uh, i went out and purchased a gun just because i wanted the right to do that .
+2434	5	B	# ye-, #
+2434	4	A	# so # i, i have a rifle in the house.
+2434	4	A	uh, the ammunition is probably so old i'm afraid to use it.
+2434	4	A	but, uh, i bought it for target practicing and, uh, and also because i wanted a weapon.
+2434	1	A	uh, how do you feel about it?
+2434	2	B	well, i think, uh, down here in texas they don't have a waiting period on handguns.
+2434	5	A	huh.
+2434	2	B	and, i think they need that.
+2434	4	B	uh, and i do have a, i have a pistol.
+2434	4	B	it's a little twenty-two
+2434	4	B	and i have a twenty-two or a twelve gauge shotgun.
+2434	6	A	uh-huh.
+2434	4	B	an-, you know, i do like to have my guns.
+2434	16	A	# . #
+2434	4	B	# uh, i # don't know if i'll ever use it, you know.
+2434	4	B	and like you, my bullets to my little pistol's probably, uh, about three years old .
+2434	4	B	uh, my gun hasn't been shot in a year or two.
+2434	6	A	uh-huh.
+2434	4	B	but, uh, i like to have them where handy.
+2434	4	A	well, up, uh, up in new england where i'm from, uh, you had to get a permit before you could buy any amu-, am-, ammunition.
+2434	2	A	and i thought that was really good.
+2434	2	A	and i think if they, uh,
+2434	16	B	<Child_talking>.
+2434	4	A	takes two weeks for that system to process, uh, your request for, uh, not as a gun permit but, uh, but to buy ammunition.
+2434	4	A	you have to get a permit from the police station in your local area to do that.
+2434	4	B	i've never heard of anything like that.
+2434	6	A	yeah. uh,
+2434	2	B	that would be nice.
+2434	5	B	# but, #
+2434	16	A	# . #
+2434	7	B	a-, you know,
+2434	2	B	the criminals that are going to get their guns # one #
+2434	3	A	# i # --
+2434	7	B	way or the other.
+2434	7	A	i,   i  agree.
+2434	2	A	i think, you know, one of the things that, that, that needs to happen is, uh, to, to stop the impulse buyer from, uh, buying it quickly and, and, uh,
+2434	16	B	</Child_crying>.
+2434	7	A	maybe putting a week's waiting period or something on it.
+2434	2	A	but if someone's really determined to, to pick up a firearm you can pick it up any place.
+2434	6	B	# yeah
+2434	16	B	. #
+2434	2	A	# and # you can get them really cheap.
+2434	3	B	i know
+2434	4	B	i, i had a waiting period on my pistol because i was down in, uh, tennessee.
+2434	6	A	uh-huh.
+2434	7	B	and, uh, they had a waiting period
+2434	4	B	and, uh, we bought it there.
+2434	5	B	# and, #
+2434	20	A	# how # long was the waiting period out there?
+2434	4	B	about nine days.
+2434	5	A	huh.
+2434	2	A	that wasn't too, too bad.
+2434	3	B	no.
+2434	3	B	no .
+2434	2	A	because if, if you're going to go buy something, uh, uh, of that nature, i think you, you're going to have some idea as to what you're going to do with it.
+2434	2	A	you're not going to react that quickly.
+2434	2	A	in other words, you know, you don't have a need to go buy a gun to go shoot it the next day.
+2434	5	B	th-,
+2434	2	B	somebody wants to do that,
+2434	2	B	i, i, at times i think they ought to have a waiting period on all firearms.
+2434	3	A	yeah.
+2434	2	A	i do too. uh, because it doesn't make any difference, uh, uh, whether it's a pistol or a shotgun, i suppose.
+2434	4	A	they both # do the same kind of job. #
+2434	2	B	# a shotgun hurts worse # than a pistol does.
+2434	17	A	uh, yeah.
+2434	17	A	i suppose.
+2434	4	A	i never got shot with either one.
+2434	28	A	but i don't know, uh,
+2434	2	A	i think you could recover from a pistol but not from a shotgun .
+2434	3	B	no,
+2434	2	B	a shotgun's got too much of a spread.
+2434	4	B	# or at #
+2434	6	A	# yeah. #
+2434	7	B	least ours does.
+2434	5	B	uh, it's, you know,
+2434	4	B	you have a little, uh, thing on the bo-, bottom of th-, on top of the barrel
+2434	6	A	uh-huh.
+2434	7	B	where you, you turn it,
+2434	4	B	you can make it either tight or as loose as loose can get.
+2434	6	A	oh.
+2434	4	B	and the spread changes.
+2434	4	A	uh, i've got a manual single shot
+2434	4	A	and i guess it doesn't have any, any automatic features to it.
+2434	4	A	the further away i get, the, the, uh, wider the shot gets
+2434	6	B	yeah.
+2434	7	A	from the target.
+2434	4	A	and the closer that i get, the tighter that it gets.
+2434	4	A	it's got a hell of a kick to it.
+2434	6	B	yeah.
+2434	4	B	my husband had a, uh, a police gun at one time.
+2434	4	B	and i shot that thing one time.
+2434	4	B	almost knocked me down.
+2434	16	A	# . #
+2434	5	B	# and it just a li-,
+2434	4	B	# i don-, i forget,
+2434	2	B	i think it was a three fifty-seven.
+2434	28	B	i'm not sure.
+2434	13	A	do you belong to a gun club or you?
+2434	4	B	he belonged to one awhile back.
+2434	4	B	uh, since we moved,
+2434	4	B	we've only been here in texas for about a year
+2434	6	A	uh-huh.
+2434	4	B	and, uh, we can't even find a place to shoot. # just for #
+2434	9	A	# no kidding. #
+2434	7	B	target practice.
+2434	4	B	i'd love to get used to that shotgun.
+2434	4	B	we traded his pistol for that shotgun.
+2434	4	A	huh. well the, the, uh, clubs that we've got around here are kind of expensive
+2434	2	A	but, uh, it's well worth it.
+2434	4	A	you can go down and shoot up against a sand bag and some targets and have, uh, competition.
+2434	4	A	uh, i've never really joined a club because i haven't got the time. not because i haven't got the desire.
+2434	4	A	uh, there's an annual membership fee, uh, that's, that's fairly high.
+2434	4	A	plus there's ini-, an initiation fee that you have to pay because of first time, uh, uh, member.
+2434	16	B	<Child>.
+2434	4	A	so the whole process can cost you a hundred fifty dollars to join the club.
+2434	4	A	plus you have to pay for the, the ammunition in any tournaments that you would join in.
+2434	6	B	yeah.
+2434	4	B	well, that's what my husband,
+2434	4	B	when he was in that gun club where he was doing that .
+2434	5	B	it, you know,
+2434	4	B	he went mostly just to, uh, shoot at paper targets.
+2434	6	A	uh-huh.
+2434	4	B	uh, but, you know, they used speed and accuracy and all that.
+2434	2	A	i think that, that the gun clubs serve a useful purpose.
+2434	2	A	in fact, i'd like to see somehow they tie the legislation into not only when you buy a weapon you have to, uh, show that you've gone to school or gone to some class to know how to handle that weapon.
+2434	9	B	that's a good,
+2434	4	B	i've never thought of that.
+2434	16	A	# . #
+2434	9	B	# that's # a good point.
+2434	5	A	and, you know, it, it,
+2434	2	A	even after you wait your nine days, if you don't know how to handle it, it's just like putting someone in an automobile that doesn't know how to drive.
+2434	4	A	and you give him a license because he waited nine days.
+2434	6	B	yeah.
+2434	5	B	that's,
+2434	5	B	and,  yeah.
+2434	2	A	he could, he could not only, uh, uh, shoot himself.
+2434	2	A	he could, he could, uh, mishandle a weapon. leave it at home and let a child get at it.
+2434	5	B	it,
+2434	4	B	well we, uh, we was living on a navy base down in memphis
+2434	4	B	and, uh, this one guy decided to play, uh, lonesome cowboy or something.
+2434	4	B	and he was twirling his gun around and shot himself in his foot.
+2434	9	A	wow.
+2434	2	A	he was fortunate.
+2434	4	A	he could, he could of hit something else # . #
+2434	4	B	# # well, he went tumbling down the steps along with, uh, shooting his foot almost off.
+2434	4	B	he broke his leg and
+2434	9	A	wow.
+2434	7	B	collar bone and a couple of other things # i'm sure, being, #
+2434	16	A	# . #
+2434	7	B	mister cowboy.
+2434	4	B	i can't remember what the na-, the term was going around.
+2434	4	B	it was about four or five years ago.
+2434	16	A	# . #
+2434	2	B	# but. # now, i guess that would be a good idea .
+2434	29	A	about, uh, private citizens selling a weapons?
+2434	4	A	like if you wanted to sell your pistol to me.
+2434	1	A	how do you feel about that?
+2434	13	A	do you believe there ought to be legislation guiding the, uh, buyer and the seller?
+2434	15	A	and, or do you believe that you ought to be able to sell your system, uh,
+2434	16	B	<Squeak>.
+2434	7	A	because you own it?
+2434	28	B	uh, that's a hard one because we did that.
+2434	4	B	but, uh, i think there ought to be some rule against it.
+2434	5	B	i'll, uh, you know,
+2434	2	B	the person who sells the gun ought to protect themselves because if that gun's registered to them and somebody else uses that gun in something, the cops are going to come to you.
+2434	6	A	yeah.
+2434	13	A	# i-, isn't #
+2434	5	B	# uh, #
+2434	7	A	there a way to, uh, to deregister yourself after you register a gun?
+2434	27	B	i have no idea.
+2434	4	B	# i've only #
+2434	5	A	# because i #
+2434	7	B	had one gun
+2434	4	B	and i've kept it, # d you #
+2434	7	A	# have, #
+2434	7	B	know,  the one gun that was in my name.
+2434	6	A	yeah.
+2434	13	A	is it registered?
+2434	19	B	yeah.
+2434	5	B	i-,
+2434	4	A	the, uh, the rifle that i've got is not registered,
+2434	16	B	<Noise>.
+2434	4	A	and, uh, i don't know why i never registered it
+2434	5	A	but the, uh,
+2434	2	B	i don't think you have to register a shotgun .
+2434	2	A	um, i, i think it's, it's voluntary .
+2434	5	A	the, uh, the,
+2434	4	B	well, see, uh, my husband has a thing.
+2434	4	B	if they go to, uh, regulating, uh, all right, uh, banning guns. pri-, pri-, pri-, private cit-, citizens --
+2434	6	A	yeah.
+2434	5	B	this,
+2434	4	B	my kid is jumping on me.
+2434	4	B	i can't hardly talk.
+2434	16	A	<Laughter>.
+2434	4	B	my husband feels that they'll come and collect everybody's guns.
+2434	17	A	yeah.
+2434	17	A	i guess that could happen.
+2434	2	A	it's just like the, uh, the social security system .
+2434	4	A	once they, uh, they gave everybody a number
+2434	4	A	and now they're making you, uh, uh, get one at, at birth.
+2434	16	B	<Clanging>.
+2434	4	A	# and #
+2434	6	B	# yeah. #
+2434	7	A	once they have your number, they have your identification.
+2434	2	A	and if you try to do anything, uh, like, uh, not identify yourself to the government, they know who you are.
+2434	3	B	yeah.
+2434	24	B	and everything about you.
+2434	3	A	and , that's true .
+2434	5	B	uh, i,
+2434	2	B	bu-, bu-, you know, they know so, how much money you make a week to, uh, probably your, uh,
+2434	4	B	my kid is banging.
+2434	4	B	i was seeing what they was banging on.
+2434	4	B	uh, i've lost my train of thought.
+2434	10	B	i'm sorry .
+2434	40	A	that's all right.
+2434	29	A	you, you were talking about, uh, uh,
+2434	5	B	oh, the soc-,
+2434	7	A	fed-, what the federal government knows about people.
+2434	3	B	yeah.
+2434	2	B	they, they probably know everything from, half the time wh-, ho-, what time you go to the bathroom.
+2434	3	A	# they probably do. #
+2434	31	B	# no,
+2434	2	B	that's # that's a little bit extreme.
+2434	2	B	but they could know anything and everything about you.
+2434	4	B	and, uh, i'd like to have my gun.
+2434	4	B	if they go to banding, banning them, i'd lose my gun
+2434	4	B	but we wouldn't lose our pis-, our, uh, shotgun.
+2434	6	A	yeah.
+2434	4	B	and, uh, we're wanting to get a couple of more that no one knows about.
+2434	6	A	uh-huh.
+2434	5	B	but i don't, i don't, uh ,
+2434	13	A	do you find it difficult picking up, uh, guns that, that are not registered?
+2434	26	B	no.
+2434	30	A	no.
+2434	4	A	i don't either.
+2434	4	A	i can, i can buy some, uh, today if i wanted to.
+2434	4	A	# just #
+2434	6	B	# yeah.
+2434	5	B	w-, #
+2434	7	A	you know, put up the money.
+2434	6	B	yeah.
+2434	4	B	well, you can look in the, uh, the,
+2434	4	B	we got a thing down here called a shopper.
+2434	6	A	uh-huh.
+2434	4	B	it's a, a ho-, it's a, it's a bargain thing.
+2434	4	B	uh, you go and ever-, you know, always see guns in there.
+2434	6	A	yeah.
+2434	7	B	five to seven guns a day.
+2434	4	B	it comes out every tuesday.
+2434	13	A	and there's, there's no waiting period on that.
+2434	26	B	no.
+2434	4	B	none whatsoever # . #
+2434	16	A	# . #
+2434	4	B	you call,
+2434	4	B	we sold a refrigerator through it
+2434	4	B	and it took us all of twelve hours.
+2434	29	A	to sell the refrigerator?
+2434	19	B	yeah.
+2434	6	A	yeah.
+2434	2	B	you know. and i'm sure it'd be even less for somebody with a good gun.
+2434	2	A	huh. and i think the federal government is, uh, is really far away from, uh, uh, control.
+2434	4	A	i, i don't believe in, uh,
+2434	4	A	i'm s-, i shouldn't probably say control.
+2434	4	A	i mean regulation.
+2434	4	A	control is something that i wouldn't want the federal government to have.
+2434	4	A	uh, but i would like to see them have a monitoring capability so that they know who has what weapons.
+2434	3	B	yeah.
+2434	2	B	well, i agree with you there.
+2434	2	B	they do have too much control over us already.
+2434	6	A	yeah.
+2434	4	B	uh, we could look at our paychecks and see how much control they have.
+2434	2	A	unfortunately, we, uh, we vote for the, the people who spend the money,
+2434	2	A	so i can't complain too much.
+2434	6	B	yeah,
+2434	2	B	i guess so.
+2434	28	B	i don't know.
+2434	5	B	they're ,
+2441	4	A	well, i haven't heard anything about the proposal myself,
+2441	4	A	but, uh,
+2441	6	B	no,
+2441	4	B	i haven't either.
+2441	7	A	uh, i don't know if its their proposal or one that's being seriously kicked around.
+2441	2	A	i've, i've always felt for a long time that i, i think that all young kids ought to do a stint, uh, primarily in the military.
+2441	6	B	yeah.
+2441	5	A	uh.
+2441	4	B	most countries require that now,
+2441	4	B	they --
+2441	6	A	yeah,
+2441	6	A	yeah.
+2441	7	B	you know, they  have, uh, it mandatory for, for  the, the  uh
+2441	6	A	uh-huh.
+2441	7	B	at least the  young men,
+2441	4	B	i don't know about the young women,
+2441	4	B	i don't know if they have to # serve in the military, #
+2441	6	A	# yeah,
+2441	5	A	a lot,
+2441	5	A	yeah,
+2441	4	A	# well, you take israel
+2441	7	B	too.
+2441	4	A	i mean, everybody does.
+2441	6	B	yeah.
+2441	2	A	i don't think it's a bad idea,
+2441	2	A	teaches, teaches a lot.
+2441	4	A	i mean, i went in the service when i was eighteen,
+2441	6	B	uh-huh.
+2441	7	A	and, uh, stayed in for ten years.
+2441	18	B	is that right?
+2441	19	A	yeah,
+2441	4	A	uh, did a lot of growing up.
+2441	9	B	i bet.
+2441	16	A	<Laughter>.
+2441	2	B	you have to.
+2441	6	A	yeah.
+2441	30	B	yeah,
+2441	4	B	my father had been in the military.
+2441	4	B	i didn't do it myself.
+2441	4	B	my father had
+2441	4	B	and that's, uh, how he put himself through school basically.
+2441	6	A	yeah.
+2441	4	B	he came from a poor immigrant family,
+2441	4	B	and he didn't have a chance to, uh, you know,
+2441	4	B	the family wasn't wealthy,
+2441	4	B	so he had to do something to,
+2441	24	A	do # it himself. #
+2441	7	B	# put himself through # school,
+2441	4	B	and he did.
+2441	4	B	and he was very successful.
+2441	4	A	well, my parents wanted to send me to college,
+2441	4	A	and i was dead set against it .
+2441	16	B	<Laughter>.
+2441	4	A	you know, i had wanderlust, you know.
+2441	6	B	yeah.
+2441	4	A	and i got in,
+2441	4	A	and after, after wasting the first six years, partying and everything else, i decided, uh-huh, time to settle down and do something.
+2441	4	A	so i started to work on my education.
+2441	6	B	yeah.
+2441	4	A	course my job was such that i didn't, i couldn't do it as much as i wanted
+2441	6	B	uh-huh.
+2441	4	A	and still i ended up going two semesters when i got out just to get my degree.
+2441	9	B	that's pretty good.
+2441	4	A	but, i've been in school ever since .
+2441	9	B	that's good.
+2441	6	A	yeah,
+2441	2	A	i guess.
+2441	6	B	yeah,
+2441	5	B	that's, uh,
+2441	28	B	i don't know.
+2441	2	B	there's other kinds of service to the country that could be done, you know,
+2441	6	A	yeah,
+2441	4	A	i mean if you don't like,
+2441	4	B	i mean, working in the national parks,
+2441	6	A	sure.
+2441	7	B	uh, working, clean up the roadsides
+2441	9	A	exactly.
+2441	2	B	i mean, i've always felt that people on welfare should be required to spend at least part of their time, *why no slash?
+2441	3	A	oh yeah,
+2441	3	A	absol-,
+2441	7	B	not all the time because that takes away from their opportunity to look for a job, but  at least some of their time  to look for, to go out and clean up the roads.
+2441	7	A	absolutely.
+2441	7	B	you know,
+2441	5	B	i mean,
+2441	2	A	all these, all this money that we're throwing away to pay people to go out and do things when we're paying all these welfare recipients,
+2441	2	A	and if they're able-bodied people, i don't see any problem at all with having them go out there and, and, if nothing else, get a group of them together and take them around to old folks
+2441	6	B	# yeah. #
+2441	7	A	# places # and let them cut the yards, paint the houses.
+2441	6	B	yeah,
+2441	2	B	we'd learn service # to other people #
+2441	6	A	# sure # ,
+2441	6	A	# sure. #
+2441	7	B	# in this # country.
+2441	5	A	so i'm,
+2441	2	A	get something out of that money.
+2441	2	B	country would benefit,
+2441	6	A	yeah
+2441	5	A	i've,
+2441	5	B	i mean, uh,
+2441	6	A	yeah,
+2441	6	A	yeah,
+2441	4	A	my next door neighbor when i was growing up, worked for the unemployment division,
+2441	4	A	and his sole job was just tracking down people who were getting benefits and able-bodied
+2441	5	A	and,
+2441	18	B	that right.
+2441	19	A	yeah,
+2441	4	A	and he, he had all kinds of horror stories.
+2441	4	A	you know, these guys go down there and get their unemployment checks,
+2441	4	A	and, back, back in those days they also use to give you, uh, booklets good for, uh, clothing and gas, and things like this .
+2441	6	B	yeah.
+2441	4	A	they get all this stuff together and sit down and have poker games
+2441	6	B	yeah.
+2441	7	A	you know,
+2441	4	A	and i'm, i jus-, i have a hard time dealing with that.
+2441	4	B	what i hear one time, i think it was on paul harvey's, uh, radio segment, that he said that if the money that goes into welfare each year was to be given directly to the people without all the middle people in the government bureaucracy, each person would receive like forty-five thousand dollars.
+2441	6	A	uh-huh.
+2441	2	B	i mean, i was astounded.
+2441	4	B	i don't even make that.
+2441	3	A	no,
+2441	3	A	i know.
+2441	4	A	i, you, you think about, you think about the layer of bureaucracy between the money and the recipient,
+2441	6	B	yeah,
+2441	4	B	and somebody's taking that away.
+2441	2	A	and, and there's probably, there's easily probably six or seven times that amount being spent on the bureaucracy.
+2441	3	B	yeah,
+2441	3	B	no doubt.
+2441	2	A	you know, it's, it's, it's totally ridiculous,
+2441	4	A	and now, i, i, i, uh, started out when i first got in graduate school
+2441	4	A	i was going into public administration,
+2441	4	A	and, uh, quite honestly i just got so fed up with it i just couldn't stand it any more.
+2441	18	B	is that right,
+2441	19	A	yeah,
+2441	4	A	i mean, this is the kind of thing you look at.
+2441	6	B	yeah.
+2441	4	A	you sit there
+2441	4	A	and when you're writing up budgets, you wonder, okay, how much money do we need.
+2441	4	A	well, you need x number dollars for the recipients
+2441	4	A	but you need x number dollars to administer the program.
+2441	2	A	well just ridiculous.
+2441	6	B	yeah.
+2441	2	A	this is ridiculous.
+2441	2	B	it's sad.
+2441	3	A	it is,
+2441	2	A	it's pathetic.
+2441	2	A	i mean, there's got to be a different way.
+2441	2	A	there's got to be a better way.
+2441	2	A	but it'll never happen.
+2441	2	A	i mean,  these --
+2441	6	B	yeah.
+2441	7	A	these  people out here getting that money are big voting blocks.
+2441	6	B	yeah.
+2441	20	B	what would happen if the required young people to do service to the country,
+2441	8	B	what should they get in return, i wonder.
+2441	5	B	like, uh,
+2441	2	A	i think, i think there ought to be some kind of assistance as far as, uh,
+2441	4	A	and i would limit it strictly to something like tuition assistance.
+2441	6	B	yeah.
+2441	4	A	give an incentive.
+2441	24	B	educational or vocational training or something.
+2441	3	A	yeah.
+2441	4	A	something that's going to help them along the way.
+2441	2	B	and they'll help the country eventually, too,
+2441	3	A	sure,
+2441	5	A	i mean,
+2441	7	B	because rather than having a bunch of uneducated people we can have educated people,
+2441	5	A	well, this,
+2441	11	A	i mean --
+2441	2	B	and that's only going to help.
+2441	7	A	i mean,  look at the statistics,
+2441	2	A	i mean, it's sad.
+2441	4	A	one in five americans can't read
+2441	6	B	yeah.
+2441	4	A	adults, that is, can't even read.
+2441	4	A	and, and we've got the lowest rates of the civilized countries in science and math.
+2441	6	B	yeah.
+2441	8	A	i mean, what are we, what are we becoming?
+2441	2	A	we're becoming a service country.
+2441	29	B	as opposed to what we were twenty years ago.
+2441	3	A	yeah,
+2441	4	A	we were an industrial giant,
+2441	2	A	and now we're no-, we're not going to do it because everybody is beating us at the game.
+2441	4	A	we taught them how to do it,
+2441	2	A	and they, they did it better than we do.
+2441	6	B	yeah
+2441	16	B	<laughter>.
+2441	4	A	simple as that.
+2441	2	B	because they have the ambition, i guess.
+2441	3	A	yeah,
+2441	4	A	simple as that.
+2441	6	B	yeah,
+2441	2	B	which is good for them,
+2441	2	B	but on the other hand, we kind of lose out.
+2441	3	A	yeah,
+2441	2	A	it's terrible for us.
+2441	2	B	i think that if, uh, young people had service to the country might give them more ambition.
+2441	6	A	yeah.
+2441	7	B	because they learn that serving other people is a good thing.
+2441	6	A	yeah,
+2441	2	A	and, and it can be good for them, too.
+2441	6	B	yeah,
+2441	6	B	# oh yeah. #
+2441	5	A	# i mean, # even, even the greedy kids that we've got now ...
+2441	11	B	oh god, you go to the mall
+2441	4	B	and you see, you know, fourteen year old kids flaunting money, because the parents give them money to go down and play video games all night, you know
+2441	3	A	i know.
+2441	5	B	for what.
+2441	3	A	i know.
+2441	11	B	give me the money
+2441	4	B	and i'll, i'll teach them something good .
+2441	2	A	well, you know, you know why they do it is so they can get them out of the house.
+2441	6	B	yeah.
+2441	30	A	yeah,
+2441	4	A	uh, that's my other complaint.
+2441	2	A	parents aren't parents any more.
+2441	3	B	no.
+2441	2	B	they've, they've relinquished their parenting.
+2441	6	A	yeah.
+2441	4	A	one of the other subjects is do you think the public school systems are in trouble?
+2441	6	B	yeah.
+2441	2	A	well, as a substitute teacher for a year, i, i can say yes.
+2441	6	B	yeah,
+2441	4	B	i mean, i talked with somebody else about that another time,
+2441	4	B	and, you know, when i's in graduate school working on my master's degree in math, i was, uh, teaching as part of my, part of the program.
+2441	4	B	and i just love teaching.
+2441	4	B	that was a lot, that's probably the most fun i had.
+2441	4	B	and, uh, it helped me out because i learned
+2441	6	A	yeah.
+2441	7	B	things and learned how to do things differently.
+2441	6	A	uh-huh.
+2441	4	B	and when, uh, when come time to get out of school, i thought, boy, i'd like to teach.
+2441	34	B	but you know, for, for what.
+2441	6	A	yeah.
+2441	4	B	you know, i don't want to live in a little one bedroom apartment the rest of my life.
+2441	3	A	exactly.
+2441	2	B	i mean, that, that's a sad thing to think,
+2441	2	B	and that's kind of selfish on my part,
+2441	4	B	and i admit that,
+2441	17	A	well, in a way it is,
+2441	2	A	but you have to look out for yourself
+2441	3	B	yeah,
+2441	3	B	that's right.
+2441	7	A	you know,
+2441	5	A	i mean, that's some-,
+2441	2	A	and when we pay garbage men more than we pay teachers,
+2441	2	B	that's wrong.
+2441	3	A	yeah,
+2441	9	A	gosh,
+2441	5	A	i mean,
+2441	4	B	i'm not saying that garbage men should be paid less,
+2441	4	B	i saying teachers should be paid more.
+2441	3	A	no,
+2441	3	A	i mean yeah.
+2441	2	A	they do an absolutely necessary job,
+2441	4	A	i mean, i, i have a great deal of admiration for these people who can go out there and do that.
+2441	6	B	yeah.
+2441	2	A	but, uh, i mean, there's, there's a sense of priorities here, too.
+2441	6	B	yeah.
+2441	5	A	you know, we need,
+2441	8	A	what's more important, picking up the garbage or educating our kids.
+2441	6	B	yeah
+2441	2	B	. they both have their place.
+2441	3	A	yeah,
+2441	5	A	they, they,
+2441	3	A	sure.
+2441	4	B	but, you know, when it gets right down to it,
+2441	5	A	i mean, one's import-,
+2441	11	A	i mean, on the other hand, i mean, you take a garbage man in new york city starts out at twenty-six thousand dollars.
+2441	9	B	that's pretty good.
+2441	4	A	well i bet you there's a whole bunch of homeless people up there who would take that job for thirteen thousand dollars a year.
+2441	6	B	yeah.
+2441	4	A	i mean, my other pet peeve is unions.
+2441	3	B	yeah,
+2441	3	B	oh yeah.
+2441	2	A	you know, it's just, it's, it's ridiculous the way unions have gone.
+2441	2	A	there was a time when unions were needed.
+2441	24	B	and they served a good function.
+2441	3	A	and they served a good function,
+2441	2	A	but there are enough laws on the books now that unions are outdated,
+2441	2	A	and they're only there to perpetuate their own, their own power structure.
+2441	4	B	i remember, the company my dad worked for, the people there went on strike against the management.
+2441	4	B	it was a steel manufacturing place,
+2441	5	B	and they, uh,
+2441	4	B	this was during a time when the import steel was so cheap,
+2441	4	B	and they were having a hard time.
+2441	4	B	and they told the strikers there, look,
+2441	33	B	we need you to come back and get this stuff done.
+2441	33	B	or else we're going to be out of business.
+2441	4	B	and they wouldn't come back,
+2441	4	B	so they went bankrupt.
+2441	6	A	yeah.
+2441	4	B	and, and they all lost their jobs.
+2441	6	A	sure, #
+2441	2	A	and, and # --
+2441	5	B	# and it's like # , # you know. #
+2441	7	A	# and  that's # really what happened to the steel industry in this country.
+2441	6	B	yeah.
+2441	4	A	so many times, i mean, you had the, uh, the coal miners and steel workers going out at the same time.
+2441	2	A	and, well, that took care of that industry
+2441	3	B	that's right.
+2441	0	A	and, and, then, and i'll tell you,
+2441	2	A	detroit worked awfully hard on, on stopping car manufacturing in this country.
+2441	2	B	and they're trying to do that now with the imports.
+2441	6	A	yeah,
+2441	2	A	i mean, you know, we've never caught up,
+2441	2	A	and i don't think we ever will.
+2441	2	B	it'll be a tough road, though.
+2441	6	A	yeah,
+2441	5	A	i mean, here it is,
+2441	2	A	and we've got, we've got to go into partnership with the japanese to build cars.
+2441	6	B	yeah.
+2441	2	A	you know . and they only did it because they, i guess they were embarrassed
+2441	6	B	yeah.
+2441	7	A	that they're so good at it .
+2441	3	B	that's about right.
+2441	9	A	gosh.
+2441	5	A	yeah,
+2441	4	A	well, back to the original subject,
+2441	5	A	yeah,
+2441	2	A	i think youngsters ought to go out and do some public service,
+2441	4	A	i don't care what kind it is.
+2441	2	B	it teaches them pride in their country.
+2441	3	A	yeah,
+2441	2	A	and pride in themselves, too.
+2441	3	B	that's right.
+2441	2	A	they could, they could, i mean, you could organize something just within your community.
+2441	6	B	yeah,
+2441	7	A	same old thing.
+2441	5	A	i mean,
+2441	3	B	that's right.
+2441	2	B	that's like eagle scouts.
+2441	3	A	sure.
+2441	3	A	uh-huh.
+2441	2	B	and that's a great idea.
+2441	4	A	i think they ought to take them and, i don't know, just have sort of like a, a, a manpower pool and say okay, look,
+2441	33	A	we need somebody ...
+2461	0	A	okay,
+2461	4	A	we're going to talk about the public school system,
+2461	6	B	okay.
+2461	7	A	what's wrong with it, an, or if anything is wrong with it and what we can do about it, what should be done about it.
+2461	9	B	fantastic.
+2461	4	B	well one thing that pops into my mind real quick is, uh, about the, uh, funding of, the, the school system right now.
+2461	6	A	yeah.
+2461	2	B	evidently, uh, that's, that's a big problem.
+2461	6	A	yeah,
+2461	2	A	it's amazing, uh,
+2461	2	A	i always thought that teachers never got paid nearly enough, i mean,
+2461	6	B	right.
+2461	7	A	to be doing what they're doing, uh.
+2461	4	A	when i was in college i, i enjoyed teaching,
+2461	4	A	'cause i did some teaching part-time
+2461	4	A	and i really enjoyed that
+2461	4	A	but i wouldn't want to go teach high school or junior high,
+2461	4	A	it just, you know, all the problems.
+2461	6	B	oh, lord, i mean, yeah,
+2461	4	B	an, you talk about stress and pressure,
+2461	0	B	i tell you what,
+2461	5	B	it's, uh,
+2461	6	A	yeah,
+2461	4	A	they're putting in fifty, sixty hours a week,
+2461	2	A	i'm sure, because they've got to grade papers and get class stuff ready.
+2461	5	B	do,
+2461	6	B	right.
+2461	2	A	and, you know, and they're being paid, probably half what most people being paid.
+2461	3	B	exactly,
+2461	5	B	and,
+2461	4	A	and we're paying basketball people, you know, millions of dollars a year for, for what, you know.
+2461	3	B	that's right,
+2461	2	B	and then they, uh, poof it off, you know, do like tarpley.
+2461	6	A	yeah.
+2461	5	B	but, uh, i
+2461	2	B	what gets me is i can't believe that congress, uh, or, our state legislature can't come up with, uh, some kind of workable means to have funds for the school.
+2461	5	B	you know, it's, uh,
+2461	4	B	i just don't understand that.
+2461	6	A	yeah,
+2461	5	A	it's, uh.
+2461	13	A	now do you have little kids, or what?
+2461	26	B	no, uh,
+2461	4	B	sure don't,
+2461	4	B	my wife and i've just been married about two years
+2461	4	B	but i have a sister that's a, uh, school teacher,
+2461	5	B	and, uh.
+2461	6	A	yeah,
+2461	6	A	yeah,
+2461	4	A	my wife and i have a, a three year old, almost four and a, a two year old.
+2461	6	B	okay.
+2461	4	A	so we're looking at the, the older one going to school next year. not, not, well not this coming fall but the year after that.
+2461	6	B	okay,
+2461	29	B	so it's getting close.
+2461	3	A	yeah,
+2461	4	A	he's going to be going to kindergarten,
+2461	5	A	so.
+2461	6	B	right.
+2461	4	A	so, you know, we're, we're thinking about that.
+2461	8	A	what's that going to be like.
+2461	8	A	are they going to be taught nothing,
+2461	8	A	or they going be taught something,
+2461	4	A	we're going to, we're going to be involved in our child's education.
+2461	4	A	we're going to be teaching him what we can at home, of course,
+2461	6	B	right.
+2461	7	A	because, uh, i guess we don't trust the school system, which is very sad, uh,
+2461	2	A	but.
+2461	3	B	exactly.
+2461	7	A	but  if it doesn't start at home, it's not going to go anywhere.
+2461	3	B	right,
+2461	3	B	that's true.
+2461	7	A	you know,
+2461	2	A	and we're going to try to teach him good values, because, you know, we-, when, when they get to upper level school and they start teaching them, well hey, if you can play football or basketball that's what's important. not if you can read or write, or do, or  un-, understand  some science.
+2461	3	B	exactly.
+2461	7	A	you know,
+2461	0	A	i mean give me a break,
+2461	2	A	that's, that's, that's bogus.
+2461	3	B	right,
+2461	3	B	right.
+2461	4	B	well and, uh, you know, one thing my wife and i've talked about, i-, are, uh, private schools.
+2461	6	A	yeah.
+2461	7	B	you know whether, uh, uh, we would want to invest in, in private schools as they're g-, growing up, because, you know, just in the dallas area, um, we're not real comfortable with the, with the public schools.
+2461	4	A	and dallas, uh, school district just recently got an advised status because of their low quality schooling.
+2461	6	B	right.
+2461	4	A	i couldn't believe that.
+2461	6	B	right.
+2461	4	B	you know, one, that's one reason we bought a house here in plano.
+2461	4	B	we were hoping, you know, well the school district's going to be good, you know, for resale value, and,
+2461	6	A	yeah.
+2461	7	B	so on and so forth,
+2461	4	B	but, uh, i can definitely, uh, see on down the road, you know, where we do have kids and are getting to that age, that's going to be a definite concern.
+2461	6	A	yeah,
+2461	4	A	we talked, you talked about before, about the school funding.
+2461	2	A	i think there's only going to be one solution to school funding which i don't think will be necessarily the best way
+2461	2	A	but i think what's going to have to happen is there's going to have to be tuition for grade school and junior high and high school kids.
+2461	2	A	that's the only way they're going to fund it, because if they start raising taxes for property, and people are going to throw a fit.
+2461	5	B	that's,
+2461	6	B	yeah,
+2461	5	B	and, you know, that's,
+2461	2	B	taxes right now are political suicide.
+2461	6	A	oh, yeah.
+2461	7	B	you know,
+2461	2	B	and i don't think any politician's going to do that,
+2461	5	B	so.
+2461	6	A	yeah,
+2461	2	A	and the only thing, they, they would think of would be tuition, you know,
+2461	2	A	if it works at colleges it will work down below.
+2461	6	B	right.
+2461	2	A	and, you know, that's going to, that's going to affect the people that are having kids in school, of course, which is probably the only fair thing to do.
+2461	2	A	but, it will be hard for those that people, that have, have in school because they have to pay out even more.
+2461	3	B	exactly.
+2461	2	B	and, you know, it's going to really hurt the, the middle class, uh, people, i think.
+2461	6	A	oh, yeah.
+2461	7	B	because, uh, they're the ones that will probably have to, to carry the brunt of the load.
+2461	3	A	that's right.
+2461	5	B	so, uh,
+2461	2	A	and most of the problems with kids in school carrying guns and, and knives and everything,
+2461	9	A	i mean, good grief what's .
+2461	6	B	yeah
+2461	4	B	now, that's, that's just unbelievable to me, you know.
+2461	4	A	i can't believe that.
+2461	4	A	i mean when i was in junior high and high school that never happened.
+2461	4	A	you never heard about that.
+2461	6	B	well yeah,
+2461	4	B	we didn't, we didn't even think about it, you know .
+2461	6	A	no.
+2461	8	A	and now, you know, what do we have now.
+2461	4	A	you know, got kids that, either got a, you know, a magnum gun school,
+2461	9	A	like good grief.
+2461	6	B	r-, right.
+2461	2	A	i mean, i'd, i'd be afraid to be in school, i mean b-, teaching, or even being a student
+2461	11	A	and think what, what's it going to be like for my, my youngest, an my oldest son, when he goes to school.
+2461	8	A	what's going to happen?
+2461	4	A	i mean i, i'm afraid for him to go.
+2461	3	B	exactly,
+2461	3	B	right.
+2461	2	A	but there again , you can't hold them back.
+2461	5	B	another reason, yo-,
+2461	2	B	and you want to encourage them, you know, to, to be active and everything in school,
+2461	2	B	but, uh, you know, with all the peer pressure that's going on, with all the negative things, it is, uh, it's a tough environment to be growing up in.
+2461	3	A	yeah,
+2461	2	A	and lot tougher than it was when i was going to school,
+2461	5	A	and that was,
+2461	4	A	well i was, i graduated high school in nineteen seventy-nine,
+2461	5	A	so.
+2461	6	B	okay.
+2461	13	A	that was what, twelve years ago, i guess.
+2461	23	B	right.
+2461	2	A	so, you know, it's lot different now.
+2461	8	A	and what's it going to be like in another twelve years when my, uh, oldest son is in high school.
+2461	3	B	that's right,
+2461	3	B	that's right.
+2461	4	A	i'm afraid to, i'm afraid to even think about it.
+2461	3	B	that, yeah, that is a scary thought,
+2461	28	B	but, uh, i don't know,
+2461	2	B	i, i guess what you have to do is just, uh, keep in, uh, you know, encouraging them and, and, uh, uh, try to be open with them, so that y-, you can deal with the problems as they come up.
+2461	2	A	. that's all you can do.
+2461	6	B	yeah,
+2461	5	B	and.
+2461	2	A	you got to, you got to be your child's best friend, i guess,
+2461	6	B	right.
+2461	7	A	even when they're a teenager and they, you know are kind of standoffish,
+2461	2	A	still you got to be their best friend because when they've got problems, who they going to go to, their friends that are dealing drugs, or, or your parents.
+2461	3	B	exactly.
+2461	7	A	you know,
+2461	2	A	an, and if they go to their friends dealing drugs, they're going to be in even worse shape.
+2461	3	B	that's right.
+2461	2	A	and, and the schools don't, don't really encourage to stay away from that, you know,
+2461	2	A	the schools are there to teach history and that we fought the civil war, etcetera, etcetera.
+2461	2	A	they don't teach them good values like drugs are bad.
+2461	28	A	i, maybe i'm wrong, because i haven't, you know, been in that kind of environment for a long time,
+2461	2	A	but,
+2461	6	B	right.
+2461	7	A	it just is amazing, you know,
+2461	2	A	need to teach them good values.
+2461	3	B	that's true,
+2461	3	B	that's true,
+2461	5	B	and, uh.
+2461	2	A	of course, wh-, if i say this is a good value, someone else is going to stand up and say, oh no.
+2461	2	A	and the a c l u is going to get after them and have a lawsuit.
+2461	6	B	right.
+2461	7	A	which is going to take twenty years to resolve, you know.
+2461	2	B	well and i think, uh, you touched on it, you know,
+2461	2	B	you've got to start them at the home.
+2461	6	A	yeah.
+2461	7	B	you know
+2461	2	B	that's where they, that's where they get the, the deep rooted values
+2461	2	B	and,
+2461	2	A	that's all you can do.
+2461	7	B	and,   and,   uh, and  that's about right.
+2461	2	B	then you just have to hope and pray that, that everything, uh, works out, works out okay,
+2461	5	B	so.
+2461	3	A	that's right.
+2461	12	A	well i got to be going,
+2461	5	A	so, uh.
+2461	12	B	okay,
+2461	12	B	well, hey, i appreciate the call.
+2461	12	A	nice talking to you today.
+2461	12	B	you to.
+2461	12	A	have a good life, uh.
+2503	25	A	hi, wanet .
+2503	25	A	how are you?
+2503	25	B	i'm doing fine.
+2503	20	B	where you from?
+2503	4	A	i'm from new england.
+2503	4	A	massachusetts.
+2503	14	B	okay.
+2503	4	B	i'm from berkeley, california.
+2503	9	A	wow!
+2503	4	A	this is quite a, quite a long distance.
+2503	3	B	yeah,
+2503	3	B	it certainly is.
+2503	13	A	do you have any pets?
+2503	26	B	no.
+2503	4	B	use too.
+2503	4	B	use to,
+2503	4	B	but none, none right now.
+2503	20	A	how come, uh, you don't have any now?
+2503	13	A	you get tired of them?
+2503	4	B	well, i, i live in an apartment building
+2503	4	B	and, and, uh, and, and, it, it, it's ju-, just not feasible
+2503	6	A	# yeah. #
+2503	7	B	# you know. #
+2503	4	B	i'd love to have a dog, # you know. #
+2503	4	A	# i've got # a little doggy, uh, that i've had quite, uh, quite a long time.
+2503	4	A	in fact, she just turned sixteen years old new year's eve.
+2503	5	B	ah.
+2503	5	A	and, uh ,
+2503	5	B	is she?
+2503	32	A	i beg your pardon?
+2503	20	B	what is she?
+2503	4	A	she's, uh, uh, uh, a poodle.
+2503	4	A	uh, a toy poodle, a toy poodle #
+2503	5	A	and she's, #
+2503	6	B	# ah.
+2503	6	B	ah,
+2503	4	B	my, i got # my mom a # teacup little mutt , #
+2503	16	A	# . #
+2503	7	B	not too long ago.
+2503	4	A	this is a little bigger than a teacup.
+2503	6	B	yeah.
+2503	4	A	and, uh, it's funny how, uh, how i, i, uh, a-, acquired this animal.
+2503	4	A	uh, when i was, uh, married, my, uh, ex-wife had said that she had a friend who had a little puppy. that she needed,
+2503	4	A	uh, the woman needed someone to baby-sit
+2503	4	A	and, uh, this is what she had told the kids
+2503	4	A	and she even told me that.
+2503	4	A	and after the two week period was up, uh, she then informed me that the woman no longer wanted the little puppy and wanted to know if we wanted to keep it.
+2503	2	A	well, after you had an animal for a couple of weeks, it's, uh, #  you become # --
+2503	3	B	# oh, for sure. #
+2503	7	A	you become  attached to it.
+2503	6	B	oh, yeah.
+2503	4	A	so, i've had this dog now for, for sixteen years
+2503	4	A	and she's been a lot of company .
+2503	4	A	uh, she's, uh, however, getting a little old
+2503	4	A	and things are starting to fail.
+2503	4	A	uh, i, i live alone now
+2503	4	A	and she stays in the house all day while i go to work
+2503	4	A	and, uh, she's been holding herself pretty well. the, uh, up until, you know, recently where she's been having accidents in the house because she either is losing control or she forgets where she is
+2503	4	A	and, uh, i find a little present on the floor sometimes when i come home. #
+2503	4	A	but she's, she's usually pretty good. #
+2503	6	B	# # yes,
+2503	4	B	well. my, my mother has one that's, uh,
+2503	4	B	it's, uh, it's, uh, teacup
+2503	4	B	and, uh, it's made such a difference for her.
+2503	5	B	but, you know, just, i, e-, e-, you know,
+2503	4	B	the way my mom's presence countenance is, just, just for having a puppy
+2503	5	B	but, you know, having this dog
+2503	4	B	she's had it for, i guess three years now.
+2503	6	A	uh-huh.
+2503	7	B	oh, possibly four.
+2503	4	B	but, uh, it was, it, it's it's really made such a difference for her.
+2503	4	B	i really would like to, uh,
+2503	4	B	i'm a disabled person
+2503	6	A	uh-huh.
+2503	4	B	so i'm unable to, to, really take care of a pet
+2503	4	B	and if that weren't so, i would certainly have one.
+2503	5	B	i just, i just,
+2503	4	B	it frustrates me sometimes not being able to have a dog #
+2503	6	B	yeah . #
+2503	11	A	# huh. well, # you might want to get yourself, uh, an animal that doesn't require much attention. like a cat.
+2503	6	B	oh, yeah.
+2503	6	B	well, yeah,
+2503	4	B	uh, i, i, i typically am not a cat person.
+2503	16	A	<Laughter>.
+2503	4	B	i have a friend that, uh, has on occasion, uh brought her cat over for me to keep for, you know, from time to time .
+2503	4	B	and this cat is like no other cat i have ever seen.
+2503	4	B	and, uh, it would sleep on my chest,
+2503	16	A	<Throat_clearing>.
+2503	7	B	you know.
+2503	6	A	yeah.
+2503	4	B	it's just, it's just a # great cat,
+2503	5	B	but. #
+2503	4	A	# well, my, my personal # preference is, is a dog.
+2503	4	A	uh, i don't know that, uh, that i would ever want a cat.
+2503	4	A	oh, i like cats.
+2503	4	A	i just wouldn't want to own one.
+2503	2	A	uh
+2503	2	B	# well, you don't own cats. #
+2503	7	A	# they're not, uh, # they're, they're affectionate
+2503	5	A	but they,
+2503	5	A	yeah
+2503	28	A	i don't know,
+2503	2	A	i can't seem to communicate with a cat like i can with my dog.
+2503	6	B	yeah.
+2503	2	B	you, they, they own you
+2503	3	A	yeah,
+2503	3	A	right .
+2503	7	B	or, or, you know,
+2503	16	A	<Cough>.
+2503	7	B	grant you with you their presence, # you know. #
+2503	3	A	# yeah.
+2503	3	A	right.
+2503	5	A	# that,
+2503	5	A	yes,
+2503	4	A	we're supposed to appreciate them.
+2503	4	A	well, my, my dog when i came home, uh, when i come home in the evenings, my dog greets me at the door.
+2503	2	A	i don't know that a cat would do that, uh .
+2503	6	B	yeah.
+2503	4	B	i used to have,
+2503	16	A	<Throat_clearing>.
+2503	7	B	a cat that could read me better than any human being in my life.
+2503	6	A	yeah.
+2503	4	B	i could just walk in the door
+2503	4	B	and she knew whether to, to, to quietly come up to me or to just run and knock me over.
+2503	16	A	# . #
+2503	4	B	# i mean she # really could pick up on my mood
+2503	6	A	# yeah,
+2503	6	A	yeah. #
+2503	7	B	# uh, the # way i walked in the door.
+2503	2	B	it was, uh, uncanny .
+2503	4	A	huh. i, i think, uh, in a way we're able to read each other pretty well because, uh, she knows when i'm upset and i know when she's not feeling good too . #
+2503	5	A	so. #
+2503	6	B	# yeah. #
+2503	4	A	i know like when she has an accident, i know she's not doing it on purpose.
+2503	4	A	when --
+2503	6	B	yeah.
+2503	7	A	when  she was younger, she used to do that to get even with me,
+2503	16	B	# . #
+2503	4	A	# uh, and, and, # you know, some people might not believe that
+2503	4	A	but, but, but, uh, i do .
+2503	6	B	sure .
+2503	9	B	oh, absolutely.
+2503	4	A	like if i, if i put her in a room all by herself and close the door and leave her there for a few hours, uh, because i was going out. she would, uh, break something or rip up the carpet or do something just to, uh, to, to let me know that she was unhappy with what i did .
+2503	18	B	really?
+2503	19	A	yeah.
+2503	5	B	that's the way,
+2503	4	B	well, i had that cat that i mentioned, alfie .
+2503	4	B	one morning, you know, the first thing you do is you get up and you, you, you feed this cat some-, something and, and you make sure that it can get to its litter box.
+2503	4	B	well,
+2503	6	A	uh-huh.
+2503	7	B	for some reason during the night, the door was not quite wide enough for it to get through
+2503	4	B	and, uh, the next morning, uh, when my roommate got up and, and, uh, did not feed it right away, it decided that, that it was going to protest.
+2503	16	A	<Laughter>.
+2503	4	B	and so it jumped up on my bed and anointed my blanket,
+2503	16	A	# . #
+2503	7	B	# for me. looking, looking # at me eye to eye,
+2503	16	A	# . #
+2503	7	B	# all the time while it was doing it. #
+2503	33	B	all right. # have i got your attention now? #
+2503	6	A	# # oh, yes.
+2503	2	A	animals have a way of talking .
+2503	4	B	alfie did.
+2503	4	B	i tell you if i could have gotten a hold of that cat that day.
+2503	4	A	i, i don't know that i'd, uh, that i'd trade my dog in for the world.
+2503	4	A	uh, it was about two years ago she got sick on me
+2503	4	A	and i took her to the, uh, to the vet's because she wasn't eating and, and, uh, she wasn't able to jump.
+2503	4	A	she, you know, lost all her activity
+2503	4	A	and, uh, she stayed there for one day
+2503	4	A	and the doctor called me up and said, uh, she had a low white cell count and that, uh, she wasn't, she was dying and, uh, suggested that i take her to a working hos-, dog hospital, animal hospital .
+2503	4	A	so i took his suggestion
+2503	4	A	and i, uh, took the, the dog to a hospital. the dog hospital there
+2503	4	A	and they said they'd keep her there for three days.
+2503	4	A	well, she ended staying there five days at a hundred and something dollars a day because she was in intensive care .
+2503	4	A	it cost me over five hundred dollars.
+2503	9	B	ouch.
+2503	4	A	plus, the, the, uh, the vet sent me a bill for what he did
+2503	4	A	and, uh, then she recouped.
+2503	4	A	she was okay for a couple of years.
+2503	4	A	and then she got sick on me again
+2503	4	A	and i brought her to a different vet this time
+2503	4	A	and i told the vet what medication i had given her and everything .
+2503	4	A	and, uh, he gave me the medication, the same medication that i gave her the last time
+2503	4	A	and she was okay
+2503	4	A	and she's been okay every since.
+2503	4	A	it's been about two years now.
+2503	9	B	huh. well, that's great,
+2503	9	B	it really is.
+2503	4	B	i, i'm glad that she was able to pull out of it that way and so cheaply the second time.
+2503	6	A	yeah.
+2503	4	A	well, the, see the problem is if, if the, if someone would have came up to me and said it's going to cost you five hundred dollars to keep your dog alive.
+2503	33	A	what do you want to do?
+2503	4	A	i probably would have had second thoughts.
+2503	3	B	yeah.
+2503	3	B	# of course, you would. #
+2503	4	A	# but what they, # well, what they do is, is they say, well it's going to cost, you know, twenty dollars for tests and forty dollars for this
+2503	4	A	and, and, you know, and it creeps up on you.
+2503	4	A	you don't know that, uh, you know .
+2503	4	A	you really, y-, you don't know what it's going to until it's all over.
+2503	16	B	<Laughter>.
+2503	4	A	uh, to give you an example. my mom had an elderly cat who, uh, whoever evidently got a hold of it
+2503	4	A	and, uh, the cat got sick.
+2503	4	A	so she took the cat to the vet
+2503	4	A	and she had the cat there for two days
+2503	4	A	and then the cat died.
+2503	4	A	so the doctor had called her up and said, uh, your cat died
+2503	33	A	and you owe me this bill,
+2503	33	A	and oh, by the way, do you want me to, to bury the cat # . #
+2503	16	B	# . #
+2503	4	A	so, it cost her three hundred dollars, uh,
+2503	4	A	and she didn't get the cat back.
+2503	5	A	so, yeah,
+2503	4	A	they had to pay for all the medical, uh, bills that the cat ran up plus the burial expenses.
+2503	16	B	<Laughter>.
+2503	4	A	and, uh, you know, she just brought the cat in because he wasn't feeling good .
+2503	4	A	# so  that # --
+2503	6	B	# really. #
+2503	9	B	geez.
+2503	7	A	that  was kind of a surprise #
+2503	5	A	at lea-, #
+2503	6	B	# yeah.
+2503	13	B	# you kind of wonder what really happened.
+2503	19	A	yeah.
+2503	5	A	well even the, you know,
+2503	4	A	they, they claimed they did the best that they could have have
+2503	4	A	and then the cat, uh, died.
+2503	5	A	so --
+2503	9	B	my goodness.
+2503	4	A	i'm, i'm looking for another cat for them. uh,
+2503	16	B	<Laughter>.
+2503	4	A	i, i've, i've got a little kitten, uh, that's still, uh, just being born right now.
+2503	4	A	so another five or six weeks i'll be bringing the little kitten over to, uh, to my folks.
+2503	2	B	well, that, that, that, that will make their day.
+2503	3	A	yeah.
+2503	2	A	i, i think it will
+2503	4	A	because they're both in their, in their seventies. and, uh, the cat, uh, although it's a little bit of work for them sometimes, it turns, it turns out to be, uh, uh, a pleasant experience for them.
+2503	2	A	uh, i think they enjoy that.
+2503	29	B	only work initially.
+2503	3	A	yeah.
+2503	2	B	for cats anyway, # you know. #
+2503	6	A	# yeah. #
+2503	11	B	well, listen
+2503	12	B	it's been a pleasure talking to you.
+2503	12	A	well, the same here.
+2503	12	B	and you take care.
+2503	12	A	okay.
+2503	16	B	<Buzzer>.
+2503	12	A	bye now.
+2503	12	B	maybe we'll talk again sometimes .
+2503	12	A	okay.
+2503	20	A	what is that sound?
+2503	4	B	that's my buzzer at the door .
+2503	14	A	oh, okay.
+2503	12	A	i'll let you go.
+2503	12	B	okay.
+2503	12	A	# right # .
+2503	12	B	# thank you # .
+2632	6	A	um,
+2632	25	B	hi .
+2632	4	A	one thing you know that i always think about when i think of public education
+2632	4	A	cause i went through the public, um, school system of boston,
+2632	6	B	uh-huh.
+2632	4	A	and, uh, i always felt that i graduated high school
+2632	4	A	and i still didn't even i, i couldn't put together a map of the united state.
+2632	6	B	um.
+2632	13	A	you know what i mean.
+2632	19	B	uh-huh.
+2632	2	A	an yet i felt that i got a good education
+2632	4	A	and i, i did well in school
+2632	4	A	but you tell me to name, you know, five continents
+2632	4	A	an i,
+2632	6	B	uh-huh.
+2632	7	A	couldn't do it.
+2632	2	A	i just felt like there were some real basics that are missing from education,
+2632	6	B	uh.
+2632	2	A	and the people are, are leaving school not even knowing some common sense things.
+2632	6	B	yeah.
+2632	5	B	one,
+2632	4	B	well, talking about public education, um, i'm, we're doing a proposal,
+2632	6	A	uh-huh.
+2632	4	B	it's, we're doing it at n c state,
+2632	6	A	yeah.
+2632	4	B	we're trying to improve the computer science curriculum,
+2632	6	A	uh-huh.
+2632	2	B	so that's kind of in a higher level .
+2632	6	A	right.
+2632	2	B	so it's interesting that you chose that topic .
+2632	6	A	yeah,
+2632	13	A	um, did you do through a public school system or private?
+2632	19	B	yeah,
+2632	4	B	well, i went through private an until ninth grade.
+2632	14	A	uh-huh,
+2632	13	A	did you notice a big difference?
+2632	19	B	oh, yeah,
+2632	2	B	a big difference.
+2632	1	A	like in what sense?
+2632	2	B	well, um, in, uh, public schools i guess there wer-, there are a lot of, of, you know,
+2632	2	B	people can take lower level courses an get away with learning nothing.
+2632	6	A	uh-huh.
+2632	2	B	but, um, private school you couldn't do that,
+2632	6	A	uh-huh.
+2632	2	B	you had to learn.
+2632	6	A	yeah,
+2632	4	A	i work in a temporary agency
+2632	4	A	an they're people that come in, you know, every day to fill out an application,
+2632	6	B	uh-huh.
+2632	4	A	and they'll have to bring somebody with them,
+2632	4	A	and they will show that they completed, um, four year of high school,
+2632	4	A	yet when it comes to even answering the questions on a simple application,
+2632	6	B	uh.
+2632	7	A	they can't read enough to be able to fill out the answers by themselves,
+2632	2	B	that's bad.
+2632	2	A	it's just incredible.
+2632	6	B	yeah,
+2632	4	B	our state cut a whole bunch of a, i think it's ten million dollars out of the school budget.
+2632	6	A	really.
+2632	4	B	so they're making all kind of cuts
+2632	2	B	in college people cannot, i mean, the teachers can't make tests any more,
+2632	4	B	and th-, the library canceling all of it's subscriptions.
+2632	6	A	yeah.
+2632	2	B	it's pretty sorry.
+2632	3	A	i know,
+2632	5	A	um, they, uh,
+2632	4	A	i forget
+2632	2	A	i think it's, um, some place in new york because they're having budget problems,
+2632	6	B	uh-huh.
+2632	7	A	they're closing the libraries.
+2632	4	A	i mean they're not getting rid of any of the sports,
+2632	6	B	uh.
+2632	7	A	or anything like that,
+2632	4	A	they're not cutting in any other corner
+2632	4	A	they're closing the libraries.
+2632	2	A	that to me shows a little, uh, switch in priorities.
+2632	6	B	yeah.
+2632	5	A	you know.
+2632	13	A	so do you go to college right now?
+2632	5	A	are yo-,
+2632	19	B	yeah,
+2632	4	B	it's my last year .
+2632	13	A	you're a, so you're a senior now.
+2632	19	B	yeah,
+2632	4	B	i'm working on my projects trying to graduate .
+2632	9	A	oh, good for you.
+2632	6	B	yeah.
+2632	9	A	that's great,
+2632	13	A	um, is, is n c university is that, uh, state,
+2632	4	B	n c state.
+2632	32	A	what did you say?
+2632	4	B	n c state.
+2632	30	A	n c state,
+2632	13	A	that's a state university then.
+2632	19	B	yeah.
+2632	6	A	i see.
+2632	13	A	and you're from there also?
+2632	19	B	well, yeah,
+2632	4	B	i was, uh, i was born in wylie
+2632	4	B	and then i lived in ,
+2632	6	A	uh-huh.
+2632	7	B	most of my life.
+2632	14	A	i see.
+2632	4	B	and now i'm back here going to school.
+2632	2	A	well, pretty soon it's going to get to the point where no one is going to be able to afford to send their kids to college or to do go to college.
+2632	6	B	yeah.
+2632	2	A	it's just a outrageously expensive.
+2632	4	B	luckily state is one of the cheap ones.
+2632	13	A	oh is it.
+2632	19	B	yeah.
+2632	5	A	well, still though
+2632	2	A	i mean, you know, thousands of dollars,
+2632	2	B	yeah, state's not that bad .
+2632	9	A	oh, well, that's good.
+2632	6	B	yeah.
+2632	9	A	that's good.
+2632	4	A	i went to a private university
+2632	28	A	and, um, i don't know
+2632	4	A	i look back now
+2632	2	A	and i, i think that i probably would have done it differently if i, um, you know, could do it over again.
+2632	6	B	yeah.
+2632	4	A	but, um, i have a lot of friends that went to state schools or didn't even go to school, some, some of them,
+2632	2	A	and i still feel like they came out knowing just as much as i did.
+2632	16	B	.
+2632	4	A	i really do
+2632	2	A	and that's probably a pretty sad thing to say
+2632	5	A	but, um,
+2632	6	B	yeah,
+2632	28	A	i don't know,
+2632	5	A	i,
+2632	20	B	where did you go?
+2632	7	A	i
+2632	32	A	what?
+2632	20	B	where did you go?
+2632	4	A	i went to brandice university.
+2632	6	B	uh-huh.
+2632	4	A	it's in massachusetts.
+2632	4	A	and, um, i really felt like i've been working now for about four years,
+2632	6	B	uh-huh.
+2632	2	A	and i, i feel like what i've learned working is a hundred times more valuable then what learned in school.
+2632	6	B	oh.
+2632	2	A	and i know that i'm drawing a lot of what i learned in school, you know,
+2632	2	A	i, i probably just subconsciously rely a lot on, on art.
+2632	28	A	but, um, i don't know
+2632	4	A	my sister's a principal at a school,
+2632	4	A	and one thing she's trying to instill in kids, um, besides just reading and writing are just some, the golden rules,
+2632	6	B	uh-huh.
+2632	4	A	she calls them just some basics about, um, you know, you don't take what's not yours,
+2632	16	B	.
+2632	4	A	uh, and if you want to, you know, you don't touch anybody else unless you have their permission.
+2632	4	A	like no hitting, you know,
+2632	6	B	uh-huh.
+2632	4	A	no pulling hair or anything like that,
+2632	4	A	and, uh, the school that she's in is a, um, it's basically for minorities,
+2632	4	A	um, there's a large minority population.
+2632	4	A	and, um, she's really noticed that even some of the teachers that work there
+2632	2	A	i think they don't value that type of student as much as you get,
+2632	6	B	yeah
+2632	2	B	that's,
+2632	7	A	in some.
+2632	7	B	sorry.
+2632	29	B	that they, that they like pick on th-, the advanced students and pay more attention to them,
+2632	3	A	yeah,
+2632	2	A	it's true.
+2632	7	B	ignore the others.
+2632	6	A	uh-huh.
+2632	6	B	yeah.
+2632	4	A	and i don't know if it makes them feel better
+2632	5	A	i mean the do teachers get,
+2632	2	A	i mean personally i would get more satisfaction out of taking someone that wasn't as successful.
+2632	6	B	yeah.
+2632	2	A	and seeing what they could do verses somebody that did excel in, in areas and just watching them get better, you know.
+2632	6	B	yeah.
+2632	2	A	that's not much of a challenge.
+2632	3	B	that's true.
+2632	13	A	but ar-, do you have any ideal what you're going into when you graduate.
+2632	23	B	um, graduate school .
+2632	18	A	oh yeah.
+2632	19	B	yeah.
+2632	13	A	do you know where you're going?
+2632	23	B	i think i'm going to chappel hill.
+2632	20	A	where's that?
+2632	4	B	that's in chappel hill .
+2632	4	B	that's the name,
+2632	13	A	oh is that north carolina?
+2632	19	B	yeah.
+2632	14	A	oh, okay.
+2632	13	B	never heard of the, uh, tarheels?
+2632	26	A	no,
+2632	4	A	i don't know that area.
+2632	13	B	the a c c tarheels, u n c?
+2632	36	A	i just don't know it.
+2632	6	B	oh, uh, .
+2632	4	A	i don't get down there very often.
+2632	4	B	they won the final four,
+2632	6	A	oh, really,
+2632	7	B	in boy's basket ball.
+2632	4	A	well the way i pick the final four was, um, by the state that had the warmest climate.
+2632	6	B	uh-huh.
+2632	4	A	so that's how i chose all mine,
+2632	4	A	so you can tell that i really didn't have that much to do with any of it.
+2632	16	B	.
+2632	5	A	but,
+2632	13	A	so obviously you're into education.
+2632	19	B	yeah.
+2632	5	A	if you can be going,
+2632	4	A	my husband went to, is in graduate school actually right now.
+2632	6	B	uh-huh.
+2632	5	A	and, uh,
+2632	28	A	i don't know
+2632	4	A	i give you a lot of credit.
+2632	16	B	.
+2632	4	A	i couldn't do it,
+2632	4	A	i,
+2632	6	B	yeah,
+2632	4	B	i know.
+2632	7	A	i couldn't wait to graduate and have,
+2632	6	B	oh.
+2632	7	A	it be all over.
+2632	4	B	i can't wait to graduate either,
+2632	3	A	i know.
+2632	7	B	now.
+2632	4	B	i've got all of this stuff due
+2632	9	B	oh wow.
+2632	16	A	.
+2632	2	B	overloaded.
+2632	6	A	yeah,
+2632	4	A	i kind of know what you mean.
+2632	12	A	well, it was really nice talking to you.
+2632	12	B	all right.
+2632	12	A	okay.
+2632	12	A	good luck.
+2632	12	B	all right,
+2632	38	B	thank you.
+2632	12	A	all righty,
+2632	12	A	take care.
+2632	12	B	all right,
+2632	12	B	bye.
+2632	12	A	bye-bye.
+2724	20	B	uh, so what do you do to exercise?
+2724	5	A	uh, s-,
+2724	4	A	i, uh, weight train, uh, three days on and one day off.
+2724	14	B	uh-huh.
+2724	4	A	i, uh, ride bicycles, , uh, fifteen, twenty miles, i don't know, maybe three times, maybe four times a week.
+2724	4	A	i play basketball, uh, couple times a week.
+2724	4	A	i play softball one night a week.
+2724	4	A	uh, that's what i do.
+2724	5	B	um.
+2724	1	A	what about yourself?
+2724	2	B	that's pretty impressive.
+2724	4	B	uh, i guess i bicycle.
+2724	4	B	uh, the amount varies
+2724	4	B	as much as a hundred and fifty miles a week.
+2724	14	A	uh-huh.
+2724	4	B	uh, i guess a play softball one night a week.
+2724	4	B	and i backpack a lot over the summer.
+2724	18	A	oh, really?
+2724	19	B	yeah,
+2724	4	B	that's, that's about the extent of it.
+2724	4	B	i mean, i don't do any of those things particularly, you know, for exercise.
+2724	4	B	but, uh, i guess the bicycling is the one thing i'll sort of, like, do if i feel like i need to go exercise .
+2724	4	B	uh, but i do it mostly for fun.
+2724	6	A	yeah,
+2724	13	A	uh, what do you ride, uh, like, a bunch of hills or pretty flat?
+2724	4	B	it, it, it varies.
+2724	4	B	uh, out near my house is pretty hilly.
+2724	4	B	uh, but sometimes i bike to work which is about, uh, a fifteen mile trip each way.
+2724	4	B	and that's mostly flat.
+2724	20	A	how long does that take you to get to work?
+2724	4	B	uh, about forty-five, fifty minutes.
+2724	20	A	how d-, how does that work, work out with, uh, storing your bike and showering and all that?
+2724	6	B	yeah,
+2724	4	B	it can be a pain.
+2724	4	B	uh, basically, uh, i work on a campus
+2724	4	B	so i can store my bike in my office and walk across the, uh, campus to the, uh, gym, use the shower there
+2724	6	A	uh-huh.
+2724	4	B	uh, but, it's, it's enough of a pain, that i did it consistently one year,
+2724	4	B	i would commute every day, uh,
+2724	4	B	but it just became such a pain.
+2724	4	B	i mean we're talking, you know, forty-five, fifty minutes for biking,
+2724	6	A	right.
+2724	7	B	uh, and sometimes longer if you had adverse wind. and then another half an hour, you know to cool down and take a shower and all this kind of stuff.
+2724	4	B	it was a big hunk, hunk of the day .
+2724	4	B	uh, and then of course another hour to get back home.
+2724	4	B	uh, so i've been doing that less, and, and concentrating more on, you know, light biking when i get home on the evening and then, you know, some more on the weekends.
+2724	6	A	yeah.
+2724	13	A	do you ride a lot of rallies or a lot of those around there?
+2724	36	B	not so much.
+2724	4	B	uh, i guess mostly i bike on my own.
+2724	4	B	i've got a touring bike.
+2724	6	A	uh-huh.
+2724	7	B	uh, though i haven't gone on any extended trips with it.
+2724	1	B	how about you,
+2724	20	B	what kind of biking do you do?
+2724	21	A	uh, well, actually my wife just got me into it
+2724	4	A	and i did an, did an internship at the institute for aerobics research in dallas,
+2724	6	B	uh-huh.
+2724	7	A	the cooper clinic,
+2724	4	A	and i learned all the health benefits of, you know,
+2724	4	A	i was a solid weight trainer,
+2724	6	B	uh-huh.
+2724	4	A	and all i did was weights and aerobic exercise
+2724	4	A	and then my wife got me into the aerobic exercise and said you really need to do it,
+2724	4	A	so,
+2724	6	B	uh-huh.
+2724	7	A	once i got into this, uh, internship, i learned all the physiological ad-, advan-, advantages to it,
+2724	4	A	so i began a program couple, i don't know probably three or four weeks ago
+2724	4	A	and i did my first bike rally this saturday.
+2724	4	A	i did, uh, forty, forty miles,
+2724	5	B	um.
+2724	4	A	and, uh, that's the longest i've ever ridden so far,
+2724	4	A	i usually, you know, fifteen or twenty.
+2724	6	B	uh-huh.
+2724	4	A	and it was, it was kind of hilly
+2724	4	A	and it was pretty tough,
+2724	4	A	but, uh, i'm looking at, uh, doing a lot more of it because, you know, my wife is really into it,
+2724	6	B	oh, i see.
+2724	4	A	and i, i kind of held her back a little bit this, this weekend.
+2724	4	A	she wanted to go, go, go,
+2724	4	A	but,
+2724	6	B	uh-huh.
+2724	7	A	you know, she wanted to stay with me .
+2724	2	B	it's good to have a partner.
+2724	3	A	yeah
+2724	3	A	it really is.
+2724	13	B	are you think of doing any, like, centuries, or ...
+2724	19	A	yeah,
+2724	2	A	that would be cool sometime if i could, you know, work up to that.
+2724	6	B	uh-huh.
+2724	6	B	yeah,
+2724	13	B	i just wondered if you were going to do that mostly or more like, you know, uh, uh, touring like from vermont or, you know, that kind of,
+2724	6	A	oh.
+2724	7	B	thing.
+2724	2	B	i mean people seem to get into different aspects.
+2724	2	B	one is more of a distance,
+2724	2	B	and one's more, just, you know,
+2724	2	B	they want to put some equipment on their bike and go for a tour.
+2724	4	A	i've never really looked into that.
+2724	5	A	that, you know, that's,
+2724	4	A	my wife would just love that.
+2724	6	B	uh-huh.
+2724	4	A	and i may do that sometime.
+2724	4	A	there again, i'm just kind of a fledgling into this.
+2724	6	B	uh-huh.
+2724	2	A	i've, it's kind of funny.
+2724	4	A	i called this number
+2724	4	A	and i was just reading through a bicycle magazine and going through all the different tours coming up.
+2724	6	B	yeah,
+2724	6	B	yeah.
+2724	4	A	i mean, around texas, you, you got about five or six,
+2724	4	A	if you live around the dallas area, you got five or six every weekend to choose from.
+2724	9	B	oh, that's nice.
+2724	7	A	because they're really into it.
+2724	5	B	um.
+2724	4	A	bicycling is really big here.
+2724	4	A	i didn't know that, and, you know, until i came down here, and,
+2724	9	B	wow.
+2724	7	A	kind of caught the fever.
+2724	6	B	yeah.
+2724	4	A	because i lived in indiana all my life
+2724	4	A	and, you know, you may say see one or two guys on a bicycle that, or above the age of fifteen or something,
+2724	6	B	uh-huh.
+2724	4	A	but, other than that it's nothing up there like it is down here.
+2724	6	B	yeah,
+2724	4	B	i'm not sure why that is.
+2724	2	B	i mean, generally in the midwest it seems to be less, much less.
+2724	2	B	i mean, maybe it's because of the winters.
+2724	3	A	probably.
+2724	7	B	uh, or maybe just because, you know, there's, there's a lot more flat lands, you know, out in the west.
+2724	6	A	yeah.
+2724	2	B	so it makes biking a better alternative for transportation.
+2724	6	A	yeah.
+2724	4	A	it, there's a lot of bikers around here.
+2724	2	A	it's, it's really neat.
+2724	6	B	uh-huh.
+2724	4	A	there are a lot of, a lot of resources, a lot of magazines, and stuff,
+2724	4	A	little texas bicyclist, is like a little newspaper that comes out every month.
+2724	5	B	um.
+2724	4	A	it's free
+2724	11	A	just go to the bike shock,  bi-, bike shop  and pick it up,
+2724	4	A	and it's got all the rides coming up,
+2724	4	A	so i guess i'm going to be busy about every saturday this summer,
+2724	9	B	oh, that's terrific.
+2724	7	A	going to a different ride.
+2724	5	A	yeah,
+2724	4	A	see a little bit of texas i've never seen before.
+2724	6	B	uh-huh.
+2724	20	A	so, uh, how long have you been biking?
+2724	4	B	oh, i guess as an adult for just about the past, uh, three years or so .
+2724	4	B	uh, you know, i guess last time i did it before that was college, which was about ten years ago.
+2724	14	A	yeah.
+2724	6	B	and, uh, yeah,
+2724	4	B	i guess i just never really thought about it much for a while, uh, until i suddenly discovered all my friends were basically biking a lot.
+2724	4	B	and so i thought i'd try it, too.
+2724	13	A	have you ever had a, uh, it's kind of slightly off the subject, but you ever had  a, uh, a  blood workup done recently or since you've been biking,
+2724	26	B	no,
+2724	4	B	i haven't,
+2724	26	B	no.
+2724	7	A	to see if it,
+2724	2	A	because it really, from what i understand, it really improves your, uh, cholesterol
+2724	5	B	um.
+2724	4	A	and, you know, it, uh, it kind of knocks down two of the big risk categories for coronary artery disease which is, uh, uh, low cardiovascular fitness, and also, uh, you know, the cholesterol.
+2724	6	B	uh-huh.
+2724	4	A	it gives you increased h d ls and decreases your l d ls.
+2724	9	B	oh, that's great.
+2724	6	A	yeah,
+2724	5	A	so ...
+2724	6	B	yeah,
+2724	4	B	i've, i've definitely noticed it's had a good effect on my pulse rate, my resting pulse.
+2724	6	A	yeah.
+2724	4	B	you know, it gets it down to about forty.
+2724	18	A	really?
+2724	19	B	yeah.
+2724	9	A	that's good.
+2724	6	B	yeah.
+2724	13	A	you say you ride about a hundred, hundred fifty miles a week?
+2724	19	B	yeah.
+2724	9	A	man.
+2724	2	A	that's, that's hard-core.
+2724	4	B	on average,
+2724	5	B	yeah.
+2724	20	A	when do you get to begin with the winters and all that?
+2724	20	A	what time of the year do you usually embark on your,
+2724	13	A	do you ride inside if you can't ride outside?
+2724	26	B	no,
+2724	4	B	i'm not that hard-core.
+2724	2	B	i mean there are some people,
+2724	4	B	in fact a lot of people will ride outside in the snow.
+2724	4	B	they've got a, uh, mountain bike,
+2724	16	A	<laughter>.
+2724	7	B	you know, with the big knobby tires.
+2724	6	A	yeah.
+2724	4	B	and, i don't do that.
+2724	4	B	i basically,  i, i pretty much  lay off for the winter.
+2724	4	B	uh, i was thinking of getting rollers for the last winter, you know, because it will help your balance when you're indoor training.
+2724	5	A	um.
+2724	4	B	uh, but i just, you know, more or less stocked, like an exercise bike and that kind of thing. , uh,
+2724	5	B	but, yeah,
+2724	2	B	i mean winters are kind of a problem
+2724	4	B	so, i'm more or less out of shape now that i've been biking, i guess, this year for just a couple of weeks.
+2724	6	A	uh-huh.
+2724	4	B	uh, but, you know, up here , it's only stopped snowing since then.
+2724	6	A	yeah.
+2724	5	B	uh, , but, yeah,
+2724	2	B	it's, it's, it's, it's pretty good.
+2724	5	B	it's, uh,
+2724	4	B	the main, the main thing, i guess, for me is just to enjoy it because once it starts seeming like, you know, exercise and a chore , i'll lay off it more.
+2724	6	A	right.
+2724	29	A	so you, uh, change up your routes a lot, and keep a ...
+2724	3	B	oh, yeah,
+2724	3	B	yeah.
+2724	4	B	i try to go someplace pretty different, you know, every week.
+2724	4	B	i rotate around, uh, about four different routes, uh, from my house
+2724	4	B	or i'll sometimes come in the school.
+2724	4	B	it's nice coming,
+2724	4	B	it's, it's nice riding to school because it's all along a canal path , uh,
+2724	4	B	because it's just, it's along the erie canal up here.
+2724	20	A	so, what school is it?
+2724	4	B	uh, university of rochester.
+2724	14	A	oh, okay.
+2724	6	A	yeah.
+2724	2	B	so it's fairly picturesque.
+2724	6	A	yeah.
+2724	4	B	and, uh, so it's, it's, it's a good ride
+2724	2	B	as long as you're not doing it every day, it's a good ride .
+2724	3	A	yeah.
+2724	3	A	that's true.
+2724	9	A	sounds neat.
+2724	6	B	yeah.
+2724	5	A	it's kind of,
+2724	4	A	i was wondering if i was going to talk with someone that never has exercised before and doesn't want to and everything else,
+2724	4	A	but got a guy that rides a hundred and fifty miles a week.
+2724	2	A	that's, uh, motivating.
+2724	6	B	yeah.
+2724	2	A	that's really good.
+2724	12	A	well
+2724	12	B	oh, it was good talking to you.
+2724	7	A	good talking to you
+2724	12	A	and keep up the good work.
+2724	12	B	okay,
+2724	12	B	you, too.
+2724	12	A	all right.
+2724	12	A	take care.
+2724	12	B	bye.
+2724	12	A	bye.
+2752	0	B	okay,
+2752	0	B	well yes,
+2752	4	B	we do have pollution in houston
+2752	5	B	and it,
+2752	20	A	how bad is it?
+2752	13	A	do you have smog like they do in california?
+2752	5	B	well it, it
+2752	27	B	some,
+2752	2	B	i think it depends on, uh, you know, what the, ho-, the cloud cover
+2752	4	B	and like right now, it's, uh, it's kind of overcast, you know,
+2752	4	B	just, it's hot,
+2752	6	A	uh-huh.
+2752	4	B	and the sun is trying, tries to shine through
+2752	2	B	but it's, it's holding in this, this pollution
+2752	5	B	and i,
+2752	2	A	it depends on whether you have some sort of temperature inversion, i take it.
+2752	3	B	i think so,
+2752	5	B	and, uh,
+2752	6	A	yeah.
+2752	4	B	and we have, uh, pasadena, texas which is sort of between here an, you know, heading toward galveston,
+2752	4	B	i mean it's still part of, it's part of the houston metroplex.
+2752	6	A	uh-huh,
+2752	6	A	uh-huh.
+2752	20	A	what do you think is your primary cause of it.
+2752	2	B	well, i think it's industry
+2752	2	B	and i think it's cars.
+2752	13	A	you do?
+2752	13	A	you really think cars contribute a lot now that they've taken lead out of gas?
+2752	5	B	i don't, i,
+2752	28	B	well maybe not,
+2752	2	B	but, it, it sure, it sure, se-,
+2752	5	B	you know, it,
+2752	4	B	i, i know that when i'm, when i'm behind a car
+2752	4	B	and, uh, sometimes, uh, i can really smell especially diesel and things like that,
+2752	6	A	uh-huh.
+2752	4	B	you know, comes right into my air conditioner
+2752	4	B	and, you know, my head and my fa-,
+2752	4	B	i'm so stopped up right now,
+2752	6	A	um,
+2752	9	A	my goodness.
+2752	4	B	i don't know if it's, uh, if it's partly from what's blooming, you know, right now, pollen and stuff like that,
+2752	4	B	that's part of it,
+2752	5	B	but, um.
+2752	6	A	uh-huh.
+2752	2	A	i think a lot of it's industrial.
+2752	2	A	i also think, uh, that, uh, there is a certain amount that comes from automobiles
+2752	2	A	but it's mostly from older automobiles.
+2752	2	A	i don't think the newer automobiles are as polluting, uh, frankly.
+2752	6	B	uh-huh.
+2752	2	A	i think that, uh, i think that, uh, uh,
+2752	5	A	if, uh,
+2752	4	A	i, i, i heard a story a while back
+2752	4	A	something to the effect that if they could just pay to get twenty percent, or, take all the cars off the road that have been, uh, manufactured say before nineteen seventy-five,
+2752	6	B	uh-huh.
+2752	7	A	that they could cut the automobile pollution by over fifty percent just by getting rid of those cars that are still left remaining.
+2752	13	B	you mean, uh, fifty percent pollution total
+2752	19	A	yeah.
+2752	7	B	from that comes from,
+2752	24	A	from, from cars
+2752	4	A	that is, not, not total but just from cars,
+2752	5	A	okay.
+2752	14	B	oh, uh-huh.
+2752	2	A	so, that i think would be tremendous help.
+2752	4	A	but i happen to drive an old model car because it's very economical
+2752	4	A	and it just keeps getting, uh, gives me good service
+2752	4	A	and i don't have an incentive to get rid of it as long as it keeps running good and not costing me any money.
+2752	6	B	uh-huh.
+2752	2	A	on the other hand i know it's a much more polluter than any of the newer model cars i have.
+2752	6	B	uh-huh.
+2752	4	A	but i don't have any incentive to get out of it until it dies.
+2752	6	B	right.
+2752	2	A	and, uh, that may be part of the problem.
+2752	5	A	als-,
+2752	13	B	do you all have pollution in your co-, part of the country, uh, from industry?
+2752	19	A	yeah, pause
+2752	19	A	yeah,
+2752	19	A	yeah,
+2752	19	A	oh, uh, yeah,
+2752	2	A	it's, it's, uh, pretty heavy up here i think
+2752	2	A	but i think it's mostly industrial, is what i really, uh, believe is the, the main problem.
+2752	5	A	and, and, uh, pause
+2752	2	A	and, uh, uh, people, uh, i don't think are paying as close attention to it in this area as they frankly should.
+2752	2	A	i, i we, we seem to have a high, uh, cancer rate up here in maryland.
+2752	18	B	really,
+2752	19	A	yeah,
+2752	5	A	and, uh,
+2752	5	B	like what ki-,
+2752	13	B	any particular kind or just all kinds?
+2752	2	A	well, for instance breast cancer seems to be pretty rampant
+2752	5	A	and, uh, i think,
+2752	2	A	of course prostrate cancer's sort of bad for everybody,
+2752	4	A	but, uh, th-, this state was like the second,
+2752	4	A	my wife's a registered nurse,
+2752	2	A	and i think this state was like second this year from the top, in terms of, uh, cancer rate for just all kinds.
+2752	2	A	and i can't help but believe that's not partially caused from pollution.
+2752	2	A	i just don't know exactly what it necessarily is,
+2752	2	A	but i just can't believe it is.
+2752	6	B	um.
+2752	4	A	now we have a lot of pollution being caused by cloruph-, uh, fluorocarbons which is the, like freon twelve and freon twenty-two.
+2752	4	A	they use freon twenty-two in air conditioning systems in houses and the like and heat pumps,
+2752	6	B	uh-huh.
+2752	4	A	and they use freon twelve in car air conditioners
+2752	2	A	and that's also what's causing our atmosphere to lose it's ozone layer.
+2752	6	B	uh-huh.
+2752	2	A	and i can't help believe if it's sufficient enough to make the atmosphere lose it's ozone layer, that it's not acting as a pollutant in our lungs also,
+2752	2	A	and having all kinds of effects,
+2752	5	A	and.
+2752	20	B	well what can we do about the, the, the, the air conditioning problem?
+2752	4	A	well they're working now,
+2752	4	A	i know dupont and dow and several other chemical companies are working, uh, feverishly to try to come up with a substitute for fluorocarbons,
+2752	6	B	uh-huh.
+2752	2	A	and who ever does is going to make, uh, a mint.
+2752	4	A	because if they ever come up with a reasonable working agent in place of fluorocarbons, then, uh,
+2752	13	B	is that also what's in, uh, hairsp-, aerosol?
+2752	23	A	well they used to be,
+2752	4	A	but they made them take it out of that.
+2752	13	B	even, so, so the aerosol is still aerosol,
+2752	23	A	right.
+2752	13	B	but it doesn't have anything that's damaging.
+2752	26	A	no,
+2752	4	A	they, they, they passed a law and made them take the fluorocarbons out of the aerosol containers,
+2752	6	B	uh-huh,
+2752	2	B	well that's good.
+2752	2	A	and that was a move in the right direction.
+2752	4	A	we are doing some things to try to correct the problem.
+2752	2	A	but there are more things we could do
+2752	2	A	and getting rid of old cars, like i said is one way to help correct the problem.
+2752	2	A	uh, uh, just trying to i think be careful, uh, with the way you handle garbage,
+2752	4	A	i notice in this state,
+2752	4	A	i don't know if you're doing it in texas yet or not,
+2752	4	A	but in this state we have special containers now we have to put all our cans and bottles and plastic pieces, uh, you know, containers in,
+2752	5	A	yeah.
+2752	4	B	here, they've just started, started doing that,
+2752	5	B	it's, it's, you know,
+2752	4	B	you're not, you don't have to,
+2752	5	B	but m-, you know,
+2752	4	B	i know i am.
+2752	4	B	i save,
+2752	6	A	yeah,
+2752	4	A	well we are doing it pretty religiously in our group too.
+2752	5	A	but they, uh,
+2752	4	A	in one of the counties here, they're actually doing a trial program of having a trash police.
+2752	4	A	they have a lady that goes around like a meter maid
+2752	4	A	and she spot checks people's trash.
+2752	9	B	no kidding,
+2752	6	B	really,
+2752	6	B	oh.
+2752	4	A	and if they find a bottle or a can or anything like that in your trash,
+2752	18	B	is that right.
+2752	7	A	they'll fine you fifty bucks i think the first time and two fifty the second time.
+2752	2	B	well, we need to do something,
+2752	2	B	we need to get serious about it.
+2752	6	A	yeah,
+2752	5	A	you,
+2752	6	A	right,
+2752	2	A	you've got to get people to see i-,
+2752	2	A	and surprisingly enough just handling of trash, uh, can cut pollution, uh, from, uh, uh, from just throwing it in a dump, or, or, or, where ever else they used to do with it, maybe used to burn it.
+2752	4	A	they've stopped that up here too.
+2752	6	B	uh-huh.
+2752	2	A	but that, that will cut pollution too.
+2752	2	A	because you get a lot of out gassing from these things, i think, decaying and tr-, and trying to,
+2752	4	A	for instance cans and bottles, they never go away at all.
+2752	6	B	uh-huh.
+2752	2	A	but on, on the other hand, i don't guess they're polluting.
+2752	2	A	but plastic containers and the like, uh, they may be,
+2752	4	A	i'm not sure of that.
+2752	1	B	how much does, uh, planting more trees and things like that help?
+2752	2	A	oh i think that's very important to do.
+2752	5	B	too.
+2752	2	A	i, i really think that, uh, trying to get along with your environment and help it out is a very, very important thing.
+2752	6	B	uh-huh.
+2752	2	A	and, uh, that can help to cut pollution, i guess some.
+2752	2	A	i, i don't know how much trees actually act as filtering agents in terms of pulling various pollutants or chemicals out of the air.
+2752	2	A	i would hope that they would help some, though.
+2752	2	A	that's for sure.
+2752	2	B	i think, uh, it seems like there was something going on, around here, that, you know,
+2752	16	A	.
+2752	4	B	we have all these chemical plants and oil refineries and those kind of things and that they burn off a lot of stuff,
+2752	6	A	uh-huh.
+2752	4	B	and some of the stuff that they weren't supposed to do that somebody found out, you know, like in the middle of the night, they would go ahead and do it anyway.
+2752	4	B	i think they got caught.
+2752	9	A	oh good.
+2752	4	B	but i wonder how much of that kind of stuff, you know, goes on.
+2752	2	A	well that, uh, that i think may go on a lot
+2752	2	A	and the primary reason i think it may go on a lot is just as you said, somebody happened to stay up late at night or something.
+2752	2	A	i don't think we have a adequate policing, uh, particularly on industry.
+2752	2	A	uh, we have good policing, at least in this state and, and several of the surrounding states and probably yours too, of car pollutants
+2752	4	A	because we have to go down, uh, once a year here in maryland and get out car's exhaust systems checked for emission content.
+2752	4	B	uh, we have to, uh, we have to have a state inspection every year.
+2752	6	A	uh-huh.
+2752	13	B	do you all have that?
+2752	26	A	uh, no,
+2752	4	A	we don't have a state inspection,
+2752	5	B	so,
+2752	5	B	which i,
+2752	5	B	i don-,
+2752	5	B	i would assu-,
+2752	4	A	but any time you sell a car or buy a car it has to be inspected in this state.
+2752	13	B	so i'm assu-, i'm assuming that, you know, they check, they check everything for safety
+2752	5	B	or,
+2752	27	A	i don't know,
+2752	4	A	uh, that's something that you'd have to just check with your authorities.
+2752	4	A	but in this state we have to, uh, pay eight dollars and a half and go to a, an emission station once a year and get every one of our cars checked that are, have been made starting in nineteen seventy-three.
+2752	13	B	but that's all they check for,
+2752	13	B	they don't check how good,
+2752	13	B	if your tires are good enough or your brakes are good enough.
+2752	26	A	no,
+2752	26	A	no,
+2752	4	A	we don't have inspections like that.
+2752	4	A	now, i'm in maryland,
+2752	2	A	in virginia they check that every two years, i think.
+2752	4	B	we do that ev-, every year.
+2752	2	A	and i think that's a good idea too,
+2752	4	A	not, no-, not that it necessarily has anything to do with cutting pollution necessarily,
+2752	2	A	but i think it's a good idea.
+2752	4	A	the emission check, though, is required in maryland
+2752	4	A	and it's also required in virginia, uh, a sister state to, to this one.
+2752	2	A	and that's, that goes a long ways towards cutting pollutants.
+2752	4	B	well i'll have to check,
+2752	4	B	i'm not sure if, if our state inspection ever-,
+2752	4	B	once a year has to do, you know,
+2752	4	B	if they check the, uh,
+2752	6	A	uh-huh,
+2752	2	A	well if they don't i would imagine in time they'll get a law with. i-, get around to it,
+2752	2	A	and if they don't then that's something i would certainly, uh, uh, suggest you be willing to uh, uh, be for in terms of, uh,
+2752	4	B	oh, i would .
+2752	6	A	yeah,
+2752	6	A	yeah.
+2752	4	B	i'm for anything that cleans up the air or the water or, or, or anything.
+2752	3	A	oh yeah,
+2752	3	A	i, i agree.
+2752	4	A	now that's another area we haven't even discussed
+2752	4	A	and that is water pollution and various of the other types of, uh, of, uh, like food pollution.
+2752	4	A	i mean you, you hardly ever hear, hear anybody say anything about food pollution.
+2752	2	A	but i think there we have a pretty good handle on inspection of foods in this countries,
+2752	4	A	so, uh, hopefully we're not ingesting too much in the way of, uh, pollutants in our food.
+2752	5	A	but water pollution, uh,
+2752	4	A	i've worried, especially the last few years about just how good the water supply we have in this country is for drinking and the like.
+2752	6	B	uh-huh.
+2752	4	A	i know a lot more people are going to bottled water.
+2752	39	B	well
+2752	2	B	and that's not necessarily the answer either
+2752	4	B	because they've found out that that's just comes out of somebody's tap.
+2752	6	A	yeah,
+2752	30	A	tap,
+2752	5	A	yeah .
+2752	5	B	so,
+2752	5	B	but a lot of these, uh,
+2752	5	B	some of this
+2752	2	B	well, you know, a lot of people have well water,
+2752	4	B	in fact in this area too
+2752	5	B	and, an, you know,
+2752	5	B	and, uh,
+2752	6	A	uh-huh.
+2752	4	B	if you don't get it tested you don't necessarily know what you're, what you're drinking
+2752	4	B	and i, i know a lot of people, you know, have that
+2752	2	B	and, you know, you have to wonder if that, you know could have an adverse affect on them too,
+2752	6	A	yeah.
+2752	7	B	if they don't, i-, they don't get it checked.
+2752	6	A	yeah,
+2752	4	A	i'm absolutely for drinking water out of wells as long as you first of course, have it checked
+2752	2	A	because it seems, uh,
+2752	4	A	when i was a kid growing up down south, uh, i used to go out in the country where my grandparents were
+2752	4	A	and we had a well,
+2752	4	A	it was one of those draws that,
+2752	4	A	i forget what you call those things,
+2752	6	B	uh-huh.
+2752	2	A	and, and that was some of the best tasting water,
+2752	4	A	i mean, i can still to this day taste that water.
+2752	5	B	when we were,
+2752	4	B	when i was growing up i lived in huntsville, alabama,
+2752	6	A	yeah.
+2752	4	B	and their water supply came from, uh, spring.
+2752	6	A	uh-huh.
+2752	4	B	and it was like ice cold, spring water
+2752	4	B	and i guess parts of the, the city still ha-, you know, get that,
+2752	2	B	but, uh, that was, that was really wonderful.
+2752	9	A	oh, i bet it was.
+2752	2	B	it was really, really good.
+2752	6	A	yeah,
+2752	5	A	the-,
+2752	2	A	once it's been filtered an if it's a deep enough well, filtered through all the earth and everything i think that, uh,
+2752	2	A	it depends of course where you are.
+2752	2	A	a good well, though, i think is very healthy ...
+2753	4	A	the latin american situation in,
+2753	4	A	the last development i know of was the military and financial assistance columbia
+2753	6	B	uh-huh.
+2753	7	A	for the, for the drug, uh, control.
+2753	2	A	and i support that fully.
+2753	2	A	i'm not sure we have the right solution to it,
+2753	2	A	but at least we're, we're going to the source of the problem.
+2753	4	A	and,
+2753	6	B	# uh-huh. #
+2753	7	A	# the # source of supply.
+2753	2	A	uh, the problem is here,
+2753	2	A	but the source of supply is there.
+2753	3	B	that's true.
+2753	3	B	very definitely so.
+2753	2	A	in fact i think a lot of the,
+2753	4	A	i've been to, uh, peru several times.
+2753	6	B	uh-huh.
+2753	4	A	i've never been to other parts of south america,
+2753	4	A	but, uh, i have been to peru,
+2753	2	A	and they need some assistance down there
+2753	2	A	and i'm sure that, uh, as an undeveloped country they look, look for it,
+2753	2	A	but there is not exactly a lot of, uh, physical responsibility there. / *listen; probably 'fiscal' not 'physical'
+2753	3	B	no.
+2753	2	B	very immature in that
+2753	3	A	yes,
+2753	3	A	right.
+2753	7	B	respect.
+2753	2	A	and i, i think that, uh, they need guidance and assistance,
+2753	2	A	but they need to learn how to stand on their own, own two feet also.
+2753	3	B	i agree.
+2753	2	B	i think that for so long power financially, uh, governmentally, every which way was in the hands of such a few
+2753	6	A	uh-huh.
+2753	7	B	that there's not the middle class that we, we perceive.
+2753	2	A	oh, no, the, and the poor are extremely poor.
+2753	3	A	i know,
+2753	24	B	are extremely poor.
+2753	3	B	that's correct.
+2753	4	A	i know, uh, some of the areas in, in texas seem poor,
+2753	2	A	but until you've seen some of those, uh, native,
+2753	6	B	# uh-huh. #
+2753	7	A	# latin # americans come down from the hills, you can't imagine what poor is.
+2753	4	A	and, uh, the worst scene i've ever had i think was, uh, someone eating out of, out of a garbage can on the streets in lima, peru.
+2753	29	B	and, and just very happy to get that.
+2753	3	A	oh, yes.
+2753	3	A	yes.
+2753	4	B	i have a brother who spent two years in bolivia.
+2753	6	A	uh-huh.
+2753	4	B	and this is very much his, you know, reaction that the rich are so rich and the poor are so poor.
+2753	4	A	oh, the, there's a joke,
+2753	2	A	the, the graft and the, uh, payoffs down there are , are an accepted way
+2753	5	A	and, in a way,
+2753	6	B	uh-huh,
+2753	6	B	uh-huh.
+2753	2	A	and there's, there's a sad joke.
+2753	2	A	i guess all jokes are really sad,
+2753	4	A	but there's a joke about the, uh, ambassador from latin america that came to visit a senator in the u s and was taken to his home for dinner
+2753	4	A	and the, uh, home was palatial.
+2753	4	A	they had five or six servants, you know, and, and, a lot of expensive, uh, holdings and all that,
+2753	4	A	and the ambassador said, but i know what you make as a u s senator,
+2753	33	A	how can you afford all of this?
+2753	4	A	and he said, come i'll show you
+2753	4	A	and he walked out in the backyard
+2753	4	A	and the, uh, senator said do you see that hospital over there?
+2753	4	A	and the ambassador said, yes.
+2753	4	A	and he patted his pocket
+2753	4	A	and he said fifteen percent.
+2753	4	A	he said, you see that school over there?
+2753	4	A	and the ambassador said, yes,
+2753	4	A	and he pot, patted his pocket and said fifteen percent,
+2753	5	A	so,
+2753	9	B	# oh, gosh. #
+2753	4	A	# so the next # year the senator went to latin america to visit the ambassador and was treated to dinner in his home
+2753	4	A	and it was twice as large and four times as many servants.
+2753	4	A	he said, well i know how poor your country is,
+2753	33	A	how can you afford this, uh, in such a poor country,
+2753	4	A	and he, he said, come i'll show you
+2753	4	A	and he walked out the backyard
+2753	4	A	and he said, do you see that hospital over there?
+2753	4	A	and the senator looked
+2753	4	A	and he couldn't see anything,
+2753	4	A	he said, no.
+2753	4	A	and the ambassador potted, patted his pocket and said one hundred percent
+2753	5	A	so,
+2753	6	B	yep .
+2753	6	A	yeah,
+2753	5	A	that,
+2753	2	A	it's a sad story
+2753	5	A	but,
+2753	0	B	intentions, intentions .
+2753	3	A	yes,
+2753	3	A	yes,
+2753	2	A	but it, uh, it is a problem.
+2753	3	B	i know.
+2753	4	B	uh, i have a sister-in-law who is from nicaragua
+2753	4	B	and her family,
+2753	4	B	her father was a fairly, uh, high ranking official under somoza.
+2753	4	B	and when that went down the tubes they had to get out.
+2753	6	A	uh-huh.
+2753	4	B	and seventeen children,
+2753	6	A	# um. #
+2753	7	B	# filtered # through into, into america through guatamala, through mexico, through honduras,
+2753	4	B	you know, two here, three there, one here, you know, this kind of thing until,
+2753	6	A	# yeah. #
+2753	4	B	# and # now, uh, couple of the older ones stayed or went back,
+2753	4	B	but the rest of them now have their american citizenship and are leading productive lives,
+2753	6	A	# uh-huh. #
+2753	5	B	# but, # you kn-,
+2753	4	A	well, the oth-, the other instance i think of their inability to, to handle things, the cholera,
+2753	3	B	# yes. #
+2753	7	A	# and # hepatitis epidemics now in, in latin america.
+2753	2	A	and it shows the, the unpreparedness for such, such a problem.
+2753	3	B	yes.
+2753	5	A	and yet they're so,
+2753	4	B	oh, the stories she tells, you know, are just unnerving
+2753	6	A	yeah.
+2753	7	B	just unnerving.
+2753	4	A	and they're, they're so rich in resources there.
+2753	4	A	they're very rich in oil and gas.
+2753	4	A	and they're very rich in gold and silver, and very rich in, in, uh, natural resources such as the fish and, uh
+2753	6	B	uh-huh,
+2753	6	B	uh-huh.
+2753	7	A	timber, and, and copper and all types of, uh, resources
+2753	5	A	but they,
+2753	24	B	and the uranium.
+2753	3	A	yes,
+2753	5	A	and,
+2753	2	A	but they don't have,
+2753	2	A	it's sort of like russia,
+2753	2	A	they don't have the ability to develop it.
+2753	29	B	the technology.
+2753	3	A	right.
+2753	5	A	and they, they're very,
+2753	6	B	well,
+2753	2	B	and, you know, they're very willing to be taught in many cases now, too,
+2753	2	B	but, you know, there's just always this kind of resentment underlying
+2753	2	B	i think that when they receive help from us, they want it,
+2753	2	B	but, they don't want it, i mean ,
+2753	3	A	you're
+2753	2	B	it's kind of a
+2753	7	A	you're exactly right.
+2753	7	B	catch twenty-two.
+2753	3	A	uh-huh.
+2753	4	A	it, it's sort of illustrated by the, uh, world bank and international monetary fund not wanting to continue to do business there
+2753	4	A	because they offer assistance, then don't get repaid.
+2753	6	B	yeah,
+2753	6	B	yeah.
+2753	2	A	so it's sort of a thumbing of the nose, uh, approach.
+2753	2	A	they need it,
+2753	2	A	and they need to live up to certain regulations and expectations,
+2753	2	A	but uh, then don't.
+2753	2	A	of course it's a very volatile government, uh, situation, too.
+2753	6	B	well,
+2753	2	B	and i think that, you know, it,
+2753	28	B	somewhat a sarcastic view,
+2753	4	B	but some of those drugs czars, you know,
+2753	2	B	they, they know that by pumping that poison into our system
+2753	6	A	uh-huh.
+2753	7	B	that that's the way to bring us to our knees, more on their level.
+2753	5	A	you know,
+2753	2	B	you know, that's really, uh, kind of a far fetched idea,
+2753	3	B	i know,
+2753	2	B	and i don't think people probably think those things consciously,
+2753	6	A	# uh-huh. #
+2753	2	B	# but # it's like in any sibling rivalry
+2753	5	A	well the,
+2753	2	B	we're hearing the same,
+2753	2	A	the solution discussed at one time and i think it has real merit on the drug situation is that the g-, the u s government could spend less money by buying the crop and destroying it than they are in trying to, to beef up the military and to do all other things.
+2753	2	A	i think it would be cheaper to buy it and destroy it,
+2753	4	A	which would still give the, uh, the grower in columbia and elsewhere in latin america the, uh, the money that they apparently need and go, go to the illegal crop for.
+2753	2	A	and it would save the u s money in
+2753	24	B	in the long run.
+2753	7	A	in the long run in how much they're trying to do,
+2753	2	B	and in the short run probably , too.
+2753	3	A	true.
+2753	13	B	course, then could, you know, at, at some point, could you ever convince someone to turn around and grow something that was productive for humankind.
+2753	26	A	no,
+2753	26	A	no.
+2753	5	B	you know.
+2753	2	A	and, i, i think finding an alternate to that would be very good.
+2753	2	B	i mean even their, even their legal crops are things that we don't perceive as being healthy now from a medical standpoint of view, coffee
+2753	6	A	right.
+2753	7	B	tobacco
+2753	6	A	uh-huh.
+2753	7	B	you know .
+2753	24	A	argentine beef,
+2753	5	A	yeah,
+2753	5	A	yeah.
+2753	4	B	they're certainly legal,
+2753	2	B	but they're certainly not healthy.
+2753	13	A	well, have we come up with a solution yet, salina?
+2753	26	B	no,
+2753	4	B	not that i know of .
+2753	16	A	.
+2753	2	B	but it's been fun hashing about it i suppose.
+2753	5	B	at any rate,
+2753	5	B	yeah.
+2753	30	A	yeah,
+2753	6	A	yeah.
+2753	4	A	well, one of these days, uh, i hope we'll find some, some way to substitute the good crops for illegal ones.
+2753	2	B	well, let's just hope that the powers that be, uh, have time to, a little bit once in a while to, to think in some farther reaching avenues than you and i do here tonight
+2753	5	B	but,
+2753	3	A	i agree.
+2753	12	B	well, it's been nice chatting with you.
+2753	12	A	yes,
+2753	12	A	it has.
+2753	12	B	i appreciate it,
+2753	12	B	and, and tell your wife i hope we, i get her again sometime, too.
+2753	12	B	this is fun,
+2753	12	A	very good .
+2753	12	B	it's kind of nice to, to see old friends now, you see.
+2753	12	A	all right,
+2753	38	A	thank you salina.
+2753	12	B	bye now.
+2753	12	A	bye.
+2836	0	A	okay.
+2836	2	A	uh, far as, you know, crime in the cities, i'm sure, like in yours it's pretty, pretty bad.
+2836	2	A	uh, probably the biggest thing we've got going now is the robberies
+2836	2	A	and theft and probably murder
+2836	6	B	uh-huh.
+2836	7	A	are the two top ones that we have.
+2836	1	A	how about you?
+2836	28	B	uh, well, i don't actually live in the city,
+2836	17	B	but i'd probably say that's roughly right.
+2836	2	B	i mean crimes against property seem to outnumber crimes against life,
+2836	2	B	but i, i think with the current war on drugs and all this kind of stuff i'd say probably the police department would claim the number one crimes, crimes are probably solicitation of prostitution, uh, and sale of drugs.
+2836	3	A	uh-huh.
+2836	2	A	prob-, probably right, if you look at it from that stand point.
+2836	6	B	uh-huh.
+2836	5	A	what, uh,
+2836	13	A	is there anything, uh, that you particularly are concerned with in your particular area as far as security and that sort of thing?
+2836	4	B	uh, where i live now it's, it's not so bad.
+2836	4	B	i mean i can basically leave my front door unlocked and not have to worry about it.
+2836	4	B	uh, but i do have friends that live in the city
+2836	2	B	and i think that they get a lot of fallout from this war on drug thing. uh, just because there are, like, crack houses, you know, on their street and stuff like this.
+2836	6	A	uh-huh.
+2836	13	A	do you live in a real small town or, or out in the country?
+2836	4	B	i live out in the country,
+2836	5	B	yeah.
+2836	20	A	how far out from the city, i mean, do you,
+2836	4	B	i'm about fifteen miles out.
+2836	30	A	about fifteen miles.
+2836	4	A	i live in a little suburb, uh, which is, i guess from dallas is twelve miles or so
+2836	6	B	uh-huh.
+2836	4	A	but it's pretty congested.
+2836	4	A	we are considered in the country,
+2836	5	B	um.
+2836	2	A	but it doesn't really feel like you're in the country.
+2836	5	B	um.
+2836	2	A	our major crimes in our immediate town, uh, is probably robberies, house robberies
+2836	6	B	uh-huh.
+2836	7	A	and very few instances of, you know, alcohol, drugs, uh, reported.
+2836	2	A	however, i'm sure they're there.
+2836	6	B	uh-huh.
+2836	4	A	but, uh, right now our neighborhood is running about, uh, eighty percent of the homeowners have been robbed,
+2836	9	B	wow.
+2836	7	A	sometime during their, their, uh, existence in that neighborhood.
+2836	2	B	that's huge .
+2836	4	A	and since that time everybody's got some sort of burglar system or, you know, uh, burglar alarms
+2836	6	B	uh-huh.
+2836	7	A	uh, and including the out, uh, the outer perimeter type, uh, devices,
+2836	6	B	uh-huh.
+2836	7	A	sensors and things like that.
+2836	4	A	it's cut back, you know, considerably,
+2836	2	A	but it, it just shifts it from our neighborhood to another neighborhood to other neighborhood,
+2836	2	A	so it still, uh, remains city wide, pretty, pretty high.
+2836	13	B	are there, are there any theories on why this is happening?
+2836	2	A	uh, i would say the majority of it's happening during the day, uh, between probably ten in the morning and three in the afternoon.
+2836	6	B	uh-huh.
+2836	5	A	most,
+2836	20	B	but why?
+2836	20	B	why is it happening?
+2836	4	A	well, most families, most families are young
+2836	4	A	and both people are working.
+2836	6	B	uh-huh.
+2836	4	A	so they're happening during the hours they're gone from work.
+2836	6	B	uh-huh.
+2836	2	A	uh, so, uh, i would say that's probably their prime motivation.
+2836	2	A	they'll, they'll stock your house and, uh, look at your pattern and then go from there.
+2836	13	B	so they're professionals?
+2836	23	A	uh, they classify most of them as professionals.
+2836	5	B	um.
+2836	4	A	uh, you get a few of them that are a little bit sloppier, uh, just taking, uh, you know, just junk items that they, they can just get, you know, ten to twenty bucks for real quick.
+2836	6	B	uh-huh.
+2836	2	A	probably the biggest items that, uh, that you get in our neighborhood, or, would be the high classed automobiles,
+2836	4	A	the, you know, mercedes, volvos, things that they can get, you know, big dollars for
+2836	6	B	uh-huh.
+2836	7	A	and the jewelry are the major targets,
+2836	4	A	guns, that sort of stuff.
+2836	5	B	um.
+2836	4	A	very few, you know, penny, penny ante stuff.
+2836	20	B	well, what do you think can be done to reduce that sort of crime?
+2836	2	A	well, uh, the police force, for one,
+2836	2	A	i think they could, uh, definitely add to the police force and the type equipment that they use.
+2836	5	A	uh, it's,
+2836	2	A	oh, right now i think, we are about thirty thousand people
+2836	4	A	and there's only eight officers that patrol  for thirty,
+2836	6	B	uh-huh.
+2836	7	A	for that amount  of people
+2836	6	B	uh-huh.
+2836	7	A	which is not very many.
+2836	6	B	right.
+2836	5	A	and,
+2836	2	B	but, i mean, that's going to tend to,
+2836	2	B	i mean it seems to me that sort of approach will tend to simply make the cost of committing the crime slightly higher ,
+2836	2	B	in other words, you've increased the probability of somebody being caught a little bit.
+2836	2	B	the real question is how do you convince people not to commit such crimes in the first place.
+2836	5	A	well, the,
+2836	4	A	course in our particular state, uh, we have the prison overcrowding, whatever,
+2836	4	A	so they're giving the early release, uh,
+2836	6	B	right.
+2836	4	B	they're doing that in our state, too.
+2836	6	A	yeah,
+2836	5	A	and, and it's,
+2836	4	A	i think what they need to do is stop building more jails and start giving stiffer sentences, uh,
+2836	5	A	but for the,
+2836	13	B	so you think that would be a deterrent?
+2836	23	A	that would be, certainly be a deterrent.
+2836	6	B	uh-huh.
+2836	2	A	and, uh, not necessarily, you know, give in to their, uh, human rights desires.
+2836	11	A	you know, if they're overcrowded, just keep cramming them in there till they just suffocate. uh,
+2836	20	B	well, what about an innocent person who happens to have been found guilty?
+2836	2	A	uh, i think they'd have to go to extra measures to make sure a person's guilty, you know, in a lot of cases.
+2836	2	A	course, i, i know you can't be a hundred percent foolproof.
+2836	6	B	right.
+2836	5	A	uh,
+2836	29	B	so you'd, you'd rather see it harder to convict somebody.
+2836	3	A	i'd rather see it a little bit harder and have a little bit more evidence,
+2836	6	B	uh-huh.
+2836	7	A	uh, to convict somebody
+2836	4	A	and then those convicted, especially of, you know, murder and, and, uh, you know, major crimes,
+2836	6	B	uh-huh.
+2836	7	A	uh, to reach the life sentences and, you know, death penalties and follow-through with that.
+2836	5	B	huh.
+2836	4	A	uh, especially, you know, in the case of murder
+2836	6	B	right.
+2836	4	A	uh, i know in my case, i, my wife and daughter were kidnapped,
+2836	9	B	oh, wow.
+2836	7	A	during a house robbery back in eighty-five
+2836	9	B	oh, my goodness.
+2836	4	A	and we caught, the individuals got caught,
+2836	4	A	we,  uh,
+2836	6	B	uh-huh.
+2836	7	A	we  went through the court system and all that sort of thing
+2836	4	A	and, uh, you know, two counts of kidnapping, uh
+2836	6	B	uh-huh.
+2836	7	A	you know, the, the forty-five to the head, you know, just the, the mental anguish and the whole nine yards
+2836	6	B	right.
+2836	7	A	uh, you know, the guy only got five years.
+2836	9	B	wow.
+2836	4	A	and, you know, he was out within two months because of the parole system.
+2836	5	A	so what, what,
+2836	13	B	did you, did you sue him under the civil system?
+2836	32	A	do what now?
+2836	13	B	did you sue him under the civil system?
+2836	26	A	n-, no.
+2836	4	A	i'm not real familiar with that.
+2836	2	B	well, you could probably sue him for mental anguish or something, right,
+2836	6	A	oh.
+2836	7	B	and try to get money from him
+2836	5	B	and,
+2836	4	A	well, the insurance companies and all that tried to, tried to go after him
+2836	4	A	and they said, well, you know, he, they're, he has no job,
+2836	33	A	he has nothing,
+2836	33	A	there's nothing that he has that, that you could go after.
+2836	6	B	yeah.
+2836	2	B	makes you wish that had, uh, still had indentured servitude, for this sort of thing.
+2836	3	A	yeah.
+2836	5	A	uh, very seld-,
+2836	4	B	but they give the guy a job in prison and make him pay his damn debt.
+2836	6	A	yeah.
+2836	4	A	they don't do that here.
+2836	4	A	course they pay them,
+2836	5	A	but they don't, you don't,
+2836	4	A	you or the insurance companies never see any of that money.
+2836	6	B	yeah,
+2836	9	B	that's too bad.
+2836	4	A	and, uh, you know, and they're , right now they're reluctant to go after him because they're, you know, they're, they're repeat offenders,
+2836	4	A	they, uh, been in jail before ,
+2836	6	B	uh-huh,
+2836	6	B	uh-huh.
+2836	2	A	they've been released, you know, several times, which is another,
+2836	6	B	uh-huh.
+2836	7	A	uh, deal i hate to see.
+2836	6	B	uh-huh.
+2836	4	A	but, uh, you know, basically the guy commits, you know three major crimes  and, and,  uh,
+2836	6	B	yeah,
+2836	2	B	i, i think that's re-,
+2836	7	A	and  car theft on top of it,
+2836	6	B	yeah.
+2836	7	A	destroys my car,
+2836	6	B	yeah.
+2836	4	A	and we're out, you know, uh, you know, fifteen thousand dollars
+2836	4	A	and,
+2836	9	B	that's awful .
+2836	7	A	you know, the guy gets out in two months
+2836	4	A	and he goes out and commits it again.
+2836	4	A	fact, he's back in jail now.
+2836	5	A	so, what, what, uh,
+2836	2	B	gives you sympathy for the vigilantes.
+2836	3	A	yeah.
+2836	8	A	what, what deterrent does he really have?
+2836	6	B	yeah.
+2836	30	A	yeah,
+2836	2	A	i think in our, in our particular neighborhood, vigilantism is becoming a real, real possibility.
+2836	6	B	uh-huh.
+2836	4	A	uh, we've had a couple instances where break ins where the people have actually, you know, shot the people
+2836	9	B	oh, my god.
+2836	4	A	and, uh, return offenders have,
+2836	4	A	they've actually waited for them, where they've robbed, you know, particular neighborhood,
+2836	4	A	they'll rob one house,
+2836	4	A	then other people will wait up, you know, and wait for somebody to do something else, try to take it in their own hands.
+2836	6	B	right.
+2836	4	A	course it doesn't always work out in their favor.
+2836	6	B	right.
+2836	4	A	but, uh, nevertheless,
+2836	6	B	uh-huh.
+2836	7	A	i think people are just getting fed up and saying, you know, you can't arrest all of us,
+2836	33	A	you can,
+2836	6	B	right.
+2836	7	A	you know, you can  get some of us,
+2836	33	A	you can't get all of us.
+2836	6	B	uh-huh.
+2836	4	A	uh, and we're beginning to see more and more of that.
+2836	2	B	and that, that's a deterrent, too. if you think the home owner might be armed, right, and awake
+2836	6	A	yeah.
+2836	4	B	here you break in,
+2836	4	B	and you're going to get shot.
+2836	6	A	yeah,
+2836	2	A	that's, i mean that's certainly a possibility in, in,
+2836	4	A	we have had a few cases where the guy has broken in, you know, during the middle of the night and gotten himself shot to death.
+2836	6	B	uh-huh.
+2836	4	A	and, uh, it helps for a while
+2836	6	B	uh-huh.
+2836	4	A	but then just another different set of people come in,
+2836	4	A	and most of the people are transients from out, outside of the state.
+2836	5	B	huh.
+2836	2	A	uh, i would say probably eighty percent of them that are caught, they're from places like up in oklahoma, and louisiana, arkansas, you know, across the, the border.
+2836	9	B	wow,
+2836	4	A	so, you know, people who don't readily read the newspapers in our town or whatever
+2836	6	B	uh-huh.
+2836	2	A	it's not many from the local communities.
+2836	6	B	uh-huh.
+2836	2	A	but, uh, it's a problem,
+2836	2	A	and i, i just, i think that the court systems need to be more accurate in, in, stiffer in their penalties,
+2836	6	B	yeah.
+2836	2	A	would be a definite deterrent
+2836	2	A	and,
+2836	6	B	yeah.
+2836	7	A	and,  uh, giving the, uh, police, uh, agencies a little bit more jurisdiction over what they do when they, when they catch these people.
+2836	3	B	uh-huh.
+2836	3	B	i mean, i, i tend to agree with you.
+2836	2	B	i think, uh, what i would like to see is, number one, completely getting rid of these victimless crimes. uh, there's no reason to enforce those and spend time and money doing it
+2836	6	A	right.
+2836	7	B	and, and worry about these things where people are getting hurt.
+2836	2	B	and i think one of the big things that you can do is, to increase deterrence is, uh, if someone is found guilty of a, uh, felony level offense, they lose their citizenship.
+2836	4	B	and they lose their constitutional rights.
+2836	6	A	uh-huh.
+2836	7	B	you know,
+2836	2	B	and just a lot of things that we're trying to worry about, you know, protecting these people from, we just don't protect them.
+2836	4	A	i know like in my wife's case, they made her feel like the criminal.
+2836	3	B	i know,
+2836	2	B	and i think, i think that's ridiculous.
+2836	5	A	they, they went to all, all ...
+2838	2	B	gun control seems to be a rather, uh, timely topic, with all that's going on legislation wise.
+2838	3	A	yes .
+2838	4	B	and, uh, the, the interesting scale that they assigned it, uh, the one being a banned and ten being no regulations or totally free .
+2838	2	B	i'd have to put myself pretty much in the middle, i guess.
+2838	2	B	i, i don't mind regulating all of the, the guns
+2838	2	B	and i would certainly call for a ban on certain types.
+2838	2	B	now the, the wisdom as to which types, that's going to be a debate forever, i would assume.
+2838	2	B	uh, the method of, of controlling it, well that's all into how much money you want to put into the, the controls.
+2838	4	B	uh, one point that was made in the house hearings
+2838	5	B	or
+2838	4	B	the representative stood up and said, you know, we can check a guy's credit card instantly,
+2838	33	B	but, uh, we don't want to check his background,
+2838	2	B	and of course those are two different issues as far as privacy goes
+2838	6	A	right.
+2838	5	B	uh,
+2838	4	B	but there still, the, the technology exists to, to check it if they want.
+2838	5	B	so, it's, it's kind of a,
+2838	2	B	i guess you could put a dollar figure on it if you really want to make that kind of an effort and regulate it like that.
+2838	4	B	and then you've got the group of people that decide that there's, there's no particular reason to have them at all
+2838	2	B	and you got to balance those against the ones that say there is some sport to it
+2838	2	B	and i guess i would fall more in the, the realm that i like the sport issue of it,
+2838	4	B	but i, i could give it up without too much trouble,
+2838	2	B	not the world's most pleasurable thing
+2838	2	B	and it costs a bit to do it,
+2838	6	A	yes .
+2838	7	B	uh, finding ranges and things like that.
+2838	6	A	right.
+2838	4	B	uh, i have shot a variety of guns for a number of years,
+2838	2	B	but it's just not like golf or whatever.
+2838	2	B	i mean there are other things that you could go do.
+2838	2	B	so, uh, i, i don't see the, the joy of shooting as, as that much of a driving factor.
+2838	2	B	i think that society could easily swing the scales the other direction just for the sake of safety of the number of kids that tend to get hurt,
+2838	6	A	yeah.
+2838	4	B	i don't even keep the gun in our house,
+2838	6	A	right.
+2838	4	B	so i don't have that problem,
+2838	5	B	but, uh,
+2838	2	B	it's a hard, hard topic, i guess.
+2838	2	B	a lot of people have a hard issue, a lot of hard feelings about it.
+2838	3	A	they do,
+2838	4	A	and you, boy you can get them on either side
+2838	4	A	and just like you say,
+2838	2	A	uh, well i think i, i guess i'd have to place myself, uh, probably seven or eight ,
+2838	5	A	because,
+2838	31	A	or not,
+2838	4	A	w-, w-,   onto no control,
+2838	10	A	i'm sorry, excuse me, that,
+2838	4	A	uh, two or three.
+2838	6	B	uh-huh.
+2838	4	A	i was going the wrong direction.
+2838	4	A	uh, because of, we had a neighbor child that was killed by another child
+2838	9	B	uh-huh.
+2838	7	A	because they had a gun in the house
+2838	4	A	and the father kept the bullets in a separate place,
+2838	4	A	but the little boy was five years old and was intelligent enough to,
+2838	4	A	uh, he knew where booth, both places were, loaded the gun
+2838	4	A	and they were playing cowboys and indians
+2838	4	A	and he shot the other little boy right between the eyes.
+2838	7	B	boy.
+2838	5	A	so, uh,
+2838	4	A	i mean it,
+2838	4	A	it destroyed two families
+2838	6	B	right.
+2838	7	A	uh, in just that instant
+2838	2	A	and, and i, a lot of people say that they need it for protection, uh,
+2838	4	A	having worked at one time in baltimore,
+2838	5	A	or,
+2838	4	A	i don't know if you're in the big city,
+2838	4	B	dallas.
+2838	13	A	are you,
+2838	32	A	dallas?
+2838	19	B	uh-huh.
+2838	2	A	that's a big city .
+2838	6	B	yeah.
+2838	5	A	uh, then you know that, uh, uh,
+2838	2	A	if you live anywhere real close that, uh,
+2838	5	A	the safety is, uh,
+2838	2	A	some people argue that they need a gun to make sure that they aren't going to get shot because of the incidences of break ins and, you know.
+2838	4	A	but, uh, uh, we have never had a gun in the house with my children growing up.
+2838	5	A	uh, i, uh,
+2838	4	A	once, uh, uh, knew a fellow that had, had been a policeman
+2838	4	A	and he said that if you pull a gun on a robber, he's going to assume that you know how to use it well,
+2838	4	A	and he's going to, you know, try to shoot first.
+2838	6	B	right.
+2838	4	A	uh, so, you know, if he's got one.
+2838	4	A	uh, and if not,
+2838	4	A	uh, then usually they, uh,
+2838	4	A	if he's got a knife or whatever that can throw it at you,
+2838	5	A	i mean, you know
+2838	6	B	right.
+2838	7	A	they, they,
+2838	4	A	he said that it, it was better not to have,
+2838	4	A	especially myself, now i'm a widow,
+2838	5	A	and, uh,
+2838	4	A	i, so i'm,  when my handicapped son is, is not at home, i'm by myself,
+2838	5	A	but, uh, there's,
+2838	4	A	i still won't have a gun in the house because he said it's really , uh, playing russian roulette if you do .
+2838	5	A	uh,
+2838	6	B	yeah.
+2838	2	B	about the only circumstances that they'd be of any value is when you happen to already know that the, the, person was coming your way.
+2838	2	B	once you're surprised, it's too late.
+2838	3	A	that's right.
+2838	5	B	and, and the rare,
+2838	3	A	that's right.
+2838	7	B	circum-,
+2838	2	B	you know, the very few of those burglaries actually occur in such a way that you knew the guy was coming,
+2838	6	A	right.
+2838	2	B	and had time to do anything about it.
+2838	3	A	that's right.
+2838	4	B	and, i don't have that problem,
+2838	4	B	as i don't use that argument as saying it's worth keeping one.
+2838	4	B	in the, uh, n r as, uh, claim that the, uh, the constitutional, the right to bear arms and that whole statement, uh,
+2838	2	B	it's hard to know the original intent,
+2838	2	B	but i, i don't see it as that, that difficult of a story to believe when the opposition says that, uh, yeah, it's the right to, to arm a militia and, as opposed to just the general public.
+2838	6	A	right.
+2838	2	B	and you have a, you have a earn a right,
+2838	2	B	not just a privilege as it were if you're going to serve in the militia,
+2838	2	B	then you have a right to have that arm,
+2838	5	B	but, uh,
+2838	3	A	that's right.
+2838	4	B	you know, there's all sorts of arguments there
+2838	3	A	i know .
+2838	4	B	but, i don't even want to worry about what the original intent was,
+2838	6	A	no.
+2838	4	B	they didn't have this problem back then .
+2838	3	A	no,
+2838	3	A	that's true.
+2838	3	A	that,
+2838	2	B	so, we change our rights with our social status.
+2838	7	A	that's,  that's right,
+2838	3	A	that's right.
+2838	4	B	they're man given rights
+2838	4	B	and they can be taken away by a man,
+2838	5	B	so,
+2838	6	A	right.
+2838	4	B	uh, the people that hide behind that, i don't worry about.
+2838	4	B	they can go live in another country if they want.
+2838	6	A	well, yeah,
+2838	4	A	that's how i feel, too.
+2838	4	A	i know, well,
+2838	4	A	e-, even here where i work, uh, we have a, a gun club.
+2838	4	A	and, of course, those people are very avid.
+2838	4	A	they,  you know,
+2838	6	B	uh-huh.
+2838	7	A	they say there should be no ban,
+2838	5	A	that it's not,
+2838	2	A	but i can't see why any, uh, o-, on the street citizen should be able to be allowed to have a machine gun.
+2838	6	B	right.
+2838	2	A	uh, you know, when you were talking about maybe what kind of guns that would be hard to decide,
+2838	2	A	but there are a few guns that, uh, just are not, uh, sport,
+2838	5	A	or, i mean,
+2838	4	A	i don't know too many people that use a machine gun to go sport hunting either .
+2838	6	B	right.
+2838	2	A	so, uh, i, i think they should have at least some control over, over those things.
+2838	4	A	uh, and when you were speaking about how they can check up, you know, on credit cards,
+2838	4	A	well, i, i understand about the privacy act and everything,
+2838	20	A	but why can't they check to see if the person who is applying for this gun has had a record or not.
+2838	2	A	that, to me, would not be an unreasonable thing.
+2838	6	B	right.
+2838	4	A	and if they do,
+2838	4	A	course the argument with the people in the gun club, uh, is that, uh, well the people that are going to get guns are the ones that are going to steal them anyway.
+2838	6	B	right.
+2838	4	A	and so, it's not going to be that they're buying them.
+2838	2	A	course, some of them do.
+2838	6	B	yeah.
+2838	2	A	so it, it is a hard question .
+2838	29	B	tends to, tends to strap only the legitimate people.
+2838	2	B	most regulation does ,
+2838	3	A	right,
+2838	3	A	oh, yeah.
+2838	5	B	and, most,
+2838	2	B	it's very difficult to, uh, legislate, uh, crooks or whatever you want, however you want to word it
+2838	3	A	that's right.
+2838	5	B	so it's,
+2838	2	B	well, this may be a never ending topic.
+2838	4	B	i got a couple of calls waiting on me,
+2838	12	B	so i'd better let you go.
+2838	12	A	okay,
+2838	12	A	well thanks for talking.
+2838	12	B	okay, bye.
+2838	12	A	bye-bye now.
+3528	0	A	night,
+3528	25	B	fine,
+3528	38	B	thank you.
+3528	4	A	i understand we're supposed to talk about spaceflight.
+3528	3	B	yes.
+3528	4	A	i hope you know more about it than i do.
+3528	4	B	oh, well , i just got through renting, reading, uh, space by, uh, james michener.
+3528	13	A	oh, is that right?
+3528	2	B	and so that, uh, helped out a little bit i think.
+3528	4	A	i haven't read his book.
+3528	2	A	i was so upset with texas that i haven't gotten into any more of his books because i thought it was just horrible.
+3528	3	B	well, he tends to go into a lot of detail sometimes.
+3528	28	A	well,
+3528	2	A	and i don't think he was truthful in a lot of what he did in texas
+3528	2	A	so i wasn't sure how credible he was.
+3528	13	B	oh, is that right?
+3528	1	A	but anyway, what do you think we've gained from the spaceflights?
+3528	21	B	well , uh, i'm not sure to be honest with you,
+3528	2	B	so, uh, this going to the moon seemed to be a exciting adventure
+3528	5	B	and,  uh,
+3528	2	A	ego trip.
+3528	7	B	and,  yeah,
+3528	2	B	it was nice to go there,
+3528	2	B	but i don't know that it really benefitted mankind that much.
+3528	6	A	uh-huh.
+3528	4	B	i happen to live not too far away from,
+3528	4	B	uh, well, i've actually worked for the company that, uh, has been blamed for the challenger disaster. uh
+3528	13	A	oh, is that right?
+3528	7	B	morton thiakol.
+3528	6	A	uh-huh.
+3528	4	B	and, uh, you know, that's been kind of a, a real negative feeling here
+3528	4	B	is --
+3528	6	A	right.
+3528	2	B	sure it was, you know, very unfortunate thing that occurred there
+3528	5	B	and it's,
+3528	20	A	where do you live?
+3528	4	B	uh, we live in, uh, utah.
+3528	14	A	you live in u-,
+3528	13	A	am i talking to utah right now?
+3528	19	B	uh-huh.
+3528	9	A	oh, oh, great.
+3528	6	B	yeah.
+3528	4	A	because
+3528	6	B	uh,
+3528	7	A	i'm in dallas.
+3528	6	B	oh.
+3528	16	A	<Laughter>.
+3528	4	B	i have a sister that lives in dallas,
+3528	4	B	that's how we got hooked up to the program was  her --
+3528	6	A	i see.
+3528	7	B	her  husband works for penney's there.
+3528	6	A	i see.
+3528	5	B	so.
+3528	13	A	carolyn rash?
+3528	32	B	pardon me?
+3528	13	A	is her name rash, carolyn rash?
+3528	36	B	no, her name is, uh, my last name is skidmore.
+3528	6	A	i see.
+3528	4	B	and her, her husband's name is,  his last name is  weight.
+3528	6	A	i see.
+3528	5	B	and, uh,
+3528	2	A	well, you probably know a lot about it.
+3528	2	A	i wasn't sure that they were blaming that sp-, space disaster on one company.
+3528	16	B	<Breathing>.
+3528	4	A	i hadn't heard that.
+3528	4	B	well, they were.
+3528	5	B	there was, uh,
+3528	4	B	apparently the specifications for the joints, uh,
+3528	4	B	they were not to perform in, uh, cold weather
+3528	4	B	and, uh, apparently there was definitely a, a joint that did not seal,
+3528	4	B	and, uh, if you've ever seen the size of those, uh, motors
+3528	6	A	uh-huh.
+3528	7	B	that put them into space,
+3528	4	B	i mean, they're as long as a football field practically and
+3528	6	A	uh-huh.
+3528	7	B	about twelve foot in diameter
+3528	4	B	and, and there is a lot of pressure, lot of thrust to get that much weight up in the air.
+3528	6	A	oh, yeah.
+3528	5	B	so it's, this book was interesting, though.
+3528	2	B	i, uh,
+3528	4	B	talked about how a lot of the problems they have to come, overcome to, uh,
+3528	2	B	it's a very complex, uh, situation to go into space.
+3528	3	A	oh, yeah,
+3528	3	A	i would think so, too .
+3528	5	B	they would,
+3528	4	B	the thing that he went into quite a bit of detail about how, how much of a problem it is to re-enter the earth's atmosphere.
+3528	13	A	you never think about that do you?
+3528	19	B	yeah.
+3528	2	A	i would think it would be harder to get up than it would be
+3528	6	B	yeah .
+3528	7	A	getting back down.
+3528	4	B	but they have to come in at a, just the right angle.
+3528	4	B	if you come in at the wrong angle, what happens is they bounce off and go back into space
+3528	6	A	uh-huh.
+3528	4	B	and if they come into it at a different angle there is so much friction that it burns them up.
+3528	6	A	right.
+3528	5	B	so,
+3528	4	A	well, i saw one of, some of those early space capsules at smithsonian.
+3528	2	A	i'm sure you've
+3528	6	B	oh.
+3528	7	A	seen more of them than i have,
+3528	4	A	but
+3528	6	B	uh-huh.
+3528	7	A	you could see the scorch on them, you know,
+3528	5	A	they had though piles
+3528	6	B	yeah.
+3528	2	A	but you could see where they would come off in the, how hot it got because it was still the scorch on them which was quite interesting.
+3528	6	B	yeah,
+3528	4	B	i've, i've,
+3528	5	A	well, i,
+3528	11	A	excuse me, go ahead.
+3528	7	B	i would say i've never,   i've never  seen an actual capsule.
+3528	6	A	oh, yeah.
+3528	4	B	i've seen more, more of the motors that, that they
+3528	6	A	uh-huh.
+3528	7	B	produced out there.
+3528	4	A	well, these were the ones that john glenn went up in
+3528	6	B	uh-huh.
+3528	7	A	you know, and the old, old ones.
+3528	6	B	yeah.
+3528	4	A	the very first ones,
+3528	4	A	the little bell type things.
+3528	4	B	people have commented how, uh, they were surprised at how small they were.
+3528	3	A	yeah,
+3528	4	A	they really were,
+3528	5	A	they
+3528	13	B	looked pretty
+3528	7	A	just, uh,
+3528	7	B	confining, huh.
+3528	19	A	oh, yeah,
+3528	4	A	and, uh, the whole thing was small
+3528	2	A	and, yeah, you, i mean, you actually put it on , you know.
+3528	13	B	is that right?
+3528	23	A	you put it around you pretty much,
+3528	4	A	it was so small.
+3528	6	B	huh.
+3528	2	A	well, i thought there was some medical benefits that we have learned from space,
+3528	13	A	but did he go into that in the book?
+3528	36	B	not really. uh, ,
+3528	2	A	i guess that's just to sell us on it.
+3528	4	B	one thing's,
+3528	4	B	i know one thing they've, they've mentioned that i didn't get from the book, by the way,
+3528	4	B	but, it talked about, uh,
+3528	4	B	they're able to manufacture, uh, different kinds of crystals
+3528	6	A	oh, yeah.
+3528	7	B	and ball bearings and things like that in a zero gravity state that they turned out being almost, uh, nearly perfect as far as a ball bearing goes.
+3528	4	B	it's perfectly round.
+3528	6	A	uh-huh.
+3528	2	B	but i'm not sure you have to go to outer space to achieve that zero gravity.
+3528	3	A	well, that's true
+3528	5	A	and,
+3528	6	B	yeah.
+3528	3	A	that's right .
+3528	13	A	well, do you think we should continue to support it at the level,
+3528	2	A	well, i thought probably one of the things they were doing that they didn't tell us was spying.
+3528	2	A	because
+3528	6	B	uh-huh.
+3528	7	A	i think those satellites, you know, or not satellites, but the spaceflights could really spy
+3528	2	A	and  with,  uh
+3528	3	B	yes.
+3528	7	A	with  russia's demise, i didn't know if we should continue to support it at the current level.
+3528	2	B	uh, i think they have cut it back, to be honest with you.
+3528	6	A	yeah.
+3528	7	B	from, from the glory days when they did the apollo shots to the moon.
+3528	6	A	uh.
+3528	4	B	uh, i appreciate having the satellites.
+3528	2	B	you know, that's certainly made it nice for other purpose.
+3528	13	B	i don't know if you have a satellite dish or not.
+3528	4	B	we don't
+3528	26	A	no,
+3528	4	A	i don't.
+3528	4	A	i don't
+3528	2	B	but  i
+3528	7	A	either.
+3528	7	B	i  know that's certainly helped a lot
+3528	6	A	yeah.
+3528	7	B	in that regard. uh,
+3756	0	A	okay,
+3756	13	A	have you painted something lately?
+3756	19	B	yes,
+3756	4	B	i have.
+3756	4	B	that room i showed you.
+3756	6	A	yeah.
+3756	4	B	and then since then we have painted the bedroom.
+3756	6	A	oh yeah,
+3756	13	A	another bedroom.
+3756	19	B	yeah,
+3756	13	B	i showed you that one too didn't i?
+3756	4	B	the brown one.
+3756	19	A	yeah.
+3756	19	A	# yeah.
+3756	19	A	yeah. #
+3756	14	B	# yeah,
+3756	4	B	# the one that looks like a fudgesicle.
+3756	6	A	oh yeah
+3756	16	A	<laughter>.
+3756	6	B	yeah.
+3756	9	A	oh heavens.
+3756	4	A	well, i painted the outside of my house
+3756	6	B	yeah.
+3756	7	A	and one bathroom.
+3756	4	A	but i get, i have that problem with the the ceiling, you know, the, uh, the blown, blown, ceiling.
+3756	6	B	oh yeah.
+3756	7	A	you know where you get around the edge.
+3756	3	B	well, that is hard.
+3756	4	B	now, i asked janice, or somebody recently how you do that
+3756	6	A	uh-huh.
+3756	7	B	uh, when you paint the ceilings
+3756	6	A	uh-huh.
+3756	7	B	you know where you have got that textured stuff, that they have special rollers that are real soft and furry # that you paint that with. #
+3756	20	A	# well, # how do you get the edge though?
+3756	32	B	how do you get the edge?
+3756	3	A	# the the straight edge? #
+3756	4	B	# you # just have to be real careful.
+3756	6	A	oh, i see.
+3756	4	B	we use, uh, uh, a two inch brush with, uh, on a slant
+3756	6	A	uh-huh.
+3756	6	A	uh-huh.
+3756	4	B	and that mostly does it even though you still make mistakes.
+3756	5	B	but.
+3756	13	A	huh. well are you going to paint the outside of your house too?
+3756	19	B	well, yeah.
+3756	4	B	i think i am going to do it this spring actually.
+3756	18	A	oh really?
+3756	19	B	yeah,
+3756	4	B	there are six houses.
+3756	4	B	see the people that own the house they, uh, pay for anything like that, that we do.
+3756	9	A	# oh nice. #
+3756	7	B	# as far as # the the materials.
+3756	4	B	there are three houses on this street the same color of yellow out of six houses.
+3756	6	A	yeah.
+3756	4	B	so, i am thinking i am going to change it to, uh, something, you know,
+3756	4	B	the brick is multi color.
+3756	6	A	uh-huh.
+3756	7	B	mostly earth tones.
+3756	0	B	i think i am going to put something like a brown on it, on the outside.
+3756	9	A	oh, that will be nice.
+3756	7	B	and maybe, a little deeper brown in the entry way or something so it will stand out a little.
+3756	5	A	huh.
+3756	7	B	# what color did you paint, #
+3756	24	A	# or, two # tone, or two tone.
+3756	6	B	yeah.
+3756	7	A	you know.
+3756	4	B	there are some columns that could be painted a different color # too. #
+3756	6	A	# uh-huh. #
+3756	20	B	what color did you paint your house?
+3756	4	A	white.
+3756	29	B	# on the out, #
+3756	4	A	# but, i # have a problem.
+3756	4	A	i can't get up high
+3756	4	A	and we can't paint the chimney .
+3756	11	B	well, you have got to get one of those ladders.
+3756	4	A	we have one of those ladders.
+3756	4	A	we are just not willing to get up that high.
+3756	6	B	oh, yeah.
+3756	16	A	<Laughter>.
+3756	4	B	a friend of mine that lives out in your neighborhood, he has done his house
+3756	5	B	and that is what he,
+3756	4	B	i was out there last week
+3756	4	B	and he has finished everything except the chimney.
+3756	4	A	well, we did too.
+3756	4	A	we did it in the fall
+3756	4	A	and it, it's just too high.
+3756	4	A	it is really scary,
+3756	4	A	but --
+3756	6	B	yeah.
+3756	7	A	and  the only thing i would consider doing, a professional, maybe doing that,
+3756	5	A	but it
+3756	4	A	other than doing our own work i prefer it to a professional.
+3756	4	B	well, our house in new mexico, it was stucco,
+3756	4	B	but we had all this trim to paint, and lots of it.
+3756	6	A	yeah.
+3756	4	B	and we did basically seventy-five percent of the house
+3756	4	B	and then i was afraid to do the eaves way up high and stuff.
+3756	6	A	uh-huh.
+3756	4	B	so, i hired this man to come in and do it. a young kid.
+3756	6	A	uh-huh.
+3756	4	B	and he came with, with his own raf-,
+3756	20	B	what do you call those things?
+3756	13	A	the blowers?
+3756	26	B	no,
+3756	4	B	those where you built like a rafter thing.
+3756	4	A	oh, oh, oh, oh, i know what you are talking about. uh
+3756	6	B	yeah.
+3756	4	B	scaffold.
+3756	4	A	scaffold.
+3756	4	A	that's it .
+3756	4	B	he came and did it that way
+3756	4	B	and i think he charged me a hundred dollars to finish up.
+3756	5	A	# huh. #
+3756	4	B	# and # literally i wouldn't have done it with the scaffolds because
+3756	5	A	its,
+3756	7	B	all the places that i had left for him were above huge humongous cactus
+3756	6	A	yeah.
+3756	4	B	and if he fell, he was dead
+3756	4	B	and he knew that .
+3756	5	B	so,
+3756	9	A	oh, my.
+3756	2	A	so that was worth it getting a professional
+3756	3	B	yeah.
+3756	7	A	for that.
+3756	4	B	plus, he cleaned up my mess.
+3756	4	A	oh, i think that is what we might have to do with this chimney,
+3756	4	A	but other than that, it was pretty easy doing it ourself and caulking it and everything ourself.
+3756	6	B	uh-huh.
+3756	2	A	it wasn't too bad.
+3756	5	A	i mean # you think, #
+3756	20	B	# how much # did it cost you for the paint for the outside?
+3756	4	A	shoot, maybe a hundred and fifty.
+3756	14	B	yeah.
+3756	4	A	since, it is a one story,
+3756	4	A	but we did, uh, like two heavy coats over it.
+3756	4	A	# but then that way #
+3756	6	B	# yeah. #
+3756	7	A	you know you are assured you did a good job than you are, you know, if you hire someone to do it.
+3756	4	B	but, that friend of mine that painted his house out there in your neighborhood
+3756	6	A	uh-huh.
+3756	6	A	uh-huh.
+3756	7	B	he went to, uh, i guess to buy his paint
+3756	6	A	uh-huh.
+3756	4	B	and yet he bought like seventeen gallons.
+3756	9	A	my word.
+3756	4	B	and, anyway, he, when he checked out
+3756	6	A	uh-huh.
+3756	7	B	and he was using his charge card too.
+3756	6	A	uh-huh.
+3756	7	B	they only charged him for one gallon of paint. like thirteen bucks or something.
+3756	9	A	oh, my word.
+3756	4	B	and he had, he had, the, uh, he had already carried a ladder outside
+3756	6	A	uh-huh.
+3756	7	B	and told her that
+3756	4	B	and she wrung all that stuff up and made a mistake on the price of the paint
+3756	6	A	uh-huh.
+3756	4	B	so she had to start all over again
+3756	6	A	uh-huh.
+3756	4	B	and when he got outside, he noticed his receipt was like thirteen ninety-nine or something.
+3756	9	A	oh, my word.
+3756	4	B	and he saw .
+3756	29	A	so that was really worth it. # painting his own house. #
+3756	3	B	# yeah,
+3756	4	B	# it was like over two hundred dollars worth of free stuff.
+3756	9	A	oh, my word .
+3756	16	B	<Laughter>.
+3756	9	A	oh, my word.
+3756	4	A	well, he really saved in that way.
+3756	6	B	yeah.
+3756	30	A	but, yeah,
+3756	4	A	i think we are going to do, uh, another bathroom,
+3756	4	A	but i think i will probably just do it, in a roller.
+3756	4	A	i want to do it about the same color. and just be a little,
+3756	2	B	uh. rollers are so messy.
+3756	4	B	we never any more.
+3756	3	A	oh, i know.
+3756	4	A	but it's that, it's the textured wall.
+3756	5	B	well, a little paintbrush,
+3942	4	A	well, the topic's about government.
+3942	4	A	uh, i'm not altogether sure that that's my best topic. uh,
+3942	2	B	i thought it was kind of a strange topic about corruption in the government and
+3942	6	A	yeah.
+3942	7	B	uh, how many people are self serving.
+3942	6	A	uh-huh.
+3942	2	B	i mean,  you
+3942	6	A	uh-huh .
+3942	7	B	i,   i  think people tend to think that the government is not corrupt .
+3942	6	A	uh-huh.
+3942	7	B	and that people aren't self serving.
+3942	6	A	uh-huh.
+3942	2	B	i mean that's what i would like to think.
+3942	6	A	yeah,
+3942	2	A	i, i,  i  think that the last, uh, part of that question was particularly interesting, uh, about, uh, uh, uh, can all unethical behavior, or how much unethical behavior can be made illegal
+3942	6	B	uh-huh.
+3942	7	A	uh, because i-, it seems to me that when , uh, government or public service of any kind degenerates so much that you have to have so many explicit ethical codes
+3942	6	B	uh-huh.
+3942	7	A	uh, parallel to the legal codes that, uh, we're focusing on the wrong thing.
+3942	6	B	uh-huh,
+3942	6	B	yeah.
+3942	2	A	maybe, maybe that's what is happening.
+3942	2	A	maybe so many things have become public with the media over the past, you know, ten to twenty years
+3942	6	B	right .
+3942	7	A	that, uh, it becomes more evident.
+3942	2	A	perhaps things that we didn't think of before and just concentrated on the lawmaking or the results that would be seen in public works or bills that are passed or, you know, et cetera like that
+3942	6	B	uh-huh.
+3942	2	A	and we were just not exposed to the personal lives of these persons.
+3942	6	B	uh-huh.
+3942	2	A	and i couldn't help thinking  when that last quest-,  it was a funny question
+3942	6	B	uh-huh.
+3942	7	A	when that last part of the question  came about h-, how many things can we, uh, actually put a legal code on
+3942	6	B	uh-huh.
+3942	7	A	that, uh, how much, uh, should it be our, uh, prerogative to see into the private lives of these people.
+3942	6	B	yeah.
+3942	7	A	you know.
+3942	3	B	yeah,
+3942	2	B	that makes sense.
+3942	5	A	um.
+3942	2	B	because you start prying in people's private lives, you ruin their lives as well as,
+3942	3	A	that's right.
+3942	2	B	and sometimes, you know, i don't even know how much of a difference it really makes, you know.
+3942	6	A	yeah.
+3942	2	B	i mean, i guess in some cases, sure we care about what they did in the past
+3942	6	A	uh-huh.
+3942	28	B	but, uh, sometimes, i don't know
+3942	6	A	uh-huh.
+3942	2	B	i think it gets in the way of the better judgment.
+3942	2	B	i mean just because you did something in the past doesn't mean he's not a good enough person to be a politician.
+3942	2	A	i, i,  i  agree with that and, uh, and also that if the results that they're putting out and what they actually seem to be accomplishing by
+3942	6	B	uh-huh.
+3942	7	A	legitimate means is what's, you know, going to the public
+3942	6	B	uh-huh.
+3942	7	A	then, uh, then they'll pay for their private life in their own private conscience.
+3942	16	B	<Laughter>.
+3942	16	A	<Laughter>.
+3942	9	B	that's it.
+3942	2	A	and, uh
+3942	6	B	uh-huh.
+3942	7	A	you kn-, when it becomes public, though, it becomes scandalous.
+3942	6	B	yeah.
+3942	5	A	the, that's,  that's  the thing that,
+3942	2	A	uh, things that you don't know
+3942	6	B	uh-huh.
+3942	7	A	uh, d-, do,  do  not worm their way around and influence other people or perhaps lead other people astray.
+3942	6	B	yeah.
+3942	4	A	people could say, oh, they do it,
+3942	5	A	so, i guess, you know,
+3942	2	A	but, as soon as things do get public
+3942	6	B	uh-huh.
+3942	7	A	uh, there, there
+3942	5	B	um .
+3942	7	A	is that terrible concern.
+3942	4	A	so, sometimes i ask myself, what are, uh, people doing that are in the media
+3942	6	B	uh-huh.
+3942	7	A	when somebody, you know, comes up to office,
+3942	2	A	it seems that one of the first thing that's done is to dig up any kind of a thing they can on them
+3942	6	B	uh-huh.
+3942	7	A	and get it all over the headlines.
+3942	3	B	oh, yeah
+3942	2	B	i guess it's what sells newspapers, you know.
+3942	2	A	it's a very low way of living.
+3942	6	B	uh-huh.
+3942	5	A	uh, so,
+3942	4	A	a-, and,  and,   and  as far as, uh, you know, myself having any particular personal, uh, knowledge or insight into politics or politicians, it, i'm not terribly involved in it.
+3942	6	B	uh-huh .
+3942	4	A	just in a very cursory way.
+3942	6	B	right.
+3942	4	A	i vote
+3942	4	A	and i, you know, try to do whatever i can on the little local area,
+3942	4	A	but, i, i,  i-,   it  just is not one of the things that i have, uh, placed, uh, uh, a, a lot of my particular time and effort
+3942	6	B	yeah.
+3942	7	A	into,
+3942	4	A	so, i, i always feel very outside
+3942	6	B	uh-huh.
+3942	7	A	this kind of, uh, this kind of an issue.
+3942	6	B	yeah.
+3942	5	A	but, uh,
+3942	4	B	i am kind of the same way.
+3942	4	B	i just kind of read the paper
+3942	6	A	yeah.
+3942	7	B	follow up on peop-,
+3942	6	A	uh-huh.
+3942	7	B	i mean, you know, just keep an eye on what's going on
+3942	6	A	yeah,
+3942	6	A	right.
+3942	4	B	but i don't really play an active role
+3942	6	A	yeah,
+3942	5	A	uh,
+3942	7	B	in any kind of
+3942	6	A	uh, uh-huh.
+3942	7	B	politics .
+3942	4	A	i'm not, i'm not in there,
+3942	4	A	i'm not one of those, uh, you know, volunteers that's down at headquarters and whatever, uh, although i admire the people that do that
+3942	2	A	and they certainly do get inside information
+3942	6	B	uh-huh.
+3942	2	A	and, uh, of course, the better you know a person that might be affiliated with that kind
+3942	6	B	right.
+3942	7	A	of thing, the more you can trust their, their judgment
+3942	6	B	right.
+3942	7	A	and their insight.
+3942	6	B	uh-huh.
+3942	4	A	but the media insight, as you said,
+3942	4	A	i just kind of read and kind of be aware
+3942	6	B	yeah.
+3942	4	A	and then, uh, i don't like to make a whole lot of, uh, judgment m-, myself
+3942	6	B	yeah.
+3942	7	A	unless things are so absolutely out of whack that, uh,
+3994	0	A	okay.
+3994	6	B	all right,
+3994	13	B	well d-, d-, do you play any musical instruments or,
+3994	26	A	no,
+3994	4	A	i don't play any.
+3994	4	A	i used to.
+3994	6	B	oh well,
+3994	2	A	i think everybody took piano lessons
+3994	5	A	so,
+3994	2	B	everybody,
+3994	3	B	sure.
+3994	4	B	i, i started when i was in, uh, third grade,
+3994	16	A	.
+3994	4	B	and i've, i still play the piano as of today.
+3994	13	A	do you?
+3994	19	B	yes,
+3994	4	B	i do.
+3994	4	A	i started,
+3994	4	A	i think i was in the fifth grade
+3994	4	A	and i played it for maybe three months .
+3994	4	B	but, then, again, i was also in, uh, the marching band.
+3994	4	B	i played the drums,
+3994	4	B	i played the clarinet,
+3994	4	B	i played the trumpet.
+3994	9	A	wow .
+3994	4	B	uh, you know, whatever
+3994	4	B	and so i,
+3994	16	A	.
+3994	7	B	i still sing,
+3994	4	B	and i sing in the choir today
+3994	5	B	so,
+3994	6	A	all right .
+3994	4	B	i en-, i enjoy the music,
+3994	4	B	it gives me an out.
+3994	6	A	yeah.
+3994	2	B	it always sounds like,
+3994	4	B	for my playing the piano when i was depressed and didn't have anything else to do and there was no one to play with i could always go play with the piano, you know.
+3994	3	A	true .
+3994	16	B	.
+3994	16	A	.
+3994	20	B	so, how long did you play?
+3994	4	A	only for about three months.
+3994	30	B	three months.
+3994	6	A	yeah,
+3994	4	A	me and my brother both took the classes
+3994	4	A	and we got pretty bored quick .
+3994	4	B	i was going to say, y-, y-, you got as far as the, uh, chop sticks, huh.
+3994	4	A	um, well, i could play, uh, the wood chuck song.
+3994	30	B	oh, the wood chuck song .
+3994	4	A	and i still can to this date.
+3994	16	B	.
+3994	16	A	.
+3994	4	B	and your mother's saying, and although, the money that we spent for those piano lessons
+3994	6	A	yeah.
+3994	7	B	this is all we got was the wood chuck song .
+3994	6	A	yep,
+3994	4	A	they went out and bought us a piano
+3994	4	A	and for three months .
+3994	9	B	oh, bless your heart.
+3994	16	A	.
+3994	13	B	did you ever, did you ever just bang on it or do anything with it at all.
+3994	19	A	oh, yeah,
+3994	4	A	any time i got bored .
+3994	14	B	oh, okay,
+3994	13	B	but i mean, can you play anything on it, other than wood chuck song?
+3994	26	A	no.
+3994	30	B	no.
+3994	4	A	and jaws,
+3994	2	A	but i think everybody can.
+3994	14	B	okay.
+3994	16	A	.
+3994	4	B	i c-, i, i can still read music if i'm lucky
+3994	5	B	because i,
+3994	4	B	if i work real hard i can still barely read the music,
+3994	4	B	but, see, i played the piano
+3994	6	A	yeah.
+3994	7	B	from the third grade all the way through high school,
+3994	5	B	so --
+3994	6	A	yeah.
+3994	4	B	i played chic-, uh, concertos and other stuff
+3994	5	B	but,
+3994	16	A	.
+3994	4	B	i got to the point where i wasn't really reading music, i was memorizing music,
+3994	4	B	so because of that, i can't read music as well as i used to,
+3994	5	B	but
+3994	6	A	yeah.
+3994	7	B	anyway,
+3994	4	B	but i enjoy it, though.
+3994	4	B	i find it to be a good out
+3994	4	B	and i still enjoy the marching band
+3994	4	B	and i still enjoy, uh, singing in the choir
+3994	5	B	so,
+3994	13	A	do you sing at choir at your church?
+3994	19	B	yes,
+3994	4	B	i do.
+3994	6	A	yeah.
+3994	19	B	yes,
+3994	4	B	i do.
+3994	5	B	that's,
+3994	4	B	in fact, that's about the only musical thing that i still do
+3994	6	A	yeah.
+3994	7	B	is sing in the choir.
+3994	4	A	i tried out for choir when i was, think, in the seventh grade
+3994	4	A	and they wouldn't let me in.
+3994	16	B	.
+3994	4	A	so,
+3994	16	B	.
+3994	7	A	i never tried again.
+3994	4	B	well,
+3994	16	A	.
+3994	7	B	i sing in the choir,
+3994	4	B	i do know if they want me to or not,
+3994	4	B	but at least i do sing in it .
+3994	6	A	yeah,
+3994	2	B	that's pretty good.
+3994	16	A	.
+3994	6	B	well,
+3994	4	A	i never really learned the music or anything.
+3994	4	A	i never learned,
+3994	4	A	i got right to where i was figuring out where all the keys were on the piano
+3994	4	A	and that's about when i quit.
+3994	5	B	i was at,
+3994	4	B	i actually went to the university of texas at one time thinking that i would, c-, be a musician.
+3994	4	B	i wanted to be a high school band director.
+3994	6	A	yeah.
+3994	4	B	but after one semester of that, i said n-, no,
+3994	16	A	.
+3994	7	B	no,
+3994	33	B	this isn't for me.
+3994	4	B	enjoy it, but not for profession, no.
+3994	6	A	yeah.
+3994	4	B	and besides that i kind of learned i wasn't really that good .
+3994	16	A	.
+3994	4	B	i gave up.
+3994	6	A	yeah.
+3994	4	B	course, my mom thought i was,
+3994	5	B	but, uh, you know,
+3994	3	A	of course,
+3994	2	A	parents always do.
+3994	6	B	oh, yeah,
+3994	5	B	so,
+3994	2	A	they're nice that way.
+3994	3	B	yes.
+3994	16	A	.
+3994	13	B	well, what else can we d-, uh, talk about,
+3994	5	B	uh,
+3994	5	A	uh, well, i don't, d-,
+3994	13	A	so you listen to kind of church music, gospel?
+3994	26	B	no,
+3994	26	B	no,
+3994	4	B	i, i listen to k v i l.
+3994	18	A	oh, yeah?
+3994	19	B	yeah.
+3994	30	A	yeah.
+3994	4	B	so i listen to the radio,
+3994	4	B	i like the pop music.
+3994	6	A	oh, yeah.
+3994	4	B	i like people like neil diamond and all, all the folks that you're not supposed to like,
+3994	4	B	but that's who i go for .
+3994	6	A	oh, yeah,
+3994	29	A	the jeezer music as i call it.
+3994	30	B	oh, the jeezer music.
+3994	3	A	yeah.
+3994	6	B	oh, okay,
+3994	6	B	well,
+3994	4	A	my boss listens to that.
+3994	4	A	we listen to ninety-seven point nine
+3994	4	A	and that's his station, so i call it the jeezer music.
+3994	6	B	okay,
+3994	20	B	now what d-, kind of music do you listen to?
+3994	4	A	well, i listen to like ninety-seven point one, you know, more,
+3994	20	B	what d-, what is that?
+3994	5	A	it's more, uh,
+3994	21	A	i don't know how to explain it,
+3994	4	A	kind of pop, you know, rock.
+3994	30	B	rock.
+3994	3	A	yeah.
+3994	29	B	hard rock?
+3994	31	A	well, not hard .
+3994	13	B	not hard rock.
+3994	5	A	just kind of,
+3994	13	B	not like the eagle.
+3994	32	A	huh?
+3994	13	B	is that the eagle?
+3994	19	A	yeah.
+3994	14	B	okay,
+3994	4	B	i know, i know what the eagle is.
+3994	2	A	it's not too hard,
+3994	5	A	it's,
+3994	3	B	that's not too hard.
+3994	5	A	you know.
+3994	2	A	but it's not enough to put you to sleep .
+3994	3	B	true,
+3994	3	B	true.
+3994	2	A	which some of the songs on k v i l can.
+3994	4	B	well, course, see, i listen to k v i l for the contests.
+3994	5	B	i mean ,
+3994	6	A	oh, yeah,
+3994	13	A	got the bumper sticker, too?
+3994	19	B	oh, yes,
+3994	19	B	oh, yes.
+3994	16	A	.
+3994	4	B	you can't drive a car without bumper sticker
+3994	4	B	and you know they're going to call you up.
+3994	24	A	someday.
+3994	3	B	yeah .
+3994	16	A	.
+3994	12	B	well, listen, i've enjoyed talking.
+3994	12	B	i, i'm sure that the switchboard will probably give us that sign off message very shortly anyway.
+3994	12	A	okay.
+3994	12	B	i appreciate it.
+3994	12	A	okay.
+3994	12	B	catch you later.
+3994	12	A	bye-bye.
+3994	12	B	bye-bye.

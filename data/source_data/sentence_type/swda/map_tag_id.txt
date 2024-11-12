@@ -1,0 +1,42 @@
+aa	3
+bd	40
+ad	11
+b^m	30
+t3	35
+qrr	15
+ar	31
+%	5
+nn	26
+no	27
+aap_am	17
++	7
+ng	36
+ny	19
+^q	33
+qw^d	34  疑问句（wh陈述性
+fp	25
+bf	29
+ft	38
+ba	9
+oo_co_cc	37
+bh	18
+bk	14
+fa	10
+fc	12
+br	32
+qh	8
+fo_o_fw_"_by_bc	0
+b	6
+arp_nd	39
+qw	20  疑问句（wh
+qy	13  疑问句（是否
+h	28
+sv	2   陈述句（有意见
+t1	22
+^h	21
+na	23
+x	16
+^g	41
+^2	24
+qo	1
+sd	4   陈述句（无意见

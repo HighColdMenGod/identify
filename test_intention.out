@@ -1,0 +1,27 @@
+cuda
+Epoch [10/200], Loss: 0.4232
+Epoch [20/200], Loss: 0.1703
+Epoch [30/200], Loss: 0.0937
+Epoch [40/200], Loss: 0.0463
+Epoch [50/200], Loss: 0.0264
+Epoch [60/200], Loss: 0.0171
+Epoch [70/200], Loss: 0.0120
+Epoch [80/200], Loss: 0.0090
+Epoch [90/200], Loss: 0.0071
+Epoch [100/200], Loss: 0.0057
+Epoch [110/200], Loss: 0.0047
+Epoch [120/200], Loss: 0.0040
+Epoch [130/200], Loss: 0.0034
+Epoch [140/200], Loss: 0.0029
+Epoch [150/200], Loss: 0.0025
+Epoch [160/200], Loss: 0.0022
+Epoch [170/200], Loss: 0.0020
+Epoch [180/200], Loss: 0.0017
+Epoch [190/200], Loss: 0.0016
+Epoch [200/200], Loss: 0.0014
+****************************************************************************************************
+y_test_tensor shape: torch.Size([450])
+outputs shape: torch.Size([450, 5])
+predicted shape: torch.Size([450])
+****************************************************************************************************
+Overall Accuracy: 0.8911

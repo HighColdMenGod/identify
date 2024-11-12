@@ -1,0 +1,802 @@
+[
+    {
+        "context": "Was sind die drei Primärfarben? Die drei Grundfarben sind rot, blau und gelb.",
+        "label": 2
+    },
+    {
+        "context": "Beschreibe die Struktur eines Atoms. Ein Atom besteht aus einem Kern, der Protonen und Neutronen enthält, umgeben von Elektronen, die in Umlaufbahnen um den Kern reisen. Die Protonen und Neutronen haben eine positive Ladung, während die Elektronen eine negative Ladung haben, was zu einem insgesamt neutralen Atom führt. Die Anzahl jedes Teilchens bestimmt die Atomzahl und den Typ des Atoms.",
+        "label": 2
+    },
+    {
+        "context": "Wie können wir die Luftverschmutzung verringern? Es gibt eine Reihe von Möglichkeiten, die Luftverschmutzung zu verringern, wie die Umstellung auf erneuerbare Energiequellen, die Förderung der Nutzung öffentlicher Verkehrsmittel, das Verbot der Verbrennung fossiler Brennstoffe, die Umsetzung von Strategien zur Verringerung der Emissionen aus industriellen Quellen und die Umsetzung von Emissionsnormen für Fahrzeuge. Darüber hinaus können Einzelpersonen ihren Teil dazu beitragen, die Luftverschmutzung zu reduzieren, indem sie den Autoverbrauch reduzieren, Materialien wie Holz vermeiden und auf energieeffiziente Geräte umsteigen.",
+        "label": 2
+    },
+    {
+        "context": "Beschreibe eine Zeit, in der du eine schwierige Entscheidung treffen musstest. Als ich als Projektmanager bei einem Bauunternehmen arbeitete, musste ich eine schwierige Entscheidung treffen. Ich war verantwortlich für ein Projekt, das bis zu einem bestimmten Datum abgeschlossen werden musste, um die Erwartungen des Kunden zu erfüllen. Aufgrund unerwarteter Verzögerungen konnten wir die Frist jedoch nicht einhalten und so musste ich eine schwierige Entscheidung treffen. Ich entschied mich, die Frist zu verlängern, aber ich musste die Ressourcen des Teams noch weiter ausdehnen und das Budget erhöhen. Obwohl es eine riskante Entscheidung war, entschied ich mich letztendlich, sie fortzusetzen, um sicherzustellen, dass das Projekt pünktlich abgeschlossen wurde und dass die Erwartungen des Kunden erfüllt wurden. Das Projekt wurde schließlich erfolgreich abgeschlossen und dies wurde als Beweis meiner Führungs- und Entscheidungsfähigkeit gesehen.",
+        "label": 2
+    },
+    {
+        "context": "Identifizieren Sie den ungeraden. Twitter, Instagram, Telegram Telegram",
+        "label": 2
+    },
+    {
+        "context": "Schreibe eine Kurzgeschichte in Third-Person-Erzählung über einen Protagonisten, der eine wichtige Berufsentscheidung treffen muss. John stand an einem Scheideweg in seinem Leben. Er hatte gerade das College abgeschlossen und stand nun vor der großen Entscheidung, welche Karriere er verfolgen sollte. Nach langem Überlegen beschloss er, Buchhalter zu werden und finanziell Benachteiligten zu helfen. Er war immer gut mit Zahlen gewesen und genoss es, die greifbaren Ergebnisse seiner Arbeit zu sehen. Er musste schnell mehrere Systeme und Vorschriften erlernen, aber er arbeitete hart und hat sich schließlich in seinem Studium ausgezeichnet. Nach einigen Jahren begann John in einer Buchhaltungsfirma in seiner Stadt zu arbeiten. Er war bestrebt, sein Wissen über Steuern und Buchhaltung in einem realen Umfeld einzusetzen. John liebte seinen Job, da er seine Kreativität bei der Suche nach Strategien ausdrücken konnte, um seinen Kunden Geld zu sparen. Nach einigen Jahren in der Kanzlei wurde er Senior Accountant und wurde gebeten, größere und anspruchsvollere Fälle zu verwalten. Er war jetzt eine angesehene Persönlichkeit in der Finanzbranche, aber er erinnert sich noch, als er gerade ein College-Absolvent war, unsicher, in welche Richtung sein Leben ihn führen würde.",
+        "label": 2
+    },
+    {
+        "context": "Bewerten Sie diesen Satz auf Rechtschreib- und Grammatikfehler Er beendete sein Essen und verließ das Restaurant Er beendete sein Essen und verließ das Restaurant.",
+        "label": 2
+    },
+    {
+        "context": "Was ist die Hauptstadt Frankreichs? Die Hauptstadt Frankreichs ist Paris.",
+        "label": 2
+    },
+    {
+        "context": "Klassifizieren Sie Folgendes in Tiere, Pflanzen und Mineralien Eiche, Kupfererz, Elefant Eiche: Pflanze Kupfererz: Mineral Elefant: Tier",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie die Verwendung von Wort-Einbettungen in Natural Language Processing Worteinbettungen sind eines der leistungsfähigsten Werkzeuge, die für die Natural Language Processing (NLP) verfügbar sind. Sie sind mathematische Darstellungen von Wörtern oder Phrasen in einem Vektorraum, die Ähnlichkeiten zwischen Wörtern und dem Kontext ermöglichen, in dem sie verwendet werden. Worteinbettungen sind nützlich für Aufgaben wie Stimmungsanalyse, Textklassifizierung, Vorhersage des nächsten Wortes in einer Sequenz und Verständnis von Synonymen und Analogien. Sie ermöglichen es, Wörter als numerische Werte zu verarbeiten, was Maschinen eine einfachere Möglichkeit gibt, NLP-Aufgaben auszuführen.",
+        "label": 2
+    },
+    {
+        "context": "Beschreibung der Funktion eines Computer-Motherboards Ein Computer-Motherboard ist die Hauptplatine eines Computers. Es ist das Rückgrat des Systems und verbindet alle anderen Komponenten wie Prozessor, RAM, Speicher, Grafikkarte und Peripherieanschlüsse. Es stellt Kommunikationswege zwischen all diesen Komponenten bereit, sodass sie interagieren und zusammenarbeiten können. Das Motherboard ist für die Regulierung der Stromversorgung verantwortlich und beherbergt auch Steckplätze für Erweiterungskarten sowie Anschlüsse für USB, Audio, Ethernet und andere Verbindungsarten.",
+        "label": 2
+    },
+    {
+        "context": "Vorschlag einer ethischen Lösung für das Problem des Datenschutzes Eine ethische Lösung für das Problem des Datenschutzes ist die Implementierung einer Opt-in-Datenerhebungsrichtlinie. Das bedeutet, dass Unternehmen ohne ausdrückliche Zustimmung der Dateninhaber keine personenbezogenen Daten erheben und verwenden können. Dieser Ansatz gibt Nutzern die Möglichkeit zu bestimmen, welche Daten Unternehmen zu welchem Zweck verwenden dürfen. Unternehmen sollten auch transparent darüber sein, wie sie die gesammelten Daten verwenden, damit Nutzer fundierte Entscheidungen treffen und Kontrolle über ihre eigenen Daten haben können.",
+        "label": 2
+    },
+    {
+        "context": "Generiere drei Verben, die dasselbe bedeuten wie \"sich entschuldigen\".",
+        "label": 2
+    },
+    {
+        "context": "Wofür steht DNA? DNA steht für Desoxyribonukleinsäure.",
+        "label": 2
+    },
+    {
+        "context": "Erzeugen Sie eine Liste von zufälligen Wörtern. Niesen, Konflikt, Vorfahre, Donner, Begleiter, Amulett, Schmiede, Schlange, vergrößern, Narr, Kaskade, Universum, Welle, Übelkeit, Oase, Anomalie, verfolgen, Entrückung, Pagode, Mosaik.",
+        "label": 2
+    },
+    {
+        "context": "Wer ist der berühmteste Maler der Welt? Der berühmteste Maler der Welt gilt allgemein als der italienische Renaissance-Künstler Leonardo da Vinci. Zu seinen Werken zählen die Mona Lisa und das Letzte Abendmahl, die beide als Meisterwerke gelten. Da Vinci war auch ein Meister der Wissenschaft und erfand unter anderem den Hubschrauber und den Panzer. Er war auch ein produktiver Musiker, Bildhauer und Architekt. Sein Werk hat Generationen von Künstlern inspiriert und wird bis heute verehrt.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie das Konzept des Verzahnungsmoments. Zahnraddrehmoment ist das Drehmoment, das auf eine rotierende Vorrichtung angewendet wird, wenn das Gerät Widerstand von den Zähnen der Zahnräder erfährt, die mit dem Gerät verbunden sind. Das Verzahnungsmoment entsteht durch die Reaktionskraft, die beim Verzahnen des Getriebeantriebs entsteht. Diese Kraft drückt gegeneinander, wodurch eine Schleppkraft entsteht, die von den Zahnrädern auf die Welle übertragen wird. Die Größe des Verzahnungsmoments kann abhängig von der Größe und Anzahl der Zähne sowie vom Material und der Konstruktion des Getriebes variieren. In den meisten motorisierten Anwendungen ist das Cogging-Drehmoment unerwünscht, da es zu Effizienzverlusten führen kann. Um das Verzahnungsmoment zu reduzieren, sind Zahnradkonstruktionen oft symmetrisch oder haben bestimmte Zahnprofile, die die Kontaktkraft zwischen den Zähnen verringern, wenn sie miteinander in Berührung kommen.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie den Prozess der Zellatmung in Pflanzen. Die Zellatmung in Pflanzen ist ein komplexer Prozess, bei dem die Pflanze Glukose in nutzbare Energie umwandelt. Der Prozess beginnt, wenn die Pflanze Kohlendioxid aus der Umwelt aufnimmt und es mit Wasser kombiniert, um Glukosemoleküle aus der Energie des Sonnenlichts zu bilden. Diese Glukose wird dann in einfachere Moleküle Kohlendioxid und Wasser zerlegt. Während dieses Prozesses wird die freigesetzte Energie verwendet, um Adenosintriphosphat (ATP)-Moleküle zu produzieren. ATP wird von der Anlage verwendet, um andere Prozesse wie Wachstum und Fortpflanzung anzutreiben. Zusätzlich kann das ATP weiter abgebaut werden, um Wärmeenergie zu erzeugen, die hilft, die Temperatur der Pflanze aufrecht zu erhalten. Die dabei entstehenden Kohlendioxid- und Wassermoleküle werden dann wieder in die Umwelt abgegeben, um den Kreislauf abzuschließen.",
+        "label": 2
+    },
+    {
+        "context": "Schreiben Sie den folgenden Satz mit aktiver Stimme neu. Der Bericht wurde vom Kapitän gelesen. Der Captain las den Nachrichtenbericht.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Liste von Adjektiven, die eine Person als mutig beschreiben. Mutig, heroisch, kühn, kräftig, tapfer, entschlossen, unerschrocken, kühn, mutig, mutig, zärtlich, mutig, hartnäckig, hartherzig, zärtlich, tapfer, furchtlos, unerschrocken, temperamentvoll, waghalsig.",
+        "label": 2
+    },
+    {
+        "context": "Die Folgen der Entwaldung umreißen. Entwaldung ist der Prozess der Rodung und Entfernung von Wäldern. Die Folgen der Entwaldung können Bodenerosion, verminderte Wasserqualität, verminderte Artenvielfalt, erhöhte Kohlendioxid in der Atmosphäre und Verlust von Lebensräumen für Wildtiere sein. Bodenerosion tritt auf, wenn die Bäume, die Wasser und Boden speichern, entfernt werden, was dazu führt, dass Bodenpartikel weggespült werden. Dies kann zu Verschlammungen in Flüssen und Bächen führen, die die Wasserqualität beeinträchtigen und zu Überschwemmungen führen. Wenn Bäume entfernt werden, verlieren Wildtiere außerdem ihren Lebensraum. Dies kann dazu führen, dass Arten gefährdet werden, was zu einem weiteren Verlust der Artenvielfalt führt. Entwaldung kann auch zu erhöhtem Kohlendioxid in der Atmosphäre führen, da weniger Bäume das Gas während der Photosynthese aufnehmen, was zum Klimawandel beitragen kann.",
+        "label": 2
+    },
+    {
+        "context": "Entwickeln Sie einen Plan zur Reduzierung des Stromverbrauchs in einem Haus. Ein Plan zur Reduzierung des Stromverbrauchs in einem Haus kann eine Reihe von verschiedenen Strategien umfassen. Dazu gehören der Austausch ineffizienter Glühbirnen durch energieeffiziente LEDs, das Trennen von Geräten und Elektronik, wenn sie nicht verwendet werden, die Verwendung von natürlichem Licht anstelle von elektrischen Lichtern, wenn möglich, die Verwendung eines berührungslosen Wasserhahns zur Reduzierung des Warmwasserverbrauchs, die Verwendung eines intelligenten Thermostats zur automatischen Überwachung und Einstellung der Temperaturen, die Installation eines solaren Warmwasserbereiters und das Ausschalten der Elektronik, wenn sie nicht verwendet wird. Darüber hinaus kann die korrekte Installation und Abdichtung von Fenstern und Türen zur Verringerung von Luftleckagen auch dazu beitragen, den Stromverbrauch zu reduzieren.",
+        "label": 2
+    },
+    {
+        "context": "Ordne die Wörter im gegebenen Satz so an, dass sie einen grammatikalisch korrekten Satz bilden. Schnell sprang der braune Fuchs Der schnelle braune Fuchs sprang schnell.",
+        "label": 2
+    },
+    {
+        "context": "Schreiben Sie den gegebenen Absatz in einer kürzeren, leichter verständlichen Form. Obwohl allgemein anerkannt ist, dass das Internet uns erlaubt hat, mit Menschen auf der ganzen Welt in Kontakt zu treten, gibt es immer noch Menschen, die nicht mit seinen grundlegenden Funktionen vertraut sind, die nicht verstehen, warum es so alltäglich geworden ist oder was seine wahren Fähigkeiten sind. Das Internet hat es uns ermöglicht, uns global zu verbinden, obwohl einige Menschen mit seinen Funktionen nicht vertraut sind, seine weitverbreitete Nutzung nicht verstehen und sein volles Potenzial nicht kennen.",
+        "label": 2
+    },
+    {
+        "context": "Entwerfen Sie ein Logo für eine Website über Recycling. Das Logo sollte ein grünes Motiv aufweisen, das erkennbar und einprägsam ist, wie z.B. ein Wertstoffsymbol oder eine stilisierte Darstellung eines Wertstoffbehälters. Das Logo sollte auch Text enthalten, der den Zweck der Website kommuniziert, wie z.B. \"Recycling\" oder \"Go Green\".",
+        "label": 2
+    },
+    {
+        "context": "Erzeuge ein Gedicht, das Freude ausdrückt. Freude fließt durch mich wie ein Fluss klar,Bringend Lachen und Glückseligkeit in meine Seele zu hören. Die Welt ist hell und wunderbar, ich kann sehen,Machen jeden Moment etwas glücklich und frei. Mein Herz fühlt sich leicht, meine Sorgen sind geflogen,Als ich entdecke, was Glück mir allein gibt. Ich öffne meine Arme und akzeptiere die Freude,Bring Leben zu meinem Lied, so süß wie ein Spielzeug. Jeder Moment ist ein kostbares Geschenk, das ich genieße und nie treiben lasse.",
+        "label": 2
+    },
+    {
+        "context": "Brainstorming mögliche Lösungen zur Verringerung der Wasserverschmutzung. - Strengere Vorschriften für die industrielle Abfallentsorgung umsetzen- den Einsatz grüner Technologien in der Abwasserbehandlung erhöhen- Anreize für Unternehmen schaffen, die ihren Wasserverbrauch und ihre Abfallerzeugung reduzieren- Bürger über Wasserschutz und Umweltverschmutzung aufklären- Recyclingprogramme anbieten, um Kunststoffabfälle zu reduzieren- Einweg-Kunststoffe durch biologisch abbaubare Alternativen ersetzen- Kanalsysteme verbessern- einheimische Pflanzenarten wiedereinführen- künstliche Feuchtgebiete und grüne Infrastruktur fördern- Filtrationssysteme in Wasseraufbereitungsanlagen bereitstellen- Best Practices für landwirtschaftliche Abflüsse implementieren- Forschung und Überwachung der Wasserqualität erhöhen- Pufferzonen zwischen aquatischen Umgebungen und landbasierten Aktivitäten einrichten.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie, warum die angegebene Definition falsch ist. Ein Maulwurf ist ein Tier, das unter der Erde lebt. Die Definition ist falsch, denn ein Maulwurf ist eigentlich ein kleines Säugetier, das über der Erde lebt und sich von Insekten ernährt. Er zeichnet sich vor allem durch seine lange Schnauze und breite, paddelartige Füße aus. Er grabt jedoch oft Höhlen, in denen er lebt und Schutz bietet.",
+        "label": 2
+    },
+    {
+        "context": "Schreibe einen kurzen Absatz über das angegebene Thema. Die Bedeutung der Nutzung erneuerbarer Energien Die Nutzung erneuerbarer Energien gewinnt rasant an Relevanz und Bedeutung, da die Welt nach Lösungen zur Bekämpfung des Klimawandels sucht. Erneuerbare Energiequellen wie Solar-, Wind- und Wasserkraft sind nachhaltig und haben eine viel geringere Umweltbelastung als herkömmliche Energiequellen wie Kohle und Öl. Die Umstellung auf erneuerbare Energien kann CO2-Emissionen reduzieren, die Luftqualität verbessern, die Abhängigkeit von nicht erneuerbaren Ressourcen verringern und eine stabile und sichere Energiezukunft schaffen. Erneuerbare Energien sind unerlässlich für eine nachhaltige Zukunft und sollten ein wichtiger Bestandteil des Energieportfolios jedes Landes sein.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie das Konzept der künstlichen Intelligenz in einfachen Worten. Künstliche Intelligenz (KI) ist die Fähigkeit von Maschinen und Computern, Entscheidungen zu treffen und Aufgaben ähnlich zu erledigen, wie Menschen. KI kann aus Daten lernen, Muster erkennen und Vorhersagen treffen. KI-Technologie kann langwierige und komplexe Prozesse automatisieren, hilft, menschliche Anstrengungen und Fehler zu reduzieren und ermöglicht genauere und effizientere Entscheidungen. KI kann in einer Vielzahl von Anwendungen eingesetzt werden, von Robotik und autonomen Fahrzeugen bis hin zu Gesundheitswesen und Finanzen. Sie wird zunehmend fester Bestandteil des Alltags.",
+        "label": 2
+    },
+    {
+        "context": "Entwerfen Sie eine App für ein Lieferunternehmen. Die App sollte es Kunden ermöglichen, Artikel von lokalen Unternehmen und Geschäften in der Nähe zu bestellen, Lieferanfragen mit detaillierten Lieferanforderungen zu stellen und ihre Bestellungen zu verfolgen. Außerdem sollte es den Kunden ermöglichen, Dienstleistungen leicht zu finden und zu bezahlen. Die App sollte es Unternehmen ermöglichen, Bestellungen zu verwalten, Lieferungen und Fahrer zu verfolgen, Liefergrenzen festzulegen und Preise festzulegen. Es sollte auch Funktionen enthalten, die Unternehmen dabei unterstützen, ihre Produkte und Dienstleistungen zu bewerben, sowie Optionen zur Bereitstellung von Kundenfeedback und Support.",
+        "label": 2
+    },
+    {
+        "context": "Fassen Sie die gegebene Passage zusammen. Eine aktuelle Studie hat gezeigt, dass der globale Klimawandel eine der wichtigsten Herausforderungen ist, vor denen die Welt heute steht. Die Folgen der globalen Erwärmung sind steigender Meeresspiegel, extreme Wetterereignisse und Verlust der Artenvielfalt. Der Klimawandel wird durch menschliche Aktivitäten wie die Verbrennung fossiler Brennstoffe verursacht, und wenn er nicht kontrolliert wird, wird er langfristige und verheerende Auswirkungen auf den Planeten haben. Eine aktuelle Studie hat ergeben, dass der globale Klimawandel eines der dringendsten Probleme der Welt ist. Neben steigendem Meeresspiegel, extremen Wetterereignissen und Verlust der Artenvielfalt wird sie vor allem durch menschliche Aktivitäten wie die Verbrennung fossiler Brennstoffe verursacht. Wenn der Klimawandel nicht kontrolliert wird, wird er weitreichende und verheerende Folgen haben.",
+        "label": 2
+    },
+    {
+        "context": "Extrahieren Sie die Fakten aus dem Absatz. Online-Bildung wird immer beliebter für Schulen und Studenten gleichermaßen. Seine Vorteile sind in der Regel niedrigere Kosten, weniger Engagement und die Fähigkeit, zu einem Zeitpunkt, Ort und Tempo zu studieren, das dem Schüler passt. Online-Bildung wird immer beliebter. Es hat mehrere Vorteile wie niedrigere Kosten, weniger Engagement und die Fähigkeit, in der eigenen Zeit und Tempo zu studieren.",
+        "label": 2
+    },
+    {
+        "context": "Bearbeiten Sie den folgenden Satz, um ihn prägnanter zu machen. Er rannte zur Bushaltestelle, um den Bus zu erwischen, der in fünf Minuten ankommen sollte. Er rannte zur Bushaltestelle, da er in fünf Minuten ankommen sollte.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie ein Beispiel für eine kulturelle Praxis. Ein Beispiel für eine kulturelle Praxis ist die japanische Teezeremonie.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie zwei Beispiele für eine Flüssigkeit. Zwei Beispiele für Flüssigkeiten sind Wasser und Öl.",
+        "label": 2
+    },
+    {
+        "context": "Welche Art von Pflanze ist ein Skunk Kohl? Skunk Kohl ist eine Art mehrjährig blühende Pflanze.",
+        "label": 2
+    },
+    {
+        "context": "Nennen Sie zwei Arten von Wüstenbiomen. Zwei Arten von Wüstenbiomen sind xerische und subpolare Wüsten.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie einen Satz, wandeln Sie ihn in passive Stimme um. Der Hund bellte die Gassenkatze an. Die Gassenkatze wurde von dem Hund angebellt.",
+        "label": 2
+    },
+    {
+        "context": "Verwandle den folgenden Satz in die passive Stimme Ich habe ein Buch gekauft Ein Buch wurde von mir gekauft.",
+        "label": 2
+    },
+    {
+        "context": "Identifizieren Sie das am besten geeignete Adverb für den folgenden Satz Sie arbeitet fleißig.",
+        "label": 2
+    },
+    {
+        "context": "Der Klimawandel ist ein zunehmend umstrittenes globales Problem. Sie hat bereits drastische Auswirkungen auf die Umwelt und das menschliche Leben. Wir beobachten bereits einen Anstieg von Extremwetterereignissen und steigenden Meeresspiegeln, die beide große Auswirkungen auf den Planeten haben. Die Hauptidee der Passage ist, dass der Klimawandel ein globales Problem ist, das sich nachteilig auf die Umwelt auswirkt und zu einem Anstieg extremer Wetterereignisse und steigendem Meeresspiegel geführt hat.",
+        "label": 2
+    },
+    {
+        "context": "Analysiere den Ton der folgenden Sätze Ich bin so verärgert mit dir im Moment Der Ton der Sätze ist wütend und anklagend.",
+        "label": 2
+    },
+    {
+        "context": "Konstruieren Sie ein Argument, um die folgende Aussage zu verteidigen Alternative Energiequellen sind entscheidend für die Lösung der Klimakrise Alternative Energiequellen sind absolut unerlässlich, um die schädlichsten Auswirkungen des Klimawandels abzumildern. Während sich die Welt von fossilen Brennstoffen hin zu nachhaltigeren Energiequellen wie Wind-, Solar- und Wasserkraft bewegt, können wir die Anzahl der Treibhausgase in der Atmosphäre reduzieren und eine weitere Erwärmung unseres Planeten verhindern. Darüber hinaus schafft der Einsatz erneuerbarer und alternativer Energiequellen Tausende von Arbeitsplätzen und kann zur Schaffung einer gesunden, stabilen Wirtschaft beitragen. Investitionen in alternative Energiequellen sind eine solide Entscheidung und ein notwendiger Schritt, wenn wir die Klimakrise wirksam angehen wollen.",
+        "label": 2
+    },
+    {
+        "context": "Konvertieren Sie den folgenden Satz in die Gegenwart fortlaufend Er liest Bücher Er liest Bücher Er liest Bücher.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie ein Beispiel für eine Metapher, die das folgende Objekt verwendet Sterne Die Sterne waren funkelnde Diamanten am Nachthimmel.",
+        "label": 2
+    },
+    {
+        "context": "Beschreibung der folgenden Person John John ist ein großer, dunkelhaariger Mann mit einem freundlichen Lächeln und einem Funkeln in den Augen. Er hat eine sanfte, fürsorgliche Natur und ist stets bestrebt, andere zu verstehen. Er hat eine Leidenschaft für das Lernen und Erforschen neuer Orte, Erfahrungen und Kulturen.",
+        "label": 2
+    },
+    {
+        "context": "Ziel ist es, den folgenden Satz zu reduzieren, ohne seine Bedeutung zu ändern. Als er hereinkam, weckte er alle auf Er weckte alle beim Betreten.",
+        "label": 2
+    },
+    {
+        "context": "Identifiziere die Konjunktionen im folgenden Satz Sie schrieb einen Brief und versiegelte ihn Die Konjunktionen im Satz sind \"und\".",
+        "label": 2
+    },
+    {
+        "context": "Schreib den folgenden Satz in die dritte Person, die ich ängstlich bin. Sie ist ängstlich.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Liste von Geschäftsideen für einen Lebensmittellieferdienst. - Bieten Sie Rabatte und Treueprogramme für Stammkunden an. Arbeiten Sie mit lokalen Restaurants zusammen und bewerben Sie deren Essen.- Trainieren Sie Lieferpersonal, um Aufträge zu bearbeiten und einen guten Kundenservice zu bieten. Nutzen Sie mobile Apps und Websites zum Bestellen.- Bieten Sie vielfältige Zahlungsmöglichkeiten für Kunden an. Ermöglichen Sie Kunden, ihre Bestellungen anzupassen.- Verpacken Sie Lebensmittel in recycelbare und kompostierbare Verpackungen. Starten Sie ein Abo-Modell für Stammkunden. Bieten Sie spezielle Dienstleistungen wie Lebensmittelvorschläge basierend auf den Präferenzen der Kunden an. Stellen Sie kontaktlose Lieferung und Abholung am Bordstein zur Verfügung. Bieten Sie Catering-Dienstleistungen für große Aufträge und besondere Veranstaltungen. Nutzen Sie Online-Marketing- und Social-Media-Plattformen, um mehr Kunden zu erreichen.- Schaffen Sie Anreize, um Kunden zu ermutigen, neue Gerichte zu probieren.- Erstellen Sie Essenssets mit allen notwendigen Zutaten und einem Rezept.- Nutzen Sie Lebensmittellieferroboter und Drohnen.- Bieten Sie ein Treuepunktesystem für Kunden an. Arbeiten Sie mit lokalen Bauern zusammen, um Produkte und Zutaten zu beschaffen. Bieten Sie vegetarische, vegane und glutenfreie Optionen an. Ermöglichen Sie den Kunden, die Lieferzeit auszuwählen. KI-gestützte Empfehlungen für Kunden umsetzen.",
+        "label": 2
+    },
+    {
+        "context": "Bearbeiten Sie den folgenden Satz, um Klarheit und Fluss zu verbessern. Das Restaurant hat gutes Essen, obwohl die Preise sind etwas teuer Das Restaurant bietet gutes Essen, aber zu einem etwas höheren Preis.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie einem nicht-technischen Publikum das Konzept eines Blasensortieralgorithmus. Ein Blasen-Sortieralgorithmus ist eine Art Sortieralgorithmus, der verwendet wird, um Elemente in einem Array zu sortieren. Es funktioniert, indem es sich jedes Element des Arrays ansieht und es mit dem nächsten Element vergleicht. Wenn das erste Element größer als das zweite Element ist, werden sie ausgetauscht. Dieser Vorgang wird wiederholt, bis das gesamte Array sortiert ist. Diese Art der Sortierung ist einer der einfachsten Sortieralgorithmen, kann aber langsam sein, wenn das Array viele Elemente hat.",
+        "label": 2
+    },
+    {
+        "context": "Mit dem folgenden Input konstruieren Sie eine kreative Geschichte. Ein magischer Pfeil und Bogen Es war einmal ein junges Mädchen namens Alexa, das mit einem unglaublichen magischen Pfeil und Bogen begabt war. Immer wenn sie ihren Bogen zurückzog und einen Pfeil fliegen ließ, wo immer er landete, geschah etwas Außergewöhnliches. Blumen blühten, Ozeane beruhigten sich und die Sonne schien heller. Alexas Pfeil und Bogen waren so mächtig, dass sie sogar das Unmögliche möglich machen konnten. Eines Tages, während eines großen Sturms, benutzte Alexa ihren magischen Pfeil und Bogen, um Ruhe und Harmonie in ihre Heimatstadt zu bringen. Sie wurde von der ganzen Stadt gelobt und gefeiert und wurde bald zum Symbol der Hoffnung und des Friedens.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Liste von Methoden, um Lebensmittelverschwendung zu reduzieren. - Shoppen Sie intelligenter und kaufen Sie nur das, was Sie brauchen. Bewahre Reste für später auf und friere sie bei Bedarf ein. - Überwachen Sie Ablaufdaten und konsumieren Sie Artikel, bevor sie schlecht werden.- Beteiligen Sie sich an gemeinschaftlichen oder öffentlichen Initiativen zum Teilen von Lebensmitteln. Reste von Lebensmitteln kompostieren. Behälter, Gläser und Beutel wiederverwenden. Nutzen Sie Restaurantrabatte, um Überbestellungen zu reduzieren.Spenden Sie Lebensmittel mit kurzen Verfallsdaten an lokale Lebensmittelbanken. Kaufe mehr Produkte, die kurz vor dem Verfallsdatum stehen und bereite sie bald vor. Bestellen Sie kleine Portionen beim Essen. Informieren Sie sich und andere über Lebensmittelverschwendung. Planen Sie Mahlzeiten im Voraus und stützen Sie Ihre Lebensmittelliste auf die Mahlzeiten. - Lebensmittel richtig lagern, um Verderb zu reduzieren. Stellen Sie sicher, dass Ihr Kühlschrank die richtige Temperatur hat.- Haben Sie ein System, um Reste im Kühlschrank zu verfolgen. - Essen Sie alle essbaren Teile der Nahrung, einschließlich Stängel und Schalen. Verwenden Sie kreative Rezepte, um das gesamte Lebensmittel zu verwenden.- Verwenden Sie Lebensmittel, die sonst für Tierfutter weggeworfen würden. Nehmen Sie an Kampagnen teil, die Nachhaltigkeit von Lebensmitteln zum Thema machen.",
+        "label": 2
+    },
+    {
+        "context": "Stellen Sie eine Idee für ein selbstfahrendes Auto vor. Meine Idee für ein selbstfahrendes Auto ist es, ein KI-System zu entwickeln, das maschinelles Lernen nutzt, um dem Auto zu helfen, seine Umgebung zu erkennen. Das KI-System wird auch in der Lage sein, aus seinen Fehlern zu lernen und seine Genauigkeit zu erhöhen. Darüber hinaus kann das selbstfahrende Auto potenzielle Gefahren erkennen und den Fahrer warnen oder gegebenenfalls Korrekturmaßnahmen ergreifen. Das Auto wird auch mit einer Nottaste ausgestattet sein, falls der Fahrer das Fahrzeug manuell steuern muss. Darüber hinaus wird das Auto in der Lage sein, automatisch zu parken und kann sich selbst zu einer nahe gelegenen Ladestation fahren, wenn die Batterie leer ist. Schließlich kann sich die Software mit Smartphones verbinden, sodass der Benutzer auch unterwegs auf sein Navigationssystem und seine Unterhaltungsoptionen zugreifen kann.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie das Konzept eines linearen Regressionsmodells in einfacher Sprache. Ein lineares Regressionsmodell ist ein Modell des maschinellen Lernens, das verwendet werden kann, um den Wert einer kontinuierlichen numerischen Variablen aus einer Reihe von Eingabevariablen vorherzusagen oder zu schätzen. In diesem Modell wird eine Linie an einen Satz von Datenpunkten angepasst, so dass die Summe des quadratischen Abstandes der Datenpunkte von der Linie minimiert wird. Diese Zeile der besten Anpassung kann dann verwendet werden, um den Wert der Ausgabevariablen basierend auf den Werten der Eingabevariablen zu schätzen.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Liste von Tipps, um Stress zu reduzieren. - Nehmen Sie sich eine Auszeit und erholen Sie sich, wenn Sie sich überfordert fühlen. - Nehmen Sie sich Zeit für sich selbst und lernen Sie zu entspannen. - Trainieren Sie regelmäßig und bekommen Sie viel Schlaf. - Hören Sie Musik, die Sie mögen, oder nehmen Sie ein warmes Bad. - Halten Sie sich an eine gesunde Ernährung voller essentieller Vitamine und Mineralien.- Wenden Sie sich an Freunde und Familie für Unterstützung.- Versuchen Sie Aromatherapie oder Yoga. Mache etwas Kreatives wie Zeichnen, Malen oder Schreiben. - Nehmen Sie an Aktivitäten teil, die Ihnen Freude und Seelenfrieden bringen. - Vermeiden Sie Drogen oder übermäßige Mengen Alkohol. - Üben Sie tiefe Atmung und progressive Muskelentspannung. - Nehmen Sie ein neues Hobby auf, um beschäftigt zu bleiben. - Teilen Sie große Aufgaben in kleinere, besser handhabbare Aufgaben auf. - Übe positives Selbstgespräch, um deine Moral hoch zu halten. - Sprechen Sie bei Bedarf mit einem Therapeuten oder vertrauenswürdigen Mentor. - Nehmen Sie sich Zeit für lustige Aktivitäten und gesellschaftliche Veranstaltungen. - Priorisieren Sie Aufgaben und erstellen Sie einen Wochenplan. - Erstellen Sie einen Aktionsplan und identifizieren Sie Lösungen für Probleme. - Lerne, dir selbst und anderen zu vergeben.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie einen Twitter-Beitrag, um Ihr neues Produkt zu bewerben. Alisha's All Natural Marmelade Wir stellen Ihnen Alisha's All Natural Marmelade vor, handgefertigt mit Liebe und nur den besten Zutaten! Machen Sie sich bereit für eine köstliche Leckerei, die Ihren Geschmacksnerven eine Geschmacksexplosion geben wird! Probieren Sie unsere fünf erstaunlichen Aromen: Erdbeere, Heidelbeere, Pfirsich, Himbeere und Brombeere. Jetzt kaufen und mit der Welt essen! # Snacktime #allnatural #Marmelade #Geschmacksnerven #frisches Obst #hausgemacht #köstlich #salztw",
+        "label": 2
+    },
+    {
+        "context": "Klassifiziere das Verb mit der folgenden Eingabe als transitiv oder intransitiv. Verbesserung Transitive.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Liste von Marketingstrategien, um eine neue mobile App zu bewerben. - Durchführung bezahlter Kampagnen auf Social Media Plattformen.- Influencer Marketing nutzen. Wenden Sie sich an Tech-Blogger und Websites.- Teilen Sie die App durch Mundpropaganda unter Freunden. Erstellen Sie Demovideos und Tutorials, um die Funktionen der App zu erklären. Ermäßigungen und besondere Anreize für Early Adopters anbieten.- Erstellen Sie eine grundlegende Website, um den Zweck und die Funktionen der App zu erklären. - Nutzen Sie die Vorteile von Optimierungstechniken für den App Store. Versenden Sie E-Mails und Newsletter, um neue Nutzer über die App zu informieren.- Achten Sie auf Auszeichnungen und gute Bewertungen im App Store.- Fügen Sie den App-Link in Ihre E-Mail-Signatur ein.- Probieren Sie Pressemitteilungen und Kampagnen aus. Ermutigen Sie Benutzer, die App im App Store zu bewerten und zu überprüfen. Nutzen Sie nutzergenerierte Inhalte zu Ihrem Vorteil. - Integrieren Sie die App in bestehende oder beliebte Apps.- Halten Sie Giveaways oder Wettbewerbe ab, um das Engagement zu steigern. Stellen Sie die App auf der Website und im Blog Ihres Unternehmens zur Verfügung. Bewerben Sie die App mit anderen Apps, Websites und Social-Media-Plattformen. - Erstellen Sie Werbeinhalte wie Blogs und Podcasts.",
+        "label": 2
+    },
+    {
+        "context": "Schreibe den Satz neu, um mehr Klarheit und Fluss zu schaffen. Die Entscheidung, ein Haus zu mieten, war eine kluge Wahl Ein Haus zu mieten, war eine kluge Entscheidung zu treffen.",
+        "label": 2
+    },
+    {
+        "context": "Design eines Logos für eine mobile Anwendung. Das Logo Design sollte einfach, modern und einzigartig sein. Es sollte das Wesen der Anwendung erfassen und ihre Funktionen kommunizieren. Das Logo sollte auffällige Farben aufweisen, und das Design sollte an verschiedene Größen und Plattformen angepasst werden können, wie Websites und mobile Geräte.",
+        "label": 2
+    },
+    {
+        "context": "Erzeugen Sie eine Liste der Ländernamen in der westlichen Hemisphäre. - Kanada- Vereinigte Staaten von Amerika–Mexiko–Brasilien- Argentinien–Chile–Kolumbien–Venezuela–Kuba–Jamaika–Ecuador- Peru–Uruguay- Paraguay–Costa Rica–Panama–Honduras–Nicaragua- Guatemala",
+        "label": 2
+    },
+    {
+        "context": "Übersetzen Sie den folgenden Satz ins Französische. Ich vermisse dich Je te manque.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie, was eine API ist. API steht für Application Programming Interface. Es handelt sich um eine Reihe von Anweisungen oder Programmieranweisungen, die es zwei Anwendungen ermöglichen, miteinander zu kommunizieren und Daten auszutauschen. APIs bieten Entwicklern die Möglichkeit, auf Daten und Dienste anderer Anwendungen oder Plattformen zuzugreifen und diese zu manipulieren. Sie sind ein wesentlicher Bestandteil der modernen Webentwicklung und ermöglichen es Entwicklern, komplexe Anwendungen und Websites mit modularen Komponenten zu entwickeln.",
+        "label": 2
+    },
+    {
+        "context": "Finden Sie die Hauptstadt Spaniens. Die Hauptstadt Spaniens ist Madrid.",
+        "label": 2
+    },
+    {
+        "context": "Klassifizieren Sie die folgende Anweisung als wahr oder falsch. Der Oberste Gerichtshof ist das höchste Gericht in den USA.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Datenbank zur Erfassung der Gehälter der Mitarbeiter. Die Datenbank sollte Felder für Mitarbeitername, Position, Gehalt und Datum enthalten. Es sollte auch ein Feld für den Manager des Mitarbeiters enthalten, damit die Gehälter fachübergreifend verteilt werden können. Die Datenbank sollte auch in der Lage sein, Berichte über Lohnausgaben für Abteilungen oder Einzelpersonen zu erstellen.",
+        "label": 2
+    },
+    {
+        "context": "Identifizieren Sie das Thema des folgenden Buches. Das Buch handelt von einer kleinen Stadt im Mittleren Westen und wie Menschen auf eine Reihe von Tragödien und unerwarteten Ereignissen reagieren, die ihr Leben erschüttern. Das Thema des Buches ist Resilienz gegenüber unerwarteten Tragödien und wie die Menschen einer Kleinstadt zusammenkommen, um schwierige Zeiten zu überwinden.",
+        "label": 2
+    },
+    {
+        "context": "Weisen Sie jedes Wort im folgenden Satz seinem Wortteil zu. Kätzchen flitzen oft aufgeregt herum. Kätzchen-Noun oftmals als Adverb scamper.Verb around.Präposition aufgeregt als Adverb",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Webseite über Robotik. Die Webseite sollte eine Einführung in die Robotik enthalten, was sie ist und wie sie in verschiedenen Branchen angewendet werden kann. Es sollte auch einen Abschnitt über die Geschichte der Robotik, einen Überblick über die wichtigsten Fortschritte auf diesem Gebiet und aktuelle Trends enthalten. Es sollten Informationen über die verschiedenen Robotertypen und ihre Anwendungen sowie Links zu Ressourcen für weitere Forschung aufgenommen werden.",
+        "label": 2
+    },
+    {
+        "context": "Was ist die am häufigsten geteilte Art von Inhalten in sozialen Medien? Die am häufigsten geteilte Art von Inhalten in sozialen Medien sind Bilder.",
+        "label": 2
+    },
+    {
+        "context": "Was ist der Hauptgedanke dieses Textes? Die Roboterindustrie hat sich zu einem der am schnellsten wachsenden Sektoren in der heutigen Wirtschaft entwickelt. Die Robotertechnologie wird in verschiedenen Branchen und Anwendungen wie Fertigung, Gesundheitswesen und Verteidigung eingesetzt. Die Hauptidee dieses Textes ist, dass Robotertechnologie in vielen verschiedenen Branchen und Anwendungen eingesetzt wird und ein schnell wachsender Sektor der heutigen Wirtschaft ist.",
+        "label": 2
+    },
+    {
+        "context": "Erzeugen Sie eine Liste der gegenwärtigen kontinuierlichen Verben. Laufen, Essen, Schlafen, Anrufen, SMS, Arbeiten, Lesen, Beobachten, Schreiben, Hören, Spielen, Kochen, Einkaufen, Tanzen, Lernen, Gehen, Fahren, Fliegen, Springen, Lachen.",
+        "label": 2
+    },
+    {
+        "context": "Denken Sie an eine Phrase oder Redewendung, die das Wort \"Schlaf\" enthält. Schlaf wie ein Baumstamm.",
+        "label": 2
+    },
+    {
+        "context": "Machen Sie eine Vorhersage darüber, was im nächsten Absatz passieren wird. Maria lebte seit vielen Jahren in der kleinen Stadt und hatte noch nie so etwas gesehen, was kommen würde. Es scheint, dass im nächsten Absatz etwas Außergewöhnliches und Ungewöhnliches passieren wird.",
+        "label": 2
+    },
+    {
+        "context": "Generieren Sie eine Überschrift für den folgenden Artikel. In diesem Artikel wird die Zukunft erneuerbarer Energiequellen in den USA diskutiert.",
+        "label": 2
+    },
+    {
+        "context": "Welche Art von Interpunktion sollte am Ende des folgenden Satzes verwendet werden? Am Ende des Satzes sollte ein Fragezeichen (() verwendet werden.",
+        "label": 2
+    },
+    {
+        "context": "Identifizieren Sie das falsche Wort und schlagen Sie eine bessere Version vor. Die Kellnerin servierte einen humorvollen Burger. Das falsche Wort ist \"humorvoll\" und sollte durch \"riesig\" ersetzt werden.",
+        "label": 2
+    },
+    {
+        "context": "Schreib diesen Satz neu, indem du den Standpunkt der dritten Person verwendest. Ich war im Laden. Er/sie ging in den Laden.",
+        "label": 2
+    },
+    {
+        "context": "Ändere diesen Satz in die Zukunftsform. Sie geht zur Schule. Sie wird zu Fuß zur Schule gehen.",
+        "label": 2
+    },
+    {
+        "context": "Fassen Sie den folgenden Artikel in Ihren eigenen Worten zusammen. Das Internet ist zu einem kritischen Teil des modernen Lebens geworden und hat die Art und Weise, wie wir kommunizieren und Geschäfte führen, revolutioniert. Es hat die schnelle, globale und kostengünstige Verbreitung von Ideen und Erfahrungen ermöglicht. Das Internet hat unser Leben drastisch verändert, indem es uns ermöglicht, einfach und schnell zu kommunizieren und Geschäfte auf der ganzen Welt zu führen. Es hat die rasche Verbreitung von Ideen und Erfahrungen weltweit ermöglicht.",
+        "label": 2
+    },
+    {
+        "context": "Was bedeutet das folgende Idiom? Es regnet Katzen und Hunde Die Redewendung \"es regnet Katzen und Hunde\" bedeutet, dass es stark regnet.",
+        "label": 2
+    },
+    {
+        "context": "Generieren Sie einen Satz mit den folgenden Wörtern in der richtigen Reihenfolge. Haus in Flammen Das Haus stand in Flammen.",
+        "label": 2
+    },
+    {
+        "context": "Ist der Satz grammatikalisch korrekt? Der Junge spielte mit ihrem Spielzeug. Ja, der Satz ist grammatikalisch korrekt.",
+        "label": 2
+    },
+    {
+        "context": "Klassifizieren Sie die Beziehung zwischen Johannes und Maria. Johannes und Maria sind Geschwister. Johannes und Maria sind Bruder und Schwester.",
+        "label": 2
+    },
+    {
+        "context": "Identifizieren Sie die Sprache, die im gegebenen Satz verwendet wird. Il est incroyable. Der Satz ist auf Französisch.",
+        "label": 2
+    },
+    {
+        "context": "Konstruieren Sie eine Phrase mit den gegebenen Wörtern Pandemie, Herausforderung, Aktion Unser Handeln angesichts der Pandemie ist die ultimative Herausforderung.",
+        "label": 2
+    },
+    {
+        "context": "Finden Sie die Synonyme für das folgende Wort: 'Tenacious'. Hartnäckig, zielstrebig, entschlossen, standhaft, unerschütterlich, unnachgiebig, hartnäckig, hartnäckig.",
+        "label": 2
+    },
+    {
+        "context": "Ich schlage ein gutes Restaurant vor. Los Angeles, CA In Los Angeles, CA, empfehle ich Rossoblu italienisches Restaurant.",
+        "label": 2
+    },
+    {
+        "context": "Schreib den Satz mit beschreibenderen Worten um. Das Spiel macht Spaß. Das Spiel ist aufregend und angenehm.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie einen kreativen Geburtstagswunsch für einen Freund. Alles Gute zum Geburtstag! Möge Ihnen dieser besondere Tag Freude, Lachen und alle Segnungen bringen, die Sie verdienen. Ich wünsche Ihnen ein schönes Jahr!",
+        "label": 2
+    },
+    {
+        "context": "Machen Sie den zweiten Satz kürzer. Der Winter ist normalerweise die kälteste Jahreszeit des Jahres. Schnee ist ein gemeinsames Element im Winter. Der Winter ist die kälteste Jahreszeit, oft begleitet von Schnee.",
+        "label": 2
+    },
+    {
+        "context": "Schreib den Satz in einer anderen Zeitform um. Er bat sie, mit ihm zu essen. Er hatte sie gebeten, mit ihm zu essen.",
+        "label": 2
+    },
+    {
+        "context": "Schreibe einen Satz mit fünf Wörtern, der deinen Tag beschreibt. Heute war ein toller Tag.",
+        "label": 2
+    },
+    {
+        "context": "Beschreiben Sie das folgende Bild in einem Satz. Das Gemälde zeigt eine weitläufige Landschaft an einem schönen Tag mit sanften Hügeln und einem Fluss, der sich durch das Gelände schlängelt.",
+        "label": 2
+    },
+    {
+        "context": "Suche im Internet und finde den Titel des längsten Romans. Der Titel des längsten Romans ist \"Gordale\", geschrieben von Carolyn Redfearn.",
+        "label": 2
+    },
+    {
+        "context": "Ändern Sie den folgenden Satz von der Singularform in die Pluralform: Die Katze trinkt. Die Katzen trinken.",
+        "label": 2
+    },
+    {
+        "context": "Analysieren Sie den folgenden Satz und finden Sie das direkte Objekt. Sie hat ein Buch geschrieben. Der direkte Gegenstand des Satzes ist \"Buch\".",
+        "label": 2
+    },
+    {
+        "context": "Bearbeiten Sie den folgenden Satz, um Grammatik- und Syntaxfehler zu korrigieren Sie waren zu spät zur Party Sie waren zu spät zur Party.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Frage, die mit dem folgenden Satz beantwortet werden kann. \"Es war ein schöner Tag\" Was für ein Tag war das?",
+        "label": 2
+    },
+    {
+        "context": "Schreiben Sie eine einfache Definition des Wortes \"Wirtschaft\". Ökonomie ist die Studie darüber, wie die Gesellschaft ihre begrenzten Ressourcen verwendet, um Waren und Dienstleistungen zu produzieren und zu verteilen.",
+        "label": 2
+    },
+    {
+        "context": "Generieren Sie einen Themensatz, um den folgenden Text einzuführen. Angesichts der zunehmenden Gewalt in der Region fliehen viele Zivilisten auf der Suche nach Sicherheit aus ihren Häusern. Aufgrund der eskalierenden Spannungen und Gewalt werden unzählige Zivilisten aus Angst um ihr Leben aus ihren Häusern gezwungen.",
+        "label": 2
+    },
+    {
+        "context": "Schreiben Sie eine Funktion, um einen angegebenen String in Großbuchstaben umzuwandeln. def toUpperCase(str): return str.upper()",
+        "label": 2
+    },
+    {
+        "context": "Eine verknüpfte Liste rückgängig machen. def reverse(head): prev.None cur.head while cur: next.next cur.next",
+        "label": 2
+    },
+    {
+        "context": "Überprüfen Sie bei einem Binärbaum, ob es sich um einen Binärsuchbaum handelt? def isBST(root):wenn root None ist: Rückgabe Trueif root.left ist nicht None und root.left.val unter root.val: Rückgabe Falseif root.right ist nicht None und root.right.val ist root.val: Rückgabe Falsereturn isBST(root.left) und isBST(root.right)",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie mir einen detaillierten Überblick über das Framework eines Webservice. Ein Webservice sollte aus mehreren Komponenten bestehen: einer Client-Anwendung, einem Satz von API (Application Programming Interface), um mit dem Client zu interagieren, einer Datenbank zum Speichern von Daten, einem Server zum Ausführen des Dienstes und einer clientseitigen Anwendung zur Verarbeitung von Anfragen. Die API sollte mit RESTful Architektur entworfen werden und der Server sollte mit einer Sprache wie Python oder Ruby gebaut werden. Die Datenbank sollte auf die Daten zugeschnitten sein, die gespeichert werden müssen, und die clientseitige Anwendung sollte die Antwort von der API verarbeiten. Darüber hinaus sollten aus Sicherheitsgründen bestimmte Anfragen verschlüsselt oder mithilfe von Authentifizierungsmechanismen gesichert werden.",
+        "label": 2
+    },
+    {
+        "context": "Paraphrasieren Sie den folgenden Satz Die Wissenschaftler führten ein rigoroses Experiment Die Wissenschaftler führten ein gründliches Experiment durch.",
+        "label": 2
+    },
+    {
+        "context": "Diese webbasierte Anwendung sollte eine Datenbank verwenden, um die Bilder und die zugehörigen Kategorisierungsinformationen zu speichern. Die Anwendung sollte es Benutzern ermöglichen, Bilder hochzuladen und ihnen Tags zuzuweisen. Zusätzlich sollte es eine Schnittstelle geben, die die Möglichkeit bietet, die Bilder nach Tags zu suchen und zu filtern. Schließlich sollte die Anwendung Computer Vision Techniken wie Objekterkennung und Bildklassifizierung verwenden, um die Bilder in Kategorien zu sortieren.",
+        "label": 2
+    },
+    {
+        "context": "Beschreiben Sie die Vor- und Nachteile der folgenden Politik Bereitstellung kostenloser Hochschulausbildung Zu den Vorteilen der Bereitstellung kostenloser Hochschulausbildung gehören die Verbesserung des Zugangs zu Bildung für Einzelpersonen aller Hintergründe, die Verbesserung des Zugangs zu qualifizierten Fachkräften, die Schaffung von Chancengleichheit für alle und die Förderung der Wirtschaft. Auf der anderen Seite könnten die Nachteile eine Erhöhung der Steuern und eine größere Belastung der Regierung, ein übermäßiger Zustrom von Absolventen in bestimmten Berufen, eine Abnahme der Bildungsqualität und ein erhöhtes Risiko einer Überbelegung an bestimmten Universitäten sein.",
+        "label": 2
+    },
+    {
+        "context": "Gestalten Sie einen Beitrag für ein Social-Media-Konto, um das folgende Produkt zu bewerben Frische Frucht Smoothie Wir stellen Ihnen unseren neuen und extra erfrischenden Frucht Smoothie vor! Hergestellt aus den frischesten Früchten, ist dieser Smoothie eine köstliche Möglichkeit, Energie zu erhalten und Ihre tägliche Dosis an Nährstoffen zu erhalten. Hol dir noch heute deine! Smoothie #fruchtsmoothie #erfrischend",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Stellenbeschreibung für die folgende Rolle Data Analytics Consultant Wir suchen einen Data Analytics Consultant zur Unterstützung unseres Betriebs. Der Berater entwickelt Strategien zum Verstehen, Interpretieren und Handeln von Daten. Der Berater sollte Erfahrung in der Datenvisualisierung und Dashboard-Entwicklung, maschinellem Lernen und Kommunikation von Daten-Insights an interne und externe Stakeholder haben. Der ideale Kandidat verfügt über hervorragende Problemlösungskompetenzen, ist detailorientiert und kann souverän mit Stakeholdern unterschiedlicher Ebenen zusammenarbeiten.",
+        "label": 2
+    },
+    {
+        "context": "Bestimmen Sie die richtige Reihenfolge für die folgenden Befehle pack, prepare, travel Die richtige Reihenfolge lautet: prepare, pack, travel.",
+        "label": 2
+    },
+    {
+        "context": "Schlagen Sie eine gute Idee für ein Familienfotoshooting vor. Wie wäre es mit einem Fotoshooting in einem Park oder Garten mit einem Picknick-Thema? Lassen Sie die Familie sich in lustige und skurrile Kleidung und Posen kleiden und verwenden Sie Requisiten wie Vintage-Möbel, Outdoor-Accessoires und Dekorationen. Eine andere Idee könnte ein Fotoshooting in einer Spielhalle oder Arkade sein, bei der die Familie Spiele in passenden Kostümen spielt.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Antwort auf die E-Mail eines Kunden über ein Erstattungsproblem. Sehr geehrte [Firma],Ich habe kürzlich ein Produkt von Ihrem Geschäft gekauft und ich bin von der Qualität enttäuscht. Ich möchte eine Rückerstattung beantragen. Sehr geehrter [Kunde],Vielen Dank, dass Sie uns darauf aufmerksam gemacht haben. Wir entschuldigen uns für das Problem mit dem Produkt. Wir werden Ihre Rückerstattungsanfrage so schnell wie möglich bearbeiten. Bitte lassen Sie uns wissen, wenn wir mit etwas anderem helfen können. Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen, [Firma]",
+        "label": 2
+    },
+    {
+        "context": "Fassen Sie den gegebenen Nachrichtenartikel in einem Satz zusammen. In der jüngsten Haushaltsankündigung hat die Kanzlerin versprochen, eine neue Arbeitszulage für Beschäftigte kleiner Unternehmen einzuführen. Die Regierung hat eine Arbeitszulage angekündigt, um Beschäftigten kleiner Unternehmen bei ihrer jüngsten Haushaltsbekanntmachung zu helfen.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie fünf Adjektive an, die ein bestimmtes Tier beschreiben. König der Löwen, mächtig, majestätisch, mutig, intelligent.",
+        "label": 2
+    },
+    {
+        "context": "Ordnen Sie die Wörter neu an, um einen kompletten Satz zu erstellen. Unterwasserkreaturen sind faszinierend Faszinierend sind Unterwasserkreaturen.",
+        "label": 2
+    },
+    {
+        "context": "Schreibe eine Geschichte, die mit dem folgenden Satz beginnt. Sie öffnete die Tür und fand eine große Gestalt in Schatten gehüllt. Sie öffnete die Tür mit zitternder Hand und erwartete, ihren Freund zu finden. Stattdessen stand eine große Gestalt in Schatten gehüllt in der Tür. Erschrocken von der unerwarteten Präsenz trat sie zurück und ihr Herz klopfte. Die Gestalt machte keinen Ton und stand still, scheinbar gedankenverloren. Sie wollte sprechen, aber bevor sie ein Wort aussprechen konnte, trat die Gestalt vor und enthüllte eine einzige Rose in der Hand. Als sie die Rose nahm, spürte sie ein überwältigendes Gefühl von etwas Unbekanntem, das sie nicht erklären konnte.",
+        "label": 2
+    },
+    {
+        "context": "Konvertieren Sie den gegebenen Satz in aktive Stimme. Hundertfünfzig Bücher wurden verkauft. Jemand verkaufte hundertfünfzig Bücher.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie, warum ein bestimmtes Thema wichtig ist. Umweltschutz Umweltschutz ist für die Erhaltung der Gesundheit unseres Planeten für zukünftige Generationen unerlässlich. Menschliche Aktivitäten wie Emissionen, Landwirtschaft und Entwaldung tragen zu Klimawandel, Luft- und Wasserverschmutzung, Verringerung der Artenvielfalt und anderen Umweltbedrohungen bei. Indem wir dem Umweltschutz Priorität einräumen, können wir die Geschwindigkeit der Umweltschäden begrenzen und natürliche Ressourcen für unsere eigene und künftige Generationen schonen.",
+        "label": 2
+    },
+    {
+        "context": "Beschreiben Sie den Klang des angegebenen Objekts. Ein Windspiel erzeugt einen ruhigen und melodischen Klang mit einer Mischung aus hohen und tiefen Tönen. Der Klang des Glockenspiels ist wie eine sanfte Brise, die die beruhigende Atmosphäre eines leichten Sommertages widerspiegelt.",
+        "label": 2
+    },
+    {
+        "context": "Schreibe den gegebenen Satz mit einem anderen, aber ähnlichen Wort neu. Sie nahm an der Veranstaltung teil. Sie nahm an der Veranstaltung teil.",
+        "label": 2
+    },
+    {
+        "context": "Klassifiziere die Eingabe entweder als Gedicht, Geschichte oder Lied. Es war einmal um Mitternacht trüb, während ich nachdachte, schwach und müde. Gedicht",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie einen Titel für die folgende Beschreibung. Eine Geschichte über eine Entdeckungsreise eines jungen Mädchens. Der Weg zur Selbstfindung",
+        "label": 2
+    },
+    {
+        "context": "Schreib den gegebenen Satz in einem formaleren Ton um. Ich musste schnell zum Laden. Ich musste einen kurzen Abstecher zum Laden machen.",
+        "label": 2
+    },
+    {
+        "context": "Schreiben Sie ein paar Sätze über eine bestimmte historische Figur. Amelia Earhart Amelia Earhart war eine amerikanische Luftfahrtpionierin und eine renommierte Luftfahrtfigur. Sie war die erste weibliche Fliegerin, die allein über den Atlantik flog. Trotz tragischer Umstände gilt sie als inspirierendes Vorbild und Symbol für Mut, Abenteuer und Entschlossenheit. Ihre bahnbrechenden Leistungen haben die Grenzen der Geschlechterrollen überschritten und viele inspiriert.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie einen Slogan für ein bestimmtes Produkt. Gesunde Snacks Ein Biss Gutes. Gesunde Snacks für die ganze Familie!",
+        "label": 2
+    },
+    {
+        "context": "Kategorisieren Sie den folgenden Text in eine der beiden Stimmungsklassen: positiv oder negativ. Ich mochte das Produkt nicht sehr, weil es zu langsam und nicht benutzerfreundlich war. Negativ.",
+        "label": 2
+    },
+    {
+        "context": "Fasse den Absatz in einem Satz zusammen. Beim Kauf von Möbeln ist es wichtig, das Gesamtbild des Raumes zu berücksichtigen. Das bedeutet, dass Sie sich fragen sollten, ob die von Ihnen ausgewählten Stücke gut zu den bestehenden Möbeln passen und wie Sie sich den Gesamtstil vorstellen. Denken Sie bei der Auswahl der Möbel an die vorhandene Einrichtung und den gewünschten Stil.",
+        "label": 2
+    },
+    {
+        "context": "Machen Sie den folgenden Satz knapper. Ich habe eine wirklich schlimme Erkältung und es macht mich wirklich unglücklich. Ich habe eine schlimme Erkältung und fühle mich unglücklich.",
+        "label": 2
+    },
+    {
+        "context": "Verwandle den folgenden Satz in eine Ja/Nein Frage. Morgen wird es regnen. Wird es morgen regnen?",
+        "label": 2
+    },
+    {
+        "context": "Verfassen Sie einen Tweet, der sich mit dem Problem der Umweltzerstörung befasst. Wir können nicht weiter Ressourcen verschwenden und #EnvironmentalDegradation ignorieren. Machen wir unseren Planeten grüner und gesünder für zukünftige Generationen. # Savetheenvironment #Umweltschutz",
+        "label": 2
+    },
+    {
+        "context": "Ersetzen Sie die unterstrichenen Wörter durch entsprechende Synonyme. Die Räuber haben ihre Partner verraten. Die Räuber verraten ihre Partner.",
+        "label": 2
+    },
+    {
+        "context": "Korrigiere die grammatikalischen Fehler im Satz. Sie kommt zum Laden, um Vorräte zu besorgen. Sie kam in den Laden, um Vorräte zu besorgen.",
+        "label": 2
+    },
+    {
+        "context": "Bestimmen Sie die Art der Beziehung zwischen den beiden Wörtern im Satz. Der Wagen fuhr am Truck vorbei. Die Beziehung zwischen den beiden Wörtern im Satz ist der Vergleich.",
+        "label": 2
+    },
+    {
+        "context": "Verfassen Sie einen informativen Satz, der den gegebenen Begriff erklärt. Grüne Anleihen Grüne Anleihen sind Schuldtitel, die zur Finanzierung von Projekten zur Eindämmung des Klimawandels und zur Förderung einer nachhaltigen Entwicklung ausgegeben werden.",
+        "label": 2
+    },
+    {
+        "context": "Schreib den folgenden Satz neu, ohne die Bedeutung zu ändern. Der Verkaufsbericht war nicht korrekt. Der Verkaufsbericht war ungenau.",
+        "label": 2
+    },
+    {
+        "context": "Schreiben Sie eine kurze Rezension zum Roman \"Der Fänger im Roggen\". Ich las kürzlich \"Der Fänger im Roggen\" und war beeindruckt von J.D. Salingers Fähigkeit, die Kämpfe des Teenagerlebens einzufangen. Diese Coming-of-Age-Geschichte erzählt die Geschichte von Holden Caulfields Reise ins Erwachsenenalter, während er die Themen Identität, Entfremdung und Verzweiflung steuert. Der Roman schafft es, durch seine humorvolle und lebendige Schrift Licht auf schwierige Themen zu werfen und macht ihn zu einem unterhaltsamen und zum Nachdenken anregenden Lesen.",
+        "label": 2
+    },
+    {
+        "context": "Identifizieren Sie das folgende Tier. Er hat dickes Fell, einen langen Schwanz und spitze Ohren. Das Tier ist ein Fuchs.",
+        "label": 2
+    },
+    {
+        "context": "Beschreiben Sie die Auswirkungen des Coronavirus auf die Wirtschaft. Das Coronavirus hatte große Auswirkungen auf die Wirtschaft und verursachte Störungen in Branchen wie Tourismus, Reisen, Gastgewerbe, Einzelhandel und mehr. Diese Branchen verzeichneten einen starken Rückgang der Aktivität, was zu steigenden Arbeitslosenquoten, einer Schwächung der Aktienmärkte und geringeren Konsumausgaben führte. Geschäftsschließungen sind weit verbreitet, und einige Unternehmen wurden sogar gezwungen, ihre Türen dauerhaft zu schließen. Infolgedessen wurde die Finanz- und Geldpolitik von den Regierungen übernommen, um den Konjunkturabschwung einzudämmen.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie einen Pitch für ein neues und originelles Produkt. Wir stellen das revolutionäre neue Produkt vor, das die Welt im Sturm erobert: den SmartBat! Der SmartBat ist ein revolutionäres Gerät, das die Funktionen eines Smartphones, eines sprachgesteuerten KI-Assistenten und eines Bewegungssensors in einem praktischen Fledermaus-förmigen Gerät vereint. Mit seiner intuitiven Benutzeroberfläche und leistungsstarken KI ist der SmartBat der perfekte Begleiter für alle unterwegs, die vernetzt und informiert bleiben möchten. Ob im Büro oder zu Hause, der SmartBat bietet Ihnen innovative Funktionen. Also warten Sie nicht, holen Sie sich noch heute Ihren SmartBat und heben Sie Ihr Leben auf die nächste Ebene!",
+        "label": 2
+    },
+    {
+        "context": "Verfassen Sie ein Sonett über die Schönheit der Natur. Die Schönheit der Natur ist für immer großartig,Ein Anblick, über das ganze Land zu staunen. Der Himmel oben, die Erde unten in der Hand,So viel zu sehen, kann kein Auge verstehen. Die Bäume, die sich auf die Nachfrage des Himmels erstrecken,Der Tanz der Blumen wie ein seltsames Band,Siehe das sanfte Flüstern des Windes groß,Wie es die Blätter auf Befehl der Natur raschelt. Die Flüsse, die falten, eilen und fließen,Zum Meer wie einige süße Understated Show,Die Sonne, verborgen im Nebel, welch ein glorreiches Leuchten,Es wirft, wie seine Wärme in seiner Umarmung staut. Oh, die Schönheit der Natur, für immer groß,Eine Vision zu inspirieren, mit Freude, die groß ist.",
+        "label": 2
+    },
+    {
+        "context": "Schreiben Sie den folgenden Satz neu, so dass er in aktiver Stimme ist. Das Problem wird von ihr gelöst. Sie löst das Problem.",
+        "label": 2
+    },
+    {
+        "context": "Was ist der Unterschied zwischen einem Virus und einem Wurm? Der Hauptunterschied zwischen einem Virus und einem Wurm besteht darin, dass ein Virus Interaktion des Benutzers erfordert, um sich zu verbreiten, während ein Wurm sich von einem Computer zum anderen selbst ausbreiten kann. Viren können Dateien verändern und Daten beschädigen, wohingegen Würmer im Allgemeinen darauf ausgelegt sind, sich selbst zu replizieren und sich auf andere Computer zu verbreiten. Viren können sich auch über infizierte Medien und Dateien auf andere Computer ausbreiten, während Würmer normalerweise Sicherheitslücken ausnutzen, um sich zu verbreiten.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie das Konzept der Blockchain. Die Blockchain ist eine verteilte Ledger-Technologie, die verwendet wird, um Transaktionen zu speichern und aufzuzeichnen. Es wird über ein Netzwerk von Computern auf der ganzen Welt gesichert, was es sowohl sicher als auch dezentral macht, da es keine zentrale Behörde gibt, die die darin gespeicherten Daten kontrolliert. Jeder \"Block\" innerhalb der Blockchain enthält eine eindeutige Aufzeichnung einer Transaktion oder eines Ereignisses, die auf kryptographisch sichere Weise in der Blockchain aufgezeichnet wird. Die Blockchain ist unveränderlich, was bedeutet, dass eine Transaktion, sobald sie aufgezeichnet wurde, nicht geändert oder gelöscht werden kann, was eine dauerhafte und sichere Aufzeichnung von Informationen bietet.",
+        "label": 2
+    },
+    {
+        "context": "Was ist die Kontraktion von \"sie sind\"? Die Kontraktion von \"sie sind\" ist \"sie sind\".",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie eine Liste der Gegenstände für ein Picknick. Eine Picknickliste sollte Gegenstände wie: Sandwiches, Chips, Obst, Gemüse, Cracker, Aufstriche, Käse, Getränke und Snacks enthalten. Optionale Gegenstände können Besteck und Teller, eine Decke zum Sitzen, Sonnencreme, Mützen und Sonnenbrillen, Insektenschutzmittel, Spielkarten oder Gesellschaftsspiele, ein Frisbee oder Ball zum Spielen und bei Bedarf Eispackungen sein.",
+        "label": 2
+    },
+    {
+        "context": "Klassifizieren Sie den gegebenen Artikel entweder als positive oder negative Stimmung. Das neue Auto ist eine Enttäuschung. Die Pausen sind schrecklich und kosten viel zu viel für die angebotenen Funktionen. Negativ",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie an, wie die folgenden Charaktere im Roman das Thema des \"korrumpierenden Einflusses der Macht\" reflektieren. Gregoire in Zolas Germinal Gregoire dient als Beispiel für den korrumpierenden Einfluss der Macht im Roman Germinal. Als einziger der Bergleute, der in die oberen Ränge des Bergbauunternehmens aufsteigt, wendet Gregoire seinen ehemaligen Kameraden den Rücken zu, um seine eigenen Interessen zu fördern. Er verwandelt sich vom loyalen und freundlichen Bergmann zu einem gefühllosen Aufseher, der Freude daran hat, den Geist der Bergleute zu zerschlagen und sie für die kleinsten Vergehen zu bestrafen. Seine Verwandlung ist ein deutliches Beispiel dafür, wie die von Macht korrumpierten die Fähigkeit haben, so viel herzloser und rücksichtsloser zu sein als zuvor, und seine Reise fasst das Thema des \"korrumpierenden Einflusses der Macht\" zusammen.",
+        "label": 2
+    },
+    {
+        "context": "Schreib den folgenden Satz neu, um logische Irrtümer zu vermeiden. Dieses Medikament wird alle Ihre gesundheitlichen Probleme heilen; Du solltest mir vertrauen, weil ich Arzt bin. Angesichts meiner Ausbildung als Arzt wird dieses Medikament wahrscheinlich eine positive Wirkung auf die meisten Gesundheitsprobleme bieten.",
+        "label": 2
+    },
+    {
+        "context": "Nennen Sie zwei verschiedene Möglichkeiten, Armut in einer Gemeinschaft zu reduzieren. Zwei verschiedene Wege, die Armut in einer Gemeinschaft zu verringern, sind die Entwicklung von Initiativen zur wirtschaftlichen Entwicklung, um Arbeitsplätze und Geschäftsmöglichkeiten zu schaffen, und der Zugang zu Gesundheitsversorgung und Bildung zu verbessern, um den Menschen die Werkzeuge zu geben, die sie zum Erfolg benötigen.",
+        "label": 2
+    },
+    {
+        "context": "Generieren Sie einen Satz, der der Struktur folgt: \"Alles ______ basiert auf/mit _____\" Jeder Erfolg basiert auf harter Arbeit und Hingabe.",
+        "label": 2
+    },
+    {
+        "context": "Beschreiben Sie den Grundsatz des Versorgungsgesetzes. Das Versorgungsgesetz besagt, dass mit steigendem Preis für ein Produkt oder eine Dienstleistung auch die auf den Markt gelieferte Menge steigt, da die Produzenten durch das erhöhte Gewinnpotenzial angeregt werden. Wenn der Preis eines Produkts oder einer Dienstleistung sinkt, sinkt auch die Menge, die an den Markt geliefert wird, aufgrund des verringerten Gewinnpotenzials.",
+        "label": 2
+    },
+    {
+        "context": "Beschreiben Sie die Themen, die in dem gegebenen Gedicht vorhanden sind. Gedicht:Wir treten hinaus in die Nacht Wo die Sterne weinen wie nur Einsamkeit kann Und Liebe machen in der Dunkelheit Das Gedicht \"Wir treten hinaus in die Nacht\" berührt Themen der Liebe, Einsamkeit und die Schönheit des Nachthimmels. Die Bilder von Sternen, die wie Einsamkeit weinen, können auf ein melancholisches Gefühl hindeuten, was impliziert, dass Liebe sowohl notwendig als auch wünschenswert ist, aber auch schwierig oder schmerzhaft sein kann. Dies kann die Übergangsart des Lebens und die Schwierigkeiten symbolisieren, seinen Platz in der Welt zu finden.",
+        "label": 2
+    },
+    {
+        "context": "Erzeuge ein Haiku-Gedicht. Tau auf einem Blatt glitzernEine sanfte Sommerbrise raschelt in der Nähe Zikadenlied",
+        "label": 2
+    },
+    {
+        "context": "Entwerfen Sie ein Logo für ein Webentwicklungsunternehmen. Entwerfen Sie ein Logo, das modern und professionell ist. Verwenden Sie eine Kombination aus Blau, Grün und Orange für das Farbschema. Das Logo sollte einen abstrakten Kreis in der Mitte enthalten, mit zwei Dreiecken auf beiden Seiten, um die Website zu repräsentieren, die sich im Aufbau befindet. Fügen Sie den Firmennamen innerhalb des Kreises oder um die Ränder ein. Die Schrift sollte fett und lesbar sein. Das Logo sollte einfach und dennoch auffällig sein.",
+        "label": 2
+    },
+    {
+        "context": "Vergleichen Sie Hunde und Katzen. Katzen und Hunde sind beide geliebte Haustiere, aber sie haben wichtige Unterschiede. Hunde sind normalerweise aufgeschlossener und energiegeladener, während Katzen als unabhängiger gelten. Hunde neigen dazu, geselliger und aktiver zu sein, spazieren spazieren zu gehen und mit anderen Tieren zu spielen. Katzen hingegen sind eher einsam und ziehen es vor, sich an einem warmen Ort zu entspannen und zu kuscheln. Hunde benötigen normalerweise mehr Pflege und Aufmerksamkeit, während Katzen autarker sind. Trotz dieser Unterschiede bleiben Katzen und Hunde beliebte und liebende Haustiere.",
+        "label": 2
+    },
+    {
+        "context": "Nennen Sie drei Früchte, die reich an Vitamin C sind. Orangen, Grapefruits und Zitronen.",
+        "label": 2
+    },
+    {
+        "context": "Übersetze diesen Satz aus dem Französischen ins Englische. J'aime faire de la randonnée. Ich gehe gerne wandern.",
+        "label": 2
+    },
+    {
+        "context": "Was ist der Zweck der Finanzbuchhaltung? Der Zweck der Finanzbuchhaltung ist es, relevante und genaue Informationen bereitzustellen, die Unternehmen dabei unterstützen, fundierte Entscheidungen zu treffen und ihre Finanzen effektiv zu verwalten. Es bietet auch eine zuverlässige Aufzeichnung ihrer Finanztransaktionen, die für die Durchführung von Geschäften unerlässlich ist.",
+        "label": 2
+    },
+    {
+        "context": "Beschreibe eine einzigartige Art, ein Steak zu kochen. Eine einzigartige Möglichkeit, ein Steak zu kochen, ist Sous-Vide. Bei dieser Methode wird das Steak langsam in einem versiegelten Beutel mit eigenen Säften bei niedriger Temperatur gegart. Das Steak wird vakuumversiegelt, dann in einem Wasserbad bei einer präzisen Temperatur für einen längeren Zeitraum gegart, um sicherzustellen, dass es vollständig durchgegart ist, aber trotzdem zart und saftig.",
+        "label": 2
+    },
+    {
+        "context": "Zusammenfassung der Vorteile erneuerbarer Energien: Erneuerbare Energien wie Solar und Wind sind sauber, nachhaltig und reichlich vorhanden. Sie reduzieren die Luft- und Wasserverschmutzung, helfen wertvolle Ökosysteme zu erhalten und schaffen Arbeitsplätze, die nicht ausgelagert werden können. Erneuerbare Energien haben auch das Potenzial, die Emissionen der globalen Erwärmung drastisch zu reduzieren und den Klimawandel zu bekämpfen, was sie für die Zukunft der Menschheit und des Planeten unerlässlich macht.",
+        "label": 2
+    },
+    {
+        "context": "Identifizieren Sie das falsche Wort in diesem Satz. Die Sängerin schnallte freudig ihr Solo. ihre",
+        "label": 2
+    },
+    {
+        "context": "Schlagen Sie ein kraftvolles Zitat vor. \"Mit der Kraft des Willens ist alles möglich.\" – Unbekannt",
+        "label": 2
+    },
+    {
+        "context": "Sortieren Sie die folgende Liste in alphabetischer Reihenfolge. Tarnung, Möbel, Putzmöbel, Tarnung, Gips",
+        "label": 2
+    },
+    {
+        "context": "Was ist ein Handelsdefizit? Ein Handelsdefizit ist eine Situation, in der ein Land mehr Waren importiert als exportiert. Sie tritt auf, wenn der Wert der Ausfuhren des Landes unter den Wert seiner Einfuhren fällt. Sie wird typischerweise anhand des Gesamtwerts der Waren und Dienstleistungen bewertet, die ein Land über einen bestimmten Zeitraum importiert und exportiert.",
+        "label": 2
+    },
+    {
+        "context": "Nennen Sie einen Vorteil der Meditation. Ein Vorteil der Meditation ist die Verringerung des Stressniveaus. Durch regelmäßiges Üben hilft Meditation, den Geist zu fokussieren, was zu verbesserter Konzentration und Bewusstsein führen kann. Dies kann helfen, Gefühle von Stress, Angst und Depression zu lindern und die Schlafqualität zu verbessern.",
+        "label": 2
+    },
+    {
+        "context": "Nennen Sie die drei wichtigsten Gebirgszüge in den Vereinigten Staaten. Die drei wichtigsten Gebirgszüge in den Vereinigten Staaten sind die Rocky Mountains, die Appalachen Mountains und die Sierra Nevada Mountains.",
+        "label": 2
+    },
+    {
+        "context": "Weisen Sie diese Aufgabe dem Designteam zu. Entwerfen Sie ein Kommunikationstool für interne Teammitglieder. Dem Designteam wurde die Aufgabe übertragen, ein Kommunikationstool für interne Teammitglieder zu entwerfen.",
+        "label": 2
+    },
+    {
+        "context": "Stellen Sie den Text für den Song mit dem Titel \"Yesterday\" Gestern, alle meine Probleme schienen so weit weg Jetzt sieht es so aus, als ob sie hier sind, um zu bleiben Oh, ich glaube an gestern Plötzlich bin ich nicht halb der Mann, der ich früher war Es hängt ein Schatten über mir Oh, gestern kam plötzlich",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie eine kurze Zusammenfassung des Romans \"Never Let Me Go\". Never Let Me Go ist ein dystopischer Roman von Kazuo Ishiguro, der die Geschichte von drei Freunden erzählt, die zusammen eine Schule besuchten, die sie ohne Wissen auf ein düsteres Schicksal vorbereitete. Wenn sie aufwachsen, beginnen sie, ihren wahren Zweck zu verstehen und sind gezwungen, sich den moralischen und ethischen Dilemmata zu stellen, die ihr bevorstehendes Schicksal mit sich bringt.",
+        "label": 2
+    },
+    {
+        "context": "Bearbeiten Sie den folgenden Satz so, dass er die richtige Grammatik hat. Ich wollte gerade in den Laden. Ich wollte gerade in den Laden.",
+        "label": 2
+    },
+    {
+        "context": "Nennen Sie etwas, was Sie mit Papier machen können. Schreiben, zeichnen, malen, falten, schneiden, origami, machen Sie ein Papierflugzeug, Collage, erstellen Sie eine Pop-up-Karte, shred, laminieren.",
+        "label": 2
+    },
+    {
+        "context": "Konstruiere einen Satz mit dem Satz \"jeden Tag\". Ich mache jeden Tag etwas Neues.",
+        "label": 2
+    },
+    {
+        "context": "Welche Art von Obst wäre eine gute Ergänzung zu einem Obstsalat? Erdbeeren, Heidelbeeren, Himbeeren, Trauben, Kiwi, Orangen, Äpfel, Birnen, Mangos, Papayas und Ananas.",
+        "label": 2
+    },
+    {
+        "context": "Beschreiben Sie in wenigen Worten, was einen guten Führer ausmacht. Ein guter Leader ist motiviert, selbstbewusst, überzeugend, inspirierend, organisiert und zuverlässig.",
+        "label": 2
+    },
+    {
+        "context": "Finde ein reimendes Wort für das Wort \"Fluss\". Geber.",
+        "label": 2
+    },
+    {
+        "context": "Was ist der wissenschaftliche Name für einen Biber? Der wissenschaftliche Name für einen Biber ist Castor canadensis.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie eine Definition von \"Algen\". Algen sind eine große und vielfältige Gruppe einfacher, typischerweise autotropher Organismen, die von einzelligen bis mehrzelligen Formen reichen. Sie reichen von mikroskopisch kleinen bis großen Algen und werden im selben Königreich wie Pflanzen klassifiziert, obwohl sie im Gegensatz zu Pflanzen wahre Wurzeln, Stängel und Blätter fehlen. Algen leben typischerweise in feuchten Umgebungen, einschließlich Meeres-, Süßwasser- und terrestrischen Systemen.",
+        "label": 2
+    },
+    {
+        "context": "Nennen Sie einen natürlichen Prozess, der bei der Konservierung von Lebensmitteln auftritt. Ein natürlicher Prozess, der bei der Konservierung von Lebensmitteln auftritt, ist die Fermentation.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie einen Satz, um dieses Sprichwort zu vervollständigen: \"Es ist besser, sicher zu sein als ___.\" Es ist besser, sicher zu sein als traurig.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie ein Beispiel für eine konvergente Grenze. Ein Beispiel für eine konvergente Grenze ist die Grenze zwischen der Nordamerikanischen Platte und der Pazifischen Platte, die konvergiert, um die Sierra Nevada Mountains zu bilden.",
+        "label": 2
+    },
+    {
+        "context": "Folgen Sie dem Gesetz von Angebot und Nachfrage, beschreiben Sie, was mit dem Preis eines Gutes passieren würde, wenn die Nachfrage steigt. Steigt die Nachfrage nach einem Gut, steigt der Preis der Ware, um die Nachfrage mit dem verfügbaren Angebot auszugleichen. Denn wenn die Nachfrage das Angebot übersteigt, müssen die Preise steigen, um Ressourcen rationieren zu können und zu verhindern, dass die Vorräte ausgehen.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie ein Beispiel für eine vom Aussterben bedrohte Tierart. Der Schneeleopard (Panthera uncia) ist eine vom Aussterben bedrohte Tierart, die in den Bergen Zentral- und Südasiens heimisch ist.",
+        "label": 2
+    },
+    {
+        "context": "Recherche über einen berühmten Wissenschaftler und eine kurze Biographie über ihn/sie. Marie Curie war eine polnisch-französische Wissenschaftlerin, die für ihre Beiträge zur Untersuchung der Radioaktivität bekannt ist. Sie gewann zwei Nobelpreise für Physik und Chemie und war damit die einzige Frau, die zwei gewann. Ihre Forschung über die Natur der Radioaktivität revolutionierte unser Verständnis des Atoms und läutete eine neue Ära der Nuklearwissenschaft und -entdeckung ein. Sie gründete die ersten Forschungslabore für die Untersuchung von Strahlung und gab dem Element Polonium ihren Namen, das nach ihrer Heimat Polen benannt ist.",
+        "label": 2
+    },
+    {
+        "context": "Erforschen Sie Einsteins Relativitätstheorie und geben Sie eine kurze Erklärung. Albert Einsteins Relativitätstheorie ist eine Gravitationstheorie, die besagt, dass die Gesetze der Physik in allen gleichmäßig bewegten Bezugsrahmen gleich sind, unabhängig von der Geschwindigkeit oder Richtung der Bewegung. Das bedeutet, dass Raum und Zeit miteinander verbunden sind und ein vierdimensionales Kontinuum bilden, das als \"Raum-Zeit\" bekannt ist. Dazu gehört auch der Begriff der Zeitdilatation, bei der der Zeitablauf je nach Geschwindigkeit des Beobachters beschleunigt oder verlangsamt wird.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie einen Satz, der eine Redeform verwendet. Er war ein Nervenbündel, wie ein Schmetterling im Schneesturm.",
+        "label": 2
+    },
+    {
+        "context": "Erstellen Sie einen Satz auf Spanisch, der die natürliche Schönheit Barcelonas beschreibt. La naturaleza en Barcelona ist besonders, con su costa y su antiguo barrio gótico.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie das Konzept der Entropie in der Thermodynamik. In der Thermodynamik ist Entropie ein Maß für die Zufälligkeit eines Systems und seine Fähigkeit, nützliche Arbeit zu erzeugen. Es ist eng mit dem zweiten Gesetz der Thermodynamik verbunden, das besagt, dass Entropie eines Systems niemals im Laufe der Zeit abnehmen kann, wenn nicht Energie hinzugefügt wird. Entropie ist unerlässlich, um zu verstehen, wie Wärmeübertragung und chemische Prozesse in der Natur ablaufen.",
+        "label": 2
+    },
+    {
+        "context": "Geben Sie ein Beispiel für eine nicht erneuerbare Energiequelle. Eine nicht erneuerbare Energiequelle ist eine, die nicht in der Lage ist, auf menschlicher Zeitskala aufgefüllt zu werden. Beispiele für nicht erneuerbare Energien sind fossile Brennstoffe wie Erdöl, Erdgas und Kohle sowie Kernenergie. Diese Energiequellen sind begrenzt und werden im Laufe der Zeit erschöpft.",
+        "label": 2
+    },
+    {
+        "context": "Beschreiben Sie die wichtigsten Unterschiede zwischen dem katholischen und protestantischen Glauben. Die beiden Hauptzweige des Christentums, Katholizismus und Protestantismus, unterscheiden sich in ihren Überzeugungen zu vielen wichtigen Themen. Katholiken erkennen den Papst als höchste Autorität in der Kirche an, während der Protestantismus in eine breite Palette von Konfessionen unterteilt ist, die andere Formen von Autorität wie die Bibel oder Kirchenräte anerkennen. Katholiken erkennen sieben Sakramente an, während Protestanten nur zwei Sakramente anerkennen: Taufe und Kommunion. Katholiken glauben auch an die Transsubstantiation, den Glauben, dass Brot und Wein während des Abendmahlssakraments buchstäblich Leib und Blut Jesu Christi werden.",
+        "label": 2
+    },
+    {
+        "context": "Was ist der Prozess der Photosynthese und warum ist er wichtig? Die Photosynthese ist der Prozess, bei dem Pflanzen Sonnenlicht in Nahrungsenergie umwandeln. Dabei nimmt die Pflanze Kohlendioxid aus der Luft auf und kombiniert es mit Wasser zu Glukose und Sauerstoff. Diese Glukose wird dann zur Erzeugung von Energie für die Pflanze und Sauerstoff verwendet, der in die Luft freigesetzt wird. Die Photosynthese ist wichtig, da sie eine wichtige Nahrungsquelle für lebende Organismen darstellt und auch für den Erhalt der Erdatmosphäre verantwortlich ist.",
+        "label": 2
+    },
+    {
+        "context": "Schreiben Sie ein Haiku über Katzen Katzen rollen sich schnurrend auf, weiche Begleiter, die uns beruhigt halten, In friedlichem Trost.",
+        "label": 2
+    },
+    {
+        "context": "Was sind die wichtigen Beiträge der NASA zur Weltraumforschung? Die NASA hat im Laufe der Jahre bedeutende Beiträge zur Weltraumforschung geleistet, wie die Entwicklung des ersten wiederverwendbaren Raumschiffs, den Start von Satelliten, die die globale Kommunikation ermöglichten, die Entwicklung eines umfangreichen Katalogs des Universums und robotische Erkundungen anderer Planeten und Monde. Ihre Forschung hat zahlreiche wissenschaftliche Entdeckungen freigelegt, die unser Verständnis des Universums und unseres Platzes in ihm erheblich verbessert haben. NASA-Programme haben auch inspirierende Sprünge für die Menschheit ermöglicht, wie zum Beispiel auf dem Mond zu laufen, robotische Forscher auf den Mars zu starten und normalen Bürgern Raumfahrt zu ermöglichen.",
+        "label": 2
+    },
+    {
+        "context": "Schreib diesen Satz neu: \"Sie macht eine kurze Pause von der Übung\" Sie nimmt eine kurze Pause von der Übung Sie nimmt eine Pause von ihren Proben.",
+        "label": 2
+    },
+    {
+        "context": "Wenn der Riese den Jungen trifft, wird Freundschaft die Angst besiegen.",
+        "label": 2
+    },
+    {
+        "context": "Gute Führungskräfte besitzen Eigenschaften wie Selbstvertrauen, starke Kommunikationsfähigkeiten, Integrität, Empathie, Offenheit für Feedback, Verantwortlichkeit und starke Entscheidungsfähigkeiten. Sie sind in der Lage, Menschen zu motivieren und zu inspirieren, auf ein gemeinsames Ziel hinzuarbeiten, ein positives Arbeitsumfeld zu schaffen, Probleme zu lösen, Aufgaben effektiv zu delegieren und mit gutem Beispiel voranzugehen. Gute Führungskräfte besitzen auch emotionale Intelligenz und bringen das Beste aus den Menschen heraus, indem sie ihre Stärken erkennen und ihre Schwächen verstehen.",
+        "label": 2
+    },
+    {
+        "context": "Erklären Sie den Unterschied zwischen einem Personal Computer und einem Server Ein Personal Computer (PC) ist ein Desktop- oder Laptop-Gerät, das normalerweise von einer Person für persönliche Aktivitäten verwendet wird. Es ist mit anderen Geräten im selben Netzwerk verbunden und kann auf Online-Dienste zugreifen. Ein Server ist ein Computer, der zum Verwalten, Speichern und Verknüpfen mehrerer Computer und Anwendungen entwickelt wurde. Es wird in der Regel verwendet, um Dienste für eine große Anzahl von Benutzern bereitzustellen, wie Online-Anwendungen und Websites. Server sind im Allgemeinen leistungsfähiger als PCs und verfügen über größere Datenspeicher- und Verarbeitungsmöglichkeiten.",
+        "label": 2
+    }
+]
